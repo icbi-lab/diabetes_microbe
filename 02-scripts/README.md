@@ -10,4 +10,5 @@ Samplesheet available at diabetes_microbe/01-tables/nf-core_ampliseq
 ##  Analysis
 
 01_compositional.R  - The stacked bar plot depicts the relative abundance for the 10 most abundant families in all samples
+02_upsetplot.ipynb - UpSetPlot visualizing the set overlap for all the recorded families 
 
