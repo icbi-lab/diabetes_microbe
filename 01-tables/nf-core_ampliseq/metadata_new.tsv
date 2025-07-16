@@ -1,0 +1,50 @@
+id	sample_information	age	KHK1	KHK2	CA1	CA2	HbA1C (DCCT/NGSP)1	HbA1C (DCCT/NGSP)2	Glukose1	Glukose2	BMI1	BMI2	Pankreatektomie	HbA1C_diff	Glukose_diff	BMI_diff	KHK_diff	CA_diff
+s20011_0048	PDM12	75	ja	nein	ja	ja	7.4	8.6	92	303	22.6	24.9	Teilresektion rechts	increase	increase	increase	resolved	persistent
+s20011_0023	PDM17	71	ja	ja	ja	ja	8.7	7.7	160	70	20.3	20.3	nein	decrease	decrease	decrease	persistent	persistent
+s20011_0019	DM4	39	nein	nein	nein	nein	8.1	7.6	309	92	21.6	22.8	nein	decrease	decrease	increase	absent	absent
+s20011_0002	PDM1	71	ja	ja	nein	nein	6.7	8.2	128	5.3	18.5	18.8	nein	increase	decrease	increase	persistent	absent
+s20011_0007	PDM2	69	ja	ja	nein	nein	7.4	7.2	139	263	28.6	26.9	nein	decrease	increase	decrease	persistent	absent
+s20011_0008	PDM14	69	ja	ja	nein	nein	8.5	8.3	154	275	32.1	32.1	nein	decrease	increase	decrease	persistent	absent
+s20011_0003	PDM13	68	nein	ja	nein	nein	7.7	8.7	84	192	34.4	36.5	nein	increase	increase	increase	onset	absent
+s20011_0033	DM7	66	ja	ja	nein	nein	6.9	6.7	100	192	34.7	34.7	nein	decrease	increase	decrease	persistent	absent
+s20011_0022	PDM5	65	ja	ja	ja	ja	13.2	10.5	598	118	26.2	28.2	Teilresektion links	decrease	decrease	increase	persistent	persistent
+s20011_0018	PDM16	66	ja	ja	ja	ja	14.2	10.7	110	120	28.2	28.8	Teilresektion links	decrease	increase	increase	persistent	persistent
+s20011_0014	DM3	54	ja	ja	nein	nein	7.8	8.4	108	165	23.1	23.5	nein	increase	increase	increase	persistent	absent
+s20011_0013	PDM15	62	nein	nein	nein	nein	7.6	8	152	179	21.8	20.1	nein	increase	increase	decrease	absent	absent
+s20011_0044	PDM10	62	nein	nein	nein	ja	7.9	8	306	183	28.7	24.1	nein	increase	decrease	decrease	absent	onset
+s20011_0037	DM8	61	nein	nein	nein	nein	7.4	7.9	368	246	23.1	23.4	nein	increase	decrease	increase	absent	absent
+s20011_0041	DM9	55	nein	nein	nein	nein	6.4	7	197	257	26.1	25.8	nein	increase	increase	decrease	absent	absent
+s20011_0004	DM1	50	ja	nein	nein	nein	7.4	6.8	111	131	28.2	31.9	nein	decrease	increase	increase	resolved	absent
+s20011_0029	DM6	52	nein	nein	nein	nein	7.2	7.3	251	193	22.8	23.1	nein	increase	decrease	increase	absent	absent
+s20011_0027	PDM6	74	ja	ja	nein	nein	8.5	8.6	126	85	21.5	22.3	Resektion	increase	decrease	increase	persistent	absent
+s20011_0010	DM14	51	ja	ja	nein	nein	7.3	7	153	148	19.1	22.9	nein	decrease	decrease	increase	persistent	absent
+s20011_0042	DM21	53	nein	nein	nein	nein	8	7.8	169	199	24.4	22.8	nein	decrease	increase	decrease	absent	absent
+s20011_0036	PDM8	49	nein	ja	nein	nein	8.1	8.9	135	131	23	24.1	Teilresektion rechts	increase	decrease	increase	onset	absent
+s20011_0005	DM13	19	nein	nein	nein	nein	7.5	6.3	106	88	18.7	21.2	nein	decrease	decrease	increase	absent	absent
+s20011_0032	PDM7	48	nein	nein	nein	nein	5.7	6.1	91	144	21.6	18.2	nein	increase	increase	decrease	absent	absent
+s20011_0012	PDM3	47	nein	nein	nein	nein	6.7	8.5	100	134	21	22.2	Teilresektion links	increase	increase	increase	absent	absent
+s20011_0046	PDM11	44	nein	nein	nein	nein	10.8	7.6	246	179	18.4	18.8	nein	decrease	decrease	increase	absent	absent
+s20011_0015	DM15	31	nein	nein	nein	nein	7.3	8.2	161	145	23.7	25.2	nein	increase	decrease	increase	absent	absent
+s20011_0030	DM18	26	nein	nein	nein	nein	9.6	5.1	322	172	20.5	23.9	nein	decrease	decrease	increase	absent	absent
+s20011_0009	DM2	51	nein	nein	nein	nein	7.3	7	153	180	24.4	24.7	nein	decrease	increase	increase	absent	absent
+s20011_0020	DM16	61	ja	ja	nein	nein	6.4	7	197	257	21.1	20.9	nein	increase	increase	decrease	persistent	absent
+s20011_0047	DM11	28	nein	nein	nein	nein	7.3	8.1	239	267	23.1	25.1	nein	increase	increase	increase	absent	absent
+s20011_0025	DM17	29	nein	nein	nein	nein	5.9	6.1	100	99	22.5	22.1	nein	increase	decrease	decrease	absent	absent
+s20011_0024	DM5	43	nein	nein	nein	nein	8.1	8.9	85	88	26.1	26.1	nein	increase	increase	decrease	absent	absent
+s20011_0049	DM12	40	nein	nein	nein	nein	7	7.5	102	101	24.8	25.2	nein	increase	decrease	increase	absent	absent
+s20011_0040	PDM9	56	nein	nein	nein	nein	5.7	6.1	120	121	18.8	20.5	Resektion	increase	increase	increase	absent	absent
+s20011_0028	PDM18	56	nein	nein	nein	nein	6.1	8.1	167	143	24.2	22.6	Resektion	increase	decrease	decrease	absent	absent
+s20011_0034	DM19	32	nein	nein	nein	nein	6.3	8	127	61	22.8	23.4	nein	increase	decrease	increase	absent	absent
+s20011_0038	DM20	50	nein	nein	nein	nein	6.2	6.5	77	115	25.8	29.3	nein	increase	increase	increase	absent	absent
+s20011_0045	DM10	30	nein	nein	nein	nein	6.3	8.5	106	112	20.8	23	nein	increase	increase	increase	absent	absent
+s20011_0017	PDM4	60	ja	ja	ja	ja	6.3	8.5	106	112	26.2	24.5	Teilresektion links	increase	increase	decrease	persistent	persistent
+s20011_0001	K1	56	nein	nein	nein	nein	5.1	5.2	99	89	23.9	24.1	nein	increase	decrease	increase	absent	absent
+s20011_0006	K2	58	nein	nein	nein	nein	4.8	4.8	77	81	22.9	23.1	nein	decrease	increase	increase	absent	absent
+s20011_0011	K3	60	nein	nein	nein	nein	4.7	5.5	59	88	24.8	24.6	nein	increase	increase	decrease	absent	absent
+s20011_0016	K4	77	nein	nein	nein	nein	5.2	5.4	91	92	25.9	24.8	nein	increase	increase	decrease	absent	absent
+s20011_0021	K5	59	nein	nein	nein	nein	4.9	4.9	87	94	21.2	24.5	nein	decrease	increase	increase	absent	absent
+s20011_0026	K6	60	nein	nein	nein	nein	4	4.2	94	97	23.2	23.2	nein	increase	increase	decrease	absent	absent
+s20011_0031	K7	18	nein	nein	nein	nein	3.9	4.1	95	81	22.6	22.8	nein	increase	decrease	increase	absent	absent
+s20011_0035	K8	62	nein	nein	nein	nein	4.1	3.9	88	86	24.8	25.1	nein	decrease	decrease	increase	absent	absent
+s20011_0039	K9	67	nein	nein	nein	nein	4.3	4.2	86	87	25.1	25.3	nein	decrease	increase	increase	absent	absent
+s20011_0043	K10	45	nein	nein	nein	nein	4.4	4.1	79	92	24.9	24.1	nein	decrease	increase	decrease	absent	absent
