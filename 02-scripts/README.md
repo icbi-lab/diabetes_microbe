@@ -9,3 +9,5 @@ Metatada and samplesheet available at diabetes_microbe/01-tables/nf-core_amplise
 
 ##  Analysis
 
+01_compositional.R  - The stacked bar plot depicts the relative abundance for the 10 most abundant families in all samples
+
