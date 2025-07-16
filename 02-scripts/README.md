@@ -1,5 +1,3 @@
-# This directory contains the scripts used in the diabetes_microbe project
+# This directory contains the scripts used for preprocessing
 
-**TODO**: Please list your scripts and described what they do
-
-You can use the [Markdown syntax](https://www.markdownguide.org/basic-syntax/)  to organize your documentation.
+The preprocessing was performed using nf-core/ampliseq - Amplicon sequencing analysis workflow using DADA2 and QIIME2. Check ./nf-core_ampliseq/run_nf_core_ampliseq.slurm for more information. 
