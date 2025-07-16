@@ -9,7 +9,8 @@ library(dplyr)
 
 
 #Load data
-ps1 <- readRDS("/data/projects/2024/Effenberger-Diabetes/out/nf_core_ampliseq_003/phyloseq/dada2_phyloseq.rds")
+#ps1 <- readRDS("/data/projects/2024/Effenberger-Diabetes/out/nf_core_ampliseq_003/phyloseq/dada2_phyloseq.rds")
+ps1 <- readRDS("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/01-tables/dada2_phyloseq.rds")
 print(ps1)
 ps1.com <- ps1
 
