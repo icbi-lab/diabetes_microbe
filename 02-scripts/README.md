@@ -5,7 +5,7 @@ The preprocessing was performed using nf-core/ampliseq: Amplicon sequencing anal
 
 Check ./nf-core_ampliseq/run_nf_core_ampliseq.slurm for more information. 
 
-Metatada and samplesheet available at diabetes_microbe/01-tables/nf-core_ampliseq
+Samplesheet available at diabetes_microbe/01-tables/nf-core_ampliseq
 
 ##  Analysis
 
