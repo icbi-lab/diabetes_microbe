@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='216.00pt' height='216.00pt' viewBox='0 0 216.00 216.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwyMTYuMDB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='216.00' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwyMTYuMDB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.000000000000016' y='-0.000000000000057' width='216.00' height='216.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNTMuNjN8MjEwLjUyfDIzLjMyfDE4NC4yOQ=='>
+    <rect x='53.63' y='23.32' width='156.89' height='160.97' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTMuNjN8MjEwLjUyfDIzLjMyfDE4NC4yOQ==)'>
+<polyline points='53.63,140.39 210.52,140.39 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='53.63,67.22 210.52,67.22 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='96.42,184.29 96.42,23.32 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='167.73,184.29 167.73,23.32 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<rect x='60.76' y='30.64' width='71.31' height='73.17' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #809035;' />
+<rect x='60.76' y='103.81' width='71.31' height='73.17' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3A923A;' />
+<rect x='132.07' y='30.64' width='71.31' height='73.17' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3A923A;' />
+<rect x='132.07' y='103.81' width='71.31' height='73.17' style='stroke-width: 0.21; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E1812C;' />
+<text x='96.42' y='71.24' text-anchor='middle' style='font-size: 11.04px; font-family: "Nimbus Sans";' textLength='7.02px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='96.42' y='144.41' text-anchor='middle' style='font-size: 11.04px; font-family: "Nimbus Sans";' textLength='7.02px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='167.73' y='71.24' text-anchor='middle' style='font-size: 11.04px; font-family: "Nimbus Sans";' textLength='7.02px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='167.73' y='144.41' text-anchor='middle' style='font-size: 11.04px; font-family: "Nimbus Sans";' textLength='7.02px' lengthAdjust='spacingAndGlyphs'>4</text>
+</g>
+<g clip-path='url(#cpMC4wMHwyMTYuMDB8MC4wMHwyMTYuMDA=)'>
+<text x='48.70' y='143.60' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='30.17px' lengthAdjust='spacingAndGlyphs'>T3cDM</text>
+<text x='48.70' y='70.43' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='6.62px' lengthAdjust='spacingAndGlyphs'>H</text>
+<polyline points='50.89,140.39 53.63,140.39 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='50.89,67.22 53.63,67.22 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='96.42,187.03 96.42,184.29 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='167.73,187.03 167.73,184.29 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text x='96.42' y='195.64' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='6.62px' lengthAdjust='spacingAndGlyphs'>H</text>
+<text x='167.73' y='195.64' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='30.17px' lengthAdjust='spacingAndGlyphs'>T3cDM</text>
+<text x='132.07' y='208.23' text-anchor='middle' style='font-size: 11.00px; font-family: "Nimbus Sans";' textLength='27.87px' lengthAdjust='spacingAndGlyphs'>Truth</text>
+<text transform='translate(13.50,103.81) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Nimbus Sans";' textLength='54.65px' lengthAdjust='spacingAndGlyphs'>Prediction</text>
+</g>
+</svg>
