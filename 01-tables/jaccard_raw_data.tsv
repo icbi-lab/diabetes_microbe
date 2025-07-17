@@ -1,0 +1,1866 @@
+	SubjectID1	SubjectID2	Group1	Group2	Distance
+0	s20011_0005	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9587837837837838
+1	s20011_0009	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9662017167381974
+2	s20011_0009	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9557761732851986
+3	s20011_0010	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9700956937799043
+4	s20011_0010	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9712195121951219
+5	s20011_0010	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9673013245033113
+6	s20011_0014	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9638619201725998
+7	s20011_0014	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9654863290004483
+8	s20011_0014	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9686064318529862
+9	s20011_0014	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9697847682119205
+10	s20011_0015	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9603267211201867
+11	s20011_0015	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9567099567099567
+12	s20011_0015	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9634888438133874
+13	s20011_0015	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9702015775635408
+14	s20011_0015	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9629780309194467
+15	s20011_0019	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9621811785400176
+16	s20011_0019	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9447811447811448
+17	s20011_0019	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9505642127888232
+18	s20011_0019	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9723691945914168
+19	s20011_0019	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.96875
+20	s20011_0019	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9603220241518113
+21	s20011_0020	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9516685845799769
+22	s20011_0020	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9404081632653061
+23	s20011_0020	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9461827284105131
+24	s20011_0020	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9671787709497207
+25	s20011_0020	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9654747225647349
+26	s20011_0020	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9573170731707317
+27	s20011_0020	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.918013856812933
+28	s20011_0024	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.96875
+29	s20011_0024	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9516674722087965
+30	s20011_0024	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9660056657223796
+31	s20011_0024	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9724529951902056
+32	s20011_0024	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9713478611783697
+33	s20011_0024	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9576124567474048
+34	s20011_0024	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.965675057208238
+35	s20011_0024	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9573170731707317
+36	s20011_0025	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9748299319727891
+37	s20011_0025	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.963327859879584
+38	s20011_0025	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9626933575978162
+39	s20011_0025	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9742956005931784
+40	s20011_0025	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.975214060387562
+41	s20011_0025	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9730639730639731
+42	s20011_0025	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9592668024439919
+43	s20011_0025	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9466666666666667
+44	s20011_0025	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9735576923076923
+45	s20011_0029	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9554896142433235
+46	s20011_0029	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9467153284671533
+47	s20011_0029	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9578347578347578
+48	s20011_0029	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9649458253664754
+49	s20011_0029	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9717992103778906
+50	s20011_0029	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9598517603458925
+51	s20011_0029	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9339901477832512
+52	s20011_0029	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9188829787234043
+53	s20011_0029	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9636923076923077
+54	s20011_0029	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9570688378978535
+55	s20011_0030	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.976984126984127
+56	s20011_0030	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9635126777983921
+57	s20011_0030	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9695152423788106
+58	s20011_0030	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.976295479603087
+59	s20011_0030	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9755854509217738
+60	s20011_0030	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9682454251883746
+61	s20011_0030	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9505187549880287
+62	s20011_0030	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9445005045408678
+63	s20011_0030	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9726688102893891
+64	s20011_0030	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9692404268675455
+65	s20011_0030	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9552631578947368
+66	s20011_0033	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9614529280948851
+67	s20011_0033	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.940130409010077
+68	s20011_0033	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9617956064947469
+69	s20011_0033	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9691099476439791
+70	s20011_0033	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9671272034302049
+71	s20011_0033	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9530443756449949
+72	s20011_0033	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9561082662765179
+73	s20011_0033	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9395604395604396
+74	s20011_0033	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.951421188630491
+75	s20011_0033	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.967020023557126
+76	s20011_0033	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9474959612277868
+77	s20011_0033	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9663526244952894
+78	s20011_0034	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9644469525959368
+79	s20011_0034	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9597378277153558
+80	s20011_0034	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9659000793021412
+81	s20011_0034	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9695540308747856
+82	s20011_0034	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.967869892899643
+83	s20011_0034	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9620733249051833
+84	s20011_0034	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9585898153329603
+85	s20011_0034	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9574328749181401
+86	s20011_0034	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9629473684210527
+87	s20011_0034	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9737335834896811
+88	s20011_0034	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9592570401437986
+89	s20011_0034	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9712793733681462
+90	s20011_0034	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.956390977443609
+91	s20011_0037	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9564315352697096
+92	s20011_0037	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9530646051905025
+93	s20011_0037	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.967420814479638
+94	s20011_0037	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.974320987654321
+95	s20011_0037	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9715318572074108
+96	s20011_0037	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9560332193453834
+97	s20011_0037	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.960731211916046
+98	s20011_0037	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9511184755592378
+99	s20011_0037	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9611084103062713
+100	s20011_0037	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9763606377130292
+101	s20011_0037	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9625
+102	s20011_0037	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9725
+103	s20011_0037	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.948502994011976
+104	s20011_0037	s20011_0034	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9650283553875236
+105	s20011_0038	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9568552253116012
+106	s20011_0038	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9464285714285714
+107	s20011_0038	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9515492957746479
+108	s20011_0038	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9695084007467331
+109	s20011_0038	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9665738161559888
+110	s20011_0038	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9587378640776699
+111	s20011_0038	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9267822736030829
+112	s20011_0038	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.8881578947368421
+113	s20011_0038	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9549330085261876
+114	s20011_0038	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9497084548104956
+115	s20011_0038	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9389067524115756
+116	s20011_0038	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.951114922813036
+117	s20011_0038	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9545810493343775
+118	s20011_0038	s20011_0034	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9600235155790712
+119	s20011_0038	s20011_0037	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9573699421965318
+120	s20011_0041	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9689737470167065
+121	s20011_0041	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9585396039603961
+122	s20011_0041	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9747274529236868
+123	s20011_0041	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9775095995611629
+124	s20011_0041	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9777006937561943
+125	s20011_0041	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9689174705251876
+126	s20011_0041	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9671875
+127	s20011_0041	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9605133267522211
+128	s20011_0041	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.965034965034965
+129	s20011_0041	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9789473684210527
+130	s20011_0041	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9707903780068728
+131	s20011_0041	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9756621331424481
+132	s20011_0041	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.959541469993257
+133	s20011_0041	s20011_0034	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9719188767550702
+134	s20011_0041	s20011_0037	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9590163934426229
+135	s20011_0041	s20011_0038	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9620253164556962
+136	s20011_0042	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9594272076372315
+137	s20011_0042	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.963302752293578
+138	s20011_0042	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9526925012581782
+139	s20011_0042	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9669603524229075
+140	s20011_0042	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.964053919121318
+141	s20011_0042	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.962486602357985
+142	s20011_0042	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9496062992125984
+143	s20011_0042	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9548577036310107
+144	s20011_0042	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9707602339181286
+145	s20011_0042	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9657534246575342
+146	s20011_0042	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9469103568320278
+147	s20011_0042	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9692857142857143
+148	s20011_0042	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9549731182795699
+149	s20011_0042	s20011_0034	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9608150470219435
+150	s20011_0042	s20011_0037	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9690018598884067
+151	s20011_0042	s20011_0038	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9580536912751678
+152	s20011_0042	s20011_0041	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9752650176678446
+153	s20011_0045	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9566539923954372
+154	s20011_0045	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9448110377924415
+155	s20011_0045	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9541686981960019
+156	s20011_0045	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9680851063829787
+157	s20011_0045	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9691566265060241
+158	s20011_0045	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9534275248560963
+159	s20011_0045	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9409090909090909
+160	s20011_0045	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9227099236641222
+161	s20011_0045	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9583333333333334
+162	s20011_0045	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9577039274924471
+163	s20011_0045	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9497114591920858
+164	s20011_0045	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9549237170596394
+165	s20011_0045	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9487012987012987
+166	s20011_0045	s20011_0034	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9605063291139241
+167	s20011_0045	s20011_0037	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9615153337342153
+168	s20011_0045	s20011_0038	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9259868421052632
+169	s20011_0045	s20011_0041	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9608785175017158
+170	s20011_0045	s20011_0042	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9569377990430622
+171	s20011_0047	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9509668508287292
+172	s20011_0047	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9399332591768632
+173	s20011_0047	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9510297482837529
+174	s20011_0047	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9673428995546759
+175	s20011_0047	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9637352674524026
+176	s20011_0047	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9521717911176184
+177	s20011_0047	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9461118690313779
+178	s20011_0047	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9277310924369748
+179	s20011_0047	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.95166015625
+180	s20011_0047	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.960577456968351
+181	s20011_0047	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9466271312083024
+182	s20011_0047	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9630094043887147
+183	s20011_0047	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9488095238095238
+184	s20011_0047	s20011_0034	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9533777354900095
+185	s20011_0047	s20011_0037	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9536571747627024
+186	s20011_0047	s20011_0038	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9378654970760234
+187	s20011_0047	s20011_0041	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9573132454488387
+188	s20011_0047	s20011_0042	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9621588089330024
+189	s20011_0047	s20011_0045	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9440729483282675
+190	s20011_0049	s20011_0004	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9788388497015735
+191	s20011_0049	s20011_0005	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9811405478221823
+192	s20011_0049	s20011_0009	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.974903474903475
+193	s20011_0049	s20011_0010	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9800166527893422
+194	s20011_0049	s20011_0014	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9760340162350213
+195	s20011_0049	s20011_0015	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9763458401305057
+196	s20011_0049	s20011_0019	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9686486486486486
+197	s20011_0049	s20011_0020	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9665825977301387
+198	s20011_0049	s20011_0024	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9796747967479674
+199	s20011_0049	s20011_0025	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9743001376778339
+200	s20011_0049	s20011_0029	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9723502304147466
+201	s20011_0049	s20011_0030	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9823410696266398
+202	s20011_0049	s20011_0033	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9798754192620988
+203	s20011_0049	s20011_0034	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9752099160335865
+204	s20011_0049	s20011_0037	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9822565969062784
+205	s20011_0049	s20011_0038	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.975747320924986
+206	s20011_0049	s20011_0041	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9859719438877755
+207	s20011_0049	s20011_0042	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9701568032372281
+208	s20011_0049	s20011_0045	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9761092150170648
+209	s20011_0049	s20011_0047	Diabetes mellitus Typ1	Diabetes mellitus Typ1	0.9758432087511395
+210	s20011_0004	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9755911517925248
+211	s20011_0004	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9626529298132647
+212	s20011_0004	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9758190327613104
+213	s20011_0004	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9670588235294117
+214	s20011_0004	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9623003194888179
+215	s20011_0004	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9543834640057021
+216	s20011_0004	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9777486910994765
+217	s20011_0004	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9673447537473233
+218	s20011_0004	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9573699421965318
+219	s20011_0004	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9584120982986768
+220	s20011_0005	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9751184834123223
+221	s20011_0005	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9561128526645768
+222	s20011_0005	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9765201685731487
+223	s20011_0005	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9653916211293261
+224	s20011_0005	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9591097308488613
+225	s20011_0005	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9495750708215297
+226	s20011_0005	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9763365468886941
+227	s20011_0005	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9628302731751007
+228	s20011_0005	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9452449567723343
+229	s20011_0005	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9516957862281603
+230	s20011_0009	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9688109161793372
+231	s20011_0009	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9666233203294322
+232	s20011_0009	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9678377041068777
+233	s20011_0009	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9596814335490294
+234	s20011_0009	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9641313742437337
+235	s20011_0009	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.963442850532161
+236	s20011_0009	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9803149606299213
+237	s20011_0009	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9659395331037122
+238	s20011_0009	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9527410207939508
+239	s20011_0009	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9534081104400345
+240	s20011_0010	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9758842443729904
+241	s20011_0010	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9682765151515151
+242	s20011_0010	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9777173913043479
+243	s20011_0010	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9766558089033659
+244	s20011_0010	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9723394280356306
+245	s20011_0010	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9664804469273743
+246	s20011_0010	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9857142857142858
+247	s20011_0010	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9736950267159885
+248	s20011_0010	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9644696189495365
+249	s20011_0010	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9698515769944341
+250	s20011_0014	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9772176442074648
+251	s20011_0014	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9647366129734436
+252	s20011_0014	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9778869778869779
+253	s20011_0014	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9723865877712031
+254	s20011_0014	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9653829511034184
+255	s20011_0014	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.967175219602404
+256	s20011_0014	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9869109947643979
+257	s20011_0014	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9690248565965583
+258	s20011_0014	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9604891815616181
+259	s20011_0014	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9613733905579399
+260	s20011_0015	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9776970954356846
+261	s20011_0015	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9610208816705337
+262	s20011_0015	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9768054823405377
+263	s20011_0015	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9643237486687966
+264	s20011_0015	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9559573481687529
+265	s20011_0015	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9525
+266	s20011_0015	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9745269286754003
+267	s20011_0015	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9614134849715679
+268	s20011_0015	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9556227937468482
+269	s20011_0015	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9551076500229042
+270	s20011_0019	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.966012084592145
+271	s20011_0019	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9639240506329114
+272	s20011_0019	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.962015503875969
+273	s20011_0019	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9499609069585614
+274	s20011_0019	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9648682559598495
+275	s20011_0019	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9595818815331011
+276	s20011_0019	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9627249357326478
+277	s20011_0019	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.96779303062302
+278	s20011_0019	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9370477568740955
+279	s20011_0019	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.955196017423771
+280	s20011_0020	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9690721649484536
+281	s20011_0020	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9533282325937261
+282	s20011_0020	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9509803921568627
+283	s20011_0020	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.943952802359882
+284	s20011_0020	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9537878787878787
+285	s20011_0020	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9457364341085271
+286	s20011_0020	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.94921875
+287	s20011_0020	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9566831683168316
+288	s20011_0020	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9247311827956989
+289	s20011_0020	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9446107784431138
+290	s20011_0024	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.982447083118224
+291	s20011_0024	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9600557361820715
+292	s20011_0024	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9837696335078534
+293	s20011_0024	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9676220806794055
+294	s20011_0024	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9583718778908418
+295	s20011_0024	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9472361809045227
+296	s20011_0024	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9812002892263196
+297	s20011_0024	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.964358039692183
+298	s20011_0024	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9556227937468482
+299	s20011_0024	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9579716765646414
+300	s20011_0025	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9696233292831106
+301	s20011_0025	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9690288713910761
+302	s20011_0025	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9652173913043478
+303	s20011_0025	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9633767846058349
+304	s20011_0025	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9697759249609171
+305	s20011_0025	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9700056593095643
+306	s20011_0025	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9802158273381295
+307	s20011_0025	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9725348941918055
+308	s20011_0025	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9588405797101449
+309	s20011_0025	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9627714581178903
+310	s20011_0029	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9650872817955112
+311	s20011_0029	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9608516483516484
+312	s20011_0029	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9659574468085106
+313	s20011_0029	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9509466437177281
+314	s20011_0029	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9619047619047619
+315	s20011_0029	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9509578544061302
+316	s20011_0029	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9667170953101362
+317	s20011_0029	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9631936579841449
+318	s20011_0029	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9442700156985872
+319	s20011_0029	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9521563342318059
+320	s20011_0030	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9757449757449758
+321	s20011_0030	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9741480611045829
+322	s20011_0030	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9679258731290092
+323	s20011_0030	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9613733905579399
+324	s20011_0030	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9725467289719626
+325	s20011_0030	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9657843770174306
+326	s20011_0030	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9719416386083053
+327	s20011_0030	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9721115537848606
+328	s20011_0030	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9645669291338582
+329	s20011_0030	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9670710571923743
+330	s20011_0033	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9748549323017408
+331	s20011_0033	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9591036414565827
+332	s20011_0033	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9750328515111695
+333	s20011_0033	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9635520212060967
+334	s20011_0033	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9541643376187814
+335	s20011_0033	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9406674907292955
+336	s20011_0033	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9740518962075848
+337	s20011_0033	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9623271340009537
+338	s20011_0033	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9470404984423676
+339	s20011_0033	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.956617243272927
+340	s20011_0034	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9772612430520465
+341	s20011_0034	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.964769647696477
+342	s20011_0034	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9779600205023065
+343	s20011_0034	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9679752066115702
+344	s20011_0034	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9645103324348607
+345	s20011_0034	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9582929194956353
+346	s20011_0034	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9818941504178273
+347	s20011_0034	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9622266401590457
+348	s20011_0034	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9521460286137149
+349	s20011_0034	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9626666666666667
+350	s20011_0037	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9814037192561488
+351	s20011_0037	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9652631578947368
+352	s20011_0037	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9829268292682927
+353	s20011_0037	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.969173859432799
+354	s20011_0037	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9665796344647519
+355	s20011_0037	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9462116830537883
+356	s20011_0037	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9811659192825112
+357	s20011_0037	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9688487584650113
+358	s20011_0037	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9576811594202899
+359	s20011_0037	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.963345379452762
+360	s20011_0038	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.965991902834008
+361	s20011_0038	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9532520325203252
+362	s20011_0038	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9547359597652976
+363	s20011_0038	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9425190194420964
+364	s20011_0038	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9606404269513009
+365	s20011_0038	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9466165413533835
+366	s20011_0038	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9622641509433962
+367	s20011_0038	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9580536912751678
+368	s20011_0038	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9350348027842227
+369	s20011_0038	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.946914399469144
+370	s20011_0041	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9800824175824175
+371	s20011_0041	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9682165979988229
+372	s20011_0041	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9853556485355649
+373	s20011_0041	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9747013352073085
+374	s20011_0041	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9684579439252337
+375	s20011_0041	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9538361508452535
+376	s20011_0041	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9879385964912281
+377	s20011_0041	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9777887462981244
+378	s20011_0041	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.962696335078534
+379	s20011_0041	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9713467048710601
+380	s20011_0042	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.958970792767733
+381	s20011_0042	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9635936582501468
+382	s20011_0042	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9661733615221987
+383	s20011_0042	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9485346676197284
+384	s20011_0042	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.960233918128655
+385	s20011_0042	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9602309172546504
+386	s20011_0042	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9657079646017699
+387	s20011_0042	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.963681592039801
+388	s20011_0042	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9596091205211726
+389	s20011_0042	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.952463768115942
+390	s20011_0045	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9689564068692206
+391	s20011_0045	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9584282460136674
+392	s20011_0045	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.963439404197698
+393	s20011_0045	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9543596730245232
+394	s20011_0045	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9604966139954854
+395	s20011_0045	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9488459139114162
+396	s20011_0045	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9679752066115702
+397	s20011_0045	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9602905569007264
+398	s20011_0045	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9386581469648563
+399	s20011_0045	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9553322166387493
+400	s20011_0047	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9710843373493976
+401	s20011_0047	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9528351881293058
+402	s20011_0047	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.9749541844838119
+403	s20011_0047	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9617283950617284
+404	s20011_0047	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.952054794520548
+405	s20011_0047	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9495412844036697
+406	s20011_0047	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9703504043126685
+407	s20011_0047	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.958692691783931
+408	s20011_0047	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9358446144791054
+409	s20011_0047	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9440083725798012
+410	s20011_0049	s20011_0001	Diabetes mellitus Typ1	Kontrolle	0.9848039215686275
+411	s20011_0049	s20011_0006	Diabetes mellitus Typ1	Kontrolle	0.9786026200873362
+412	s20011_0049	s20011_0011	Diabetes mellitus Typ1	Kontrolle	0.981028457314029
+413	s20011_0049	s20011_0016	Diabetes mellitus Typ1	Kontrolle	0.9800498753117207
+414	s20011_0049	s20011_0021	Diabetes mellitus Typ1	Kontrolle	0.9787234042553191
+415	s20011_0049	s20011_0026	Diabetes mellitus Typ1	Kontrolle	0.9795443979544398
+416	s20011_0049	s20011_0031	Diabetes mellitus Typ1	Kontrolle	0.9899598393574297
+417	s20011_0049	s20011_0035	Diabetes mellitus Typ1	Kontrolle	0.9792547061083365
+418	s20011_0049	s20011_0039	Diabetes mellitus Typ1	Kontrolle	0.9710900473933649
+419	s20011_0049	s20011_0043	Diabetes mellitus Typ1	Kontrolle	0.9750322858372794
+420	s20011_0004	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.983726606997559
+421	s20011_0004	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9686046511627907
+422	s20011_0004	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9715719063545151
+423	s20011_0004	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9720616570327553
+424	s20011_0004	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9706353443673251
+425	s20011_0004	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9752824858757062
+426	s20011_0004	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9726699369306236
+427	s20011_0004	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9695387293298521
+428	s20011_0004	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9685534591194969
+429	s20011_0004	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.963963963963964
+430	s20011_0004	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9840764331210191
+431	s20011_0004	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9683590875643856
+432	s20011_0004	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9773333333333334
+433	s20011_0004	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9784394250513347
+434	s20011_0004	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9551760939167556
+435	s20011_0004	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9682454251883746
+436	s20011_0004	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9671732522796352
+437	s20011_0005	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.978776529338327
+438	s20011_0005	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9660287081339712
+439	s20011_0005	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9759341355288157
+440	s20011_0005	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9636493228795439
+441	s20011_0005	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9665178571428571
+442	s20011_0005	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9656724817107485
+443	s20011_0005	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9671125975473801
+444	s20011_0005	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9575315195753152
+445	s20011_0005	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9671732522796352
+446	s20011_0005	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.95937711577522
+447	s20011_0005	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9879518072289156
+448	s20011_0005	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9652978600347022
+449	s20011_0005	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.980565371024735
+450	s20011_0005	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.970193740685544
+451	s20011_0005	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9451737451737452
+452	s20011_0005	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9569941149841558
+453	s20011_0005	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9611553784860558
+454	s20011_0009	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9808467741935484
+455	s20011_0009	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9604081632653061
+456	s20011_0009	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9749232343909928
+457	s20011_0009	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9697648376259799
+458	s20011_0009	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.971047619047619
+459	s20011_0009	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9765301426599171
+460	s20011_0009	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9648636153490523
+461	s20011_0009	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9618037135278514
+462	s20011_0009	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9652605459057072
+463	s20011_0009	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9611021069692058
+464	s20011_0009	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9853372434017595
+465	s20011_0009	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9706578324656886
+466	s20011_0009	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9834983498349835
+467	s20011_0009	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9815668202764977
+468	s20011_0009	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9571428571428572
+469	s20011_0009	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9709257842387146
+470	s20011_0009	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9661229611041405
+471	s20011_0010	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9922351636161952
+472	s20011_0010	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9719051799824407
+473	s20011_0010	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9778283115406481
+474	s20011_0010	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9800374298190893
+475	s20011_0010	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9774682507169193
+476	s20011_0010	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9813319878910192
+477	s20011_0010	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9753148614609571
+478	s20011_0010	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9760374050263004
+479	s20011_0010	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.977705274605764
+480	s20011_0010	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9731022115959355
+481	s20011_0010	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9920687376074026
+482	s20011_0010	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9755590223608944
+483	s20011_0010	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9878695981804397
+484	s20011_0010	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9817589576547231
+485	s20011_0010	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9672897196261683
+486	s20011_0010	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9739884393063584
+487	s20011_0010	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9742081447963801
+488	s20011_0014	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9854051333668847
+489	s20011_0014	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9695863746958637
+490	s20011_0014	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9732647814910026
+491	s20011_0014	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9754189944134078
+492	s20011_0014	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9733333333333334
+493	s20011_0014	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9755196304849885
+494	s20011_0014	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9719152854511971
+495	s20011_0014	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9753151260504201
+496	s20011_0014	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9738400789733465
+497	s20011_0014	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9765082754938601
+498	s20011_0014	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.985285462036492
+499	s20011_0014	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9710626185958254
+500	s20011_0014	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9861202908129544
+501	s20011_0014	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9803240740740741
+502	s20011_0014	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9656398104265402
+503	s20011_0014	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9704641350210971
+504	s20011_0014	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9690635451505016
+505	s20011_0015	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9798913043478261
+506	s20011_0015	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9624190064794816
+507	s20011_0015	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.977997799779978
+508	s20011_0015	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9745916515426497
+509	s20011_0015	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9643435980551054
+510	s20011_0015	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9733333333333334
+511	s20011_0015	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9664363277393879
+512	s20011_0015	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.966343411294923
+513	s20011_0015	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9740877842411423
+514	s20011_0015	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.97165991902834
+515	s20011_0015	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9852752880921894
+516	s20011_0015	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9716312056737588
+517	s20011_0015	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9817518248175182
+518	s20011_0015	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9786028949024543
+519	s20011_0015	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9524119947848761
+520	s20011_0015	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9586743044189853
+521	s20011_0015	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9639358860195903
+522	s20011_0019	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9634146341463414
+523	s20011_0019	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9589358010410642
+524	s20011_0019	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9611248966087675
+525	s20011_0019	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9490384615384615
+526	s20011_0019	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9688654353562005
+527	s20011_0019	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9539660056657224
+528	s20011_0019	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9515108924806747
+529	s20011_0019	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9505637467476149
+530	s20011_0019	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9619860356865787
+531	s20011_0019	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9509366636931311
+532	s20011_0019	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9802904564315352
+533	s20011_0019	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9606986899563319
+534	s20011_0019	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9727979274611399
+535	s20011_0019	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9655521783181358
+536	s20011_0019	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9421052631578948
+537	s20011_0019	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9714134462678666
+538	s20011_0019	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.962717979555021
+539	s20011_0020	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.970317297850563
+540	s20011_0020	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9549488054607509
+541	s20011_0020	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9555555555555556
+542	s20011_0020	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9312581063553826
+543	s20011_0020	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9675245098039216
+544	s20011_0020	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9532062391681109
+545	s20011_0020	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9520137103684662
+546	s20011_0020	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9367231638418079
+547	s20011_0020	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9580896686159844
+548	s20011_0020	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9391812865497076
+549	s20011_0020	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9814550641940085
+550	s20011_0020	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9661016949152542
+551	s20011_0020	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9582504970178927
+552	s20011_0020	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9584487534626038
+553	s20011_0020	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9144542772861357
+554	s20011_0020	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.965389369592089
+555	s20011_0020	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9681077250177179
+556	s20011_0024	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9848566792861005
+557	s20011_0024	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9642087106511428
+558	s20011_0024	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9796814936847886
+559	s20011_0024	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9658328248932275
+560	s20011_0024	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9701853344077357
+561	s20011_0024	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9677259185700099
+562	s20011_0024	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9730259931338892
+563	s20011_0024	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9686966420034149
+564	s20011_0024	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9751716851558373
+565	s20011_0024	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9710648148148148
+566	s20011_0024	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9910884786760026
+567	s20011_0024	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9684959349593496
+568	s20011_0024	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9802631578947368
+569	s20011_0024	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9727848101265822
+570	s20011_0024	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9489862655330281
+571	s20011_0024	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.959950960359624
+572	s20011_0024	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9639358860195903
+573	s20011_0025	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9776643267389917
+574	s20011_0025	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9669742593491987
+575	s20011_0025	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9626474442988204
+576	s20011_0025	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9725036179450073
+577	s20011_0025	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9762118491921006
+578	s20011_0025	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9732498577120091
+579	s20011_0025	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9635327635327635
+580	s20011_0025	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9642857142857143
+581	s20011_0025	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9779005524861878
+582	s20011_0025	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9634482758620689
+583	s20011_0025	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9813374805598756
+584	s20011_0025	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9700704225352113
+585	s20011_0025	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9827429609445958
+586	s20011_0025	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.978013646702047
+587	s20011_0025	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9634241245136187
+588	s20011_0025	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9788573999100315
+589	s20011_0025	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9765586034912718
+590	s20011_0029	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9787045252883763
+591	s20011_0029	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.964793082149475
+592	s20011_0029	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9614678899082569
+593	s20011_0029	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9614147909967846
+594	s20011_0029	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9724873666479505
+595	s20011_0029	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9616270145817345
+596	s20011_0029	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9612756264236902
+597	s20011_0029	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9547641963426372
+598	s20011_0029	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9659284497444633
+599	s20011_0029	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9448345035105316
+600	s20011_0029	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9761620977353993
+601	s20011_0029	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9699842022116903
+602	s20011_0029	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9723502304147466
+603	s20011_0029	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9653979238754326
+604	s20011_0029	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9282238442822385
+605	s20011_0029	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9711538461538461
+606	s20011_0029	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9630829015544041
+607	s20011_0030	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9748148148148148
+608	s20011_0030	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9742074153680816
+609	s20011_0030	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9713639788997739
+610	s20011_0030	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9611063094209161
+611	s20011_0030	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9766865079365079
+612	s20011_0030	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9701298701298702
+613	s20011_0030	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9690920798454604
+614	s20011_0030	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9646781789638933
+615	s20011_0030	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.973758865248227
+616	s20011_0030	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9711769415532426
+617	s20011_0030	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9832402234636871
+618	s20011_0030	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9766977363515313
+619	s20011_0030	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9784824462061155
+620	s20011_0030	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9717925386715196
+621	s20011_0030	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9549718574108818
+622	s20011_0030	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9785963165754107
+623	s20011_0030	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9771332961517011
+624	s20011_0033	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9823129251700681
+625	s20011_0033	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9619928094504365
+626	s20011_0033	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9799723756906077
+627	s20011_0033	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.966168371361133
+628	s20011_0033	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9682163187855788
+629	s20011_0033	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9690346083788707
+630	s20011_0033	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9674502712477396
+631	s20011_0033	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.962291515591008
+632	s20011_0033	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.972313777191826
+633	s20011_0033	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.966715976331361
+634	s20011_0033	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9856781802864364
+635	s20011_0033	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9700187382885697
+636	s20011_0033	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9819277108433735
+637	s20011_0033	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9744013212221305
+638	s20011_0033	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9394463667820069
+639	s20011_0033	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9571084337349398
+640	s20011_0033	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9654439128123339
+641	s20011_0034	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9820675105485233
+642	s20011_0034	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9693534844668346
+643	s20011_0034	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9786210582576162
+644	s20011_0034	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9741784037558685
+645	s20011_0034	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9716200236499803
+646	s20011_0034	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9769673704414588
+647	s20011_0034	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9717432950191571
+648	s20011_0034	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9713182570325427
+649	s20011_0034	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9768993839835729
+650	s20011_0034	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9730790802019069
+651	s20011_0034	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.987012987012987
+652	s20011_0034	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9723729649728663
+653	s20011_0034	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9852838121934128
+654	s20011_0034	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9792935444579781
+655	s20011_0034	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9625
+656	s20011_0034	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9674085850556439
+657	s20011_0034	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9701427953266984
+658	s20011_0037	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9841671944268524
+659	s20011_0037	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9705029013539652
+660	s20011_0037	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9820166987797045
+661	s20011_0037	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9718004338394793
+662	s20011_0037	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9683687302304564
+663	s20011_0037	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9691780821917808
+664	s20011_0037	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9746621621621622
+665	s20011_0037	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9691895512391159
+666	s20011_0037	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.976044226044226
+667	s20011_0037	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9663461538461539
+668	s20011_0037	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9884348496530455
+669	s20011_0037	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9755102040816327
+670	s20011_0037	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9818511796733213
+671	s20011_0037	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9710365853658537
+672	s20011_0037	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9545454545454546
+673	s20011_0037	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9568411386593205
+674	s20011_0037	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9662808253648717
+675	s20011_0038	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9757575757575757
+676	s20011_0038	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9579011592434411
+677	s20011_0038	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9597855227882037
+678	s20011_0038	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9452054794520548
+679	s20011_0038	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9689922480620154
+680	s20011_0038	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9555052790346908
+681	s20011_0038	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9591078066914498
+682	s20011_0038	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9482596425211665
+683	s20011_0038	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9651162790697675
+684	s20011_0038	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9455252918287937
+685	s20011_0038	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9851936218678815
+686	s20011_0038	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9603112840466926
+687	s20011_0038	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9706314243759178
+688	s20011_0038	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9596864501679732
+689	s20011_0038	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9396051103368177
+690	s20011_0038	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.966499162479062
+691	s20011_0038	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9684144030322173
+692	s20011_0041	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.987627365356623
+693	s20011_0041	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9759486905398183
+694	s20011_0041	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9837037037037037
+695	s20011_0041	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9771573604060914
+696	s20011_0041	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9711729622266402
+697	s20011_0041	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9775353016688062
+698	s20011_0041	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9803424223208624
+699	s20011_0041	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9728892331525949
+700	s20011_0041	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9774964838255977
+701	s20011_0041	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9696969696969697
+702	s20011_0041	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9935897435897436
+703	s20011_0041	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9713524317121919
+704	s20011_0041	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9888765294771968
+705	s20011_0041	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9691749773345422
+706	s20011_0041	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9610750695088045
+707	s20011_0041	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9642857142857143
+708	s20011_0041	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9738015607580826
+709	s20011_0042	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9781500364166059
+710	s20011_0042	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9623250807319699
+711	s20011_0042	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9593984962406015
+712	s20011_0042	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9739495798319328
+713	s20011_0042	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9646941819990055
+714	s20011_0042	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9711538461538461
+715	s20011_0042	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9514563106796117
+716	s20011_0042	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9667953667953668
+717	s20011_0042	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9632248939179632
+718	s20011_0042	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9667194928684627
+719	s20011_0042	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.968430826369545
+720	s20011_0042	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9654255319148937
+721	s20011_0042	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9720982142857143
+722	s20011_0042	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9786666666666667
+723	s20011_0042	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.950925925925926
+724	s20011_0042	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9742446755819713
+725	s20011_0042	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9613228699551569
+726	s20011_0045	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9741258741258741
+727	s20011_0045	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9565217391304348
+728	s20011_0045	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9708599857853589
+729	s20011_0045	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9535830618892508
+730	s20011_0045	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9692603266090298
+731	s20011_0045	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9627097576134245
+732	s20011_0045	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.95856524427953
+733	s20011_0045	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9552906110283159
+734	s20011_0045	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9738430583501007
+735	s20011_0045	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9517241379310345
+736	s20011_0045	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9826839826839827
+737	s20011_0045	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9608723540731238
+738	s20011_0045	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9760914760914761
+739	s20011_0045	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9694137638062872
+740	s20011_0045	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9444444444444444
+741	s20011_0045	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9635922330097088
+742	s20011_0045	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9682454251883746
+743	s20011_0047	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9758883248730964
+744	s20011_0047	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9576023391812866
+745	s20011_0047	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9709677419354839
+746	s20011_0047	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9570284049526584
+747	s20011_0047	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9615036231884058
+748	s20011_0047	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9628783552255854
+749	s20011_0047	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9572892938496583
+750	s20011_0047	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9533783783783784
+751	s20011_0047	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9673645320197044
+752	s20011_0047	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9544513457556936
+753	s20011_0047	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9869731800766284
+754	s20011_0047	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9624192601291838
+755	s20011_0047	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9774164408310749
+756	s20011_0047	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9681335356600911
+757	s20011_0047	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9307875894988067
+758	s20011_0047	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9556064073226544
+759	s20011_0047	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9581019687026754
+760	s20011_0049	s20011_0002	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9877112135176651
+761	s20011_0049	s20011_0003	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9737489745693191
+762	s20011_0049	s20011_0007	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9770114942528736
+763	s20011_0049	s20011_0008	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9853024307518372
+764	s20011_0049	s20011_0013	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9792467332820907
+765	s20011_0049	s20011_0017	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9784341303328645
+766	s20011_0049	s20011_0018	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9742870500233755
+767	s20011_0049	s20011_0022	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9802666666666666
+768	s20011_0049	s20011_0023	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9865871833084948
+769	s20011_0049	s20011_0027	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9810092240911558
+770	s20011_0049	s20011_0028	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9849397590361446
+771	s20011_0049	s20011_0032	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9808612440191388
+772	s20011_0049	s20011_0036	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9871273712737128
+773	s20011_0049	s20011_0040	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9906268306971294
+774	s20011_0049	s20011_0044	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9692028985507246
+775	s20011_0049	s20011_0046	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9807321772639692
+776	s20011_0049	s20011_0048	Diabetes mellitus Typ1	pankreopriver Diabetes	0.9802521008403361
+0	s20011_0006	s20011_0001	Kontrolle	Kontrolle	0.9684813753581661
+1	s20011_0011	s20011_0001	Kontrolle	Kontrolle	0.9641379310344828
+2	s20011_0011	s20011_0006	Kontrolle	Kontrolle	0.9745075318655851
+3	s20011_0016	s20011_0001	Kontrolle	Kontrolle	0.9519832985386222
+4	s20011_0016	s20011_0006	Kontrolle	Kontrolle	0.9649941656942824
+5	s20011_0016	s20011_0011	Kontrolle	Kontrolle	0.9464668094218416
+6	s20011_0021	s20011_0001	Kontrolle	Kontrolle	0.9751271905031091
+7	s20011_0021	s20011_0006	Kontrolle	Kontrolle	0.9574148296593187
+8	s20011_0021	s20011_0011	Kontrolle	Kontrolle	0.9746981023576768
+9	s20011_0021	s20011_0016	Kontrolle	Kontrolle	0.9604421175101804
+10	s20011_0026	s20011_0001	Kontrolle	Kontrolle	0.9707893101305158
+11	s20011_0026	s20011_0006	Kontrolle	Kontrolle	0.9514986376021798
+12	s20011_0026	s20011_0011	Kontrolle	Kontrolle	0.9792843691148776
+13	s20011_0026	s20011_0016	Kontrolle	Kontrolle	0.962444302991725
+14	s20011_0026	s20011_0021	Kontrolle	Kontrolle	0.9512723335138061
+15	s20011_0031	s20011_0001	Kontrolle	Kontrolle	0.9800210304942166
+16	s20011_0031	s20011_0006	Kontrolle	Kontrolle	0.9819078947368421
+17	s20011_0031	s20011_0011	Kontrolle	Kontrolle	0.9658965896589659
+18	s20011_0031	s20011_0016	Kontrolle	Kontrolle	0.9511111111111111
+19	s20011_0031	s20011_0021	Kontrolle	Kontrolle	0.9829268292682927
+20	s20011_0031	s20011_0026	Kontrolle	Kontrolle	0.9718045112781954
+21	s20011_0035	s20011_0001	Kontrolle	Kontrolle	0.9782923299565847
+22	s20011_0035	s20011_0006	Kontrolle	Kontrolle	0.9621574597651152
+23	s20011_0035	s20011_0011	Kontrolle	Kontrolle	0.9784735812133072
+24	s20011_0035	s20011_0016	Kontrolle	Kontrolle	0.961786600496278
+25	s20011_0035	s20011_0021	Kontrolle	Kontrolle	0.9614718614718615
+26	s20011_0035	s20011_0026	Kontrolle	Kontrolle	0.9533146591970122
+27	s20011_0035	s20011_0031	Kontrolle	Kontrolle	0.979002624671916
+28	s20011_0039	s20011_0001	Kontrolle	Kontrolle	0.9664344521849272
+29	s20011_0039	s20011_0006	Kontrolle	Kontrolle	0.9520132377275234
+30	s20011_0039	s20011_0011	Kontrolle	Kontrolle	0.9704370179948586
+31	s20011_0039	s20011_0016	Kontrolle	Kontrolle	0.9578195976638546
+32	s20011_0039	s20011_0021	Kontrolle	Kontrolle	0.9580610021786492
+33	s20011_0039	s20011_0026	Kontrolle	Kontrolle	0.9478729778310365
+34	s20011_0039	s20011_0031	Kontrolle	Kontrolle	0.9770554493307839
+35	s20011_0039	s20011_0035	Kontrolle	Kontrolle	0.9620963968179691
+36	s20011_0043	s20011_0001	Kontrolle	Kontrolle	0.9726715002788623
+37	s20011_0043	s20011_0006	Kontrolle	Kontrolle	0.9590527873704983
+38	s20011_0043	s20011_0011	Kontrolle	Kontrolle	0.9675213675213675
+39	s20011_0043	s20011_0016	Kontrolle	Kontrolle	0.9533141210374639
+40	s20011_0043	s20011_0021	Kontrolle	Kontrolle	0.9547021171836534
+41	s20011_0043	s20011_0026	Kontrolle	Kontrolle	0.9553666312433581
+42	s20011_0043	s20011_0031	Kontrolle	Kontrolle	0.9702333065164923
+43	s20011_0043	s20011_0035	Kontrolle	Kontrolle	0.9565964761495488
+44	s20011_0043	s20011_0039	Kontrolle	Kontrolle	0.9491341991341992
+45	s20011_0001	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9755911517925248
+46	s20011_0001	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9751184834123223
+47	s20011_0001	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9688109161793372
+48	s20011_0001	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9758842443729904
+49	s20011_0001	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9772176442074648
+50	s20011_0001	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9776970954356846
+51	s20011_0001	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.966012084592145
+52	s20011_0001	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9690721649484536
+53	s20011_0001	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.982447083118224
+54	s20011_0001	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9696233292831106
+55	s20011_0001	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9650872817955112
+56	s20011_0001	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9757449757449758
+57	s20011_0001	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9748549323017408
+58	s20011_0001	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9772612430520465
+59	s20011_0001	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9814037192561488
+60	s20011_0001	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.965991902834008
+61	s20011_0001	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9800824175824175
+62	s20011_0001	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.958970792767733
+63	s20011_0001	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9689564068692206
+64	s20011_0001	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9710843373493976
+65	s20011_0001	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9848039215686275
+66	s20011_0006	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9626529298132647
+67	s20011_0006	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9561128526645768
+68	s20011_0006	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9666233203294322
+69	s20011_0006	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9682765151515151
+70	s20011_0006	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9647366129734436
+71	s20011_0006	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9610208816705337
+72	s20011_0006	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.9639240506329114
+73	s20011_0006	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9533282325937261
+74	s20011_0006	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9600557361820715
+75	s20011_0006	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9690288713910761
+76	s20011_0006	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9608516483516484
+77	s20011_0006	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9741480611045829
+78	s20011_0006	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9591036414565827
+79	s20011_0006	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.964769647696477
+80	s20011_0006	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9652631578947368
+81	s20011_0006	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9532520325203252
+82	s20011_0006	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9682165979988229
+83	s20011_0006	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.9635936582501468
+84	s20011_0006	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9584282460136674
+85	s20011_0006	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9528351881293058
+86	s20011_0006	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9786026200873362
+87	s20011_0011	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9758190327613104
+88	s20011_0011	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9765201685731487
+89	s20011_0011	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9678377041068777
+90	s20011_0011	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9777173913043479
+91	s20011_0011	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9778869778869779
+92	s20011_0011	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9768054823405377
+93	s20011_0011	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.962015503875969
+94	s20011_0011	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9509803921568627
+95	s20011_0011	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9837696335078534
+96	s20011_0011	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9652173913043478
+97	s20011_0011	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9659574468085106
+98	s20011_0011	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9679258731290092
+99	s20011_0011	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9750328515111695
+100	s20011_0011	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9779600205023065
+101	s20011_0011	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9829268292682927
+102	s20011_0011	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9547359597652976
+103	s20011_0011	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9853556485355649
+104	s20011_0011	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.9661733615221987
+105	s20011_0011	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.963439404197698
+106	s20011_0011	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9749541844838119
+107	s20011_0011	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.981028457314029
+108	s20011_0016	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9670588235294117
+109	s20011_0016	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9653916211293261
+110	s20011_0016	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9596814335490294
+111	s20011_0016	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9766558089033659
+112	s20011_0016	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9723865877712031
+113	s20011_0016	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9643237486687966
+114	s20011_0016	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.9499609069585614
+115	s20011_0016	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.943952802359882
+116	s20011_0016	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9676220806794055
+117	s20011_0016	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9633767846058349
+118	s20011_0016	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9509466437177281
+119	s20011_0016	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9613733905579399
+120	s20011_0016	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9635520212060967
+121	s20011_0016	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9679752066115702
+122	s20011_0016	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.969173859432799
+123	s20011_0016	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9425190194420964
+124	s20011_0016	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9747013352073085
+125	s20011_0016	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.9485346676197284
+126	s20011_0016	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9543596730245232
+127	s20011_0016	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9617283950617284
+128	s20011_0016	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9800498753117207
+129	s20011_0021	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9623003194888179
+130	s20011_0021	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9591097308488613
+131	s20011_0021	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9641313742437337
+132	s20011_0021	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9723394280356306
+133	s20011_0021	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9653829511034184
+134	s20011_0021	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9559573481687529
+135	s20011_0021	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.9648682559598495
+136	s20011_0021	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9537878787878787
+137	s20011_0021	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9583718778908418
+138	s20011_0021	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9697759249609171
+139	s20011_0021	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9619047619047619
+140	s20011_0021	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9725467289719626
+141	s20011_0021	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9541643376187814
+142	s20011_0021	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9645103324348607
+143	s20011_0021	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9665796344647519
+144	s20011_0021	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9606404269513009
+145	s20011_0021	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9684579439252337
+146	s20011_0021	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.960233918128655
+147	s20011_0021	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9604966139954854
+148	s20011_0021	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.952054794520548
+149	s20011_0021	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9787234042553191
+150	s20011_0026	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9543834640057021
+151	s20011_0026	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9495750708215297
+152	s20011_0026	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.963442850532161
+153	s20011_0026	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9664804469273743
+154	s20011_0026	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.967175219602404
+155	s20011_0026	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9525
+156	s20011_0026	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.9595818815331011
+157	s20011_0026	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9457364341085271
+158	s20011_0026	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9472361809045227
+159	s20011_0026	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9700056593095643
+160	s20011_0026	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9509578544061302
+161	s20011_0026	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9657843770174306
+162	s20011_0026	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9406674907292955
+163	s20011_0026	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9582929194956353
+164	s20011_0026	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9462116830537883
+165	s20011_0026	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9466165413533835
+166	s20011_0026	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9538361508452535
+167	s20011_0026	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.9602309172546504
+168	s20011_0026	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9488459139114162
+169	s20011_0026	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9495412844036697
+170	s20011_0026	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9795443979544398
+171	s20011_0031	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9777486910994765
+172	s20011_0031	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9763365468886941
+173	s20011_0031	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9803149606299213
+174	s20011_0031	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9857142857142858
+175	s20011_0031	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9869109947643979
+176	s20011_0031	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9745269286754003
+177	s20011_0031	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.9627249357326478
+178	s20011_0031	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.94921875
+179	s20011_0031	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9812002892263196
+180	s20011_0031	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9802158273381295
+181	s20011_0031	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9667170953101362
+182	s20011_0031	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9719416386083053
+183	s20011_0031	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9740518962075848
+184	s20011_0031	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9818941504178273
+185	s20011_0031	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9811659192825112
+186	s20011_0031	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9622641509433962
+187	s20011_0031	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9879385964912281
+188	s20011_0031	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.9657079646017699
+189	s20011_0031	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9679752066115702
+190	s20011_0031	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9703504043126685
+191	s20011_0031	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9899598393574297
+192	s20011_0035	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9673447537473233
+193	s20011_0035	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9628302731751007
+194	s20011_0035	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9659395331037122
+195	s20011_0035	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9736950267159885
+196	s20011_0035	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9690248565965583
+197	s20011_0035	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9614134849715679
+198	s20011_0035	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.96779303062302
+199	s20011_0035	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9566831683168316
+200	s20011_0035	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.964358039692183
+201	s20011_0035	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9725348941918055
+202	s20011_0035	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9631936579841449
+203	s20011_0035	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9721115537848606
+204	s20011_0035	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9623271340009537
+205	s20011_0035	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9622266401590457
+206	s20011_0035	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9688487584650113
+207	s20011_0035	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9580536912751678
+208	s20011_0035	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9777887462981244
+209	s20011_0035	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.963681592039801
+210	s20011_0035	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9602905569007264
+211	s20011_0035	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.958692691783931
+212	s20011_0035	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9792547061083365
+213	s20011_0039	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9573699421965318
+214	s20011_0039	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9452449567723343
+215	s20011_0039	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9527410207939508
+216	s20011_0039	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9644696189495365
+217	s20011_0039	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9604891815616181
+218	s20011_0039	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9556227937468482
+219	s20011_0039	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.9370477568740955
+220	s20011_0039	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9247311827956989
+221	s20011_0039	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9556227937468482
+222	s20011_0039	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9588405797101449
+223	s20011_0039	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9442700156985872
+224	s20011_0039	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9645669291338582
+225	s20011_0039	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.9470404984423676
+226	s20011_0039	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9521460286137149
+227	s20011_0039	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.9576811594202899
+228	s20011_0039	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.9350348027842227
+229	s20011_0039	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.962696335078534
+230	s20011_0039	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.9596091205211726
+231	s20011_0039	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9386581469648563
+232	s20011_0039	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9358446144791054
+233	s20011_0039	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9710900473933649
+234	s20011_0043	s20011_0004	Kontrolle	Diabetes mellitus Typ1	0.9584120982986768
+235	s20011_0043	s20011_0005	Kontrolle	Diabetes mellitus Typ1	0.9516957862281603
+236	s20011_0043	s20011_0009	Kontrolle	Diabetes mellitus Typ1	0.9534081104400345
+237	s20011_0043	s20011_0010	Kontrolle	Diabetes mellitus Typ1	0.9698515769944341
+238	s20011_0043	s20011_0014	Kontrolle	Diabetes mellitus Typ1	0.9613733905579399
+239	s20011_0043	s20011_0015	Kontrolle	Diabetes mellitus Typ1	0.9551076500229042
+240	s20011_0043	s20011_0019	Kontrolle	Diabetes mellitus Typ1	0.955196017423771
+241	s20011_0043	s20011_0020	Kontrolle	Diabetes mellitus Typ1	0.9446107784431138
+242	s20011_0043	s20011_0024	Kontrolle	Diabetes mellitus Typ1	0.9579716765646414
+243	s20011_0043	s20011_0025	Kontrolle	Diabetes mellitus Typ1	0.9627714581178903
+244	s20011_0043	s20011_0029	Kontrolle	Diabetes mellitus Typ1	0.9521563342318059
+245	s20011_0043	s20011_0030	Kontrolle	Diabetes mellitus Typ1	0.9670710571923743
+246	s20011_0043	s20011_0033	Kontrolle	Diabetes mellitus Typ1	0.956617243272927
+247	s20011_0043	s20011_0034	Kontrolle	Diabetes mellitus Typ1	0.9626666666666667
+248	s20011_0043	s20011_0037	Kontrolle	Diabetes mellitus Typ1	0.963345379452762
+249	s20011_0043	s20011_0038	Kontrolle	Diabetes mellitus Typ1	0.946914399469144
+250	s20011_0043	s20011_0041	Kontrolle	Diabetes mellitus Typ1	0.9713467048710601
+251	s20011_0043	s20011_0042	Kontrolle	Diabetes mellitus Typ1	0.952463768115942
+252	s20011_0043	s20011_0045	Kontrolle	Diabetes mellitus Typ1	0.9553322166387493
+253	s20011_0043	s20011_0047	Kontrolle	Diabetes mellitus Typ1	0.9440083725798012
+254	s20011_0043	s20011_0049	Kontrolle	Diabetes mellitus Typ1	0.9750322858372794
+255	s20011_0001	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9815864022662889
+256	s20011_0001	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9760041731872717
+257	s20011_0001	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9566176470588236
+258	s20011_0001	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9713349713349714
+259	s20011_0001	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9797590361445783
+260	s20011_0001	s20011_0017	Kontrolle	pankreopriver Diabetes	0.9762796504369539
+261	s20011_0001	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9688473520249221
+262	s20011_0001	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9723053892215568
+263	s20011_0001	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9683848797250859
+264	s20011_0001	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9739463601532568
+265	s20011_0001	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9731182795698925
+266	s20011_0001	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9668831168831169
+267	s20011_0001	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9742489270386266
+268	s20011_0001	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9828178694158075
+269	s20011_0001	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9709251101321585
+270	s20011_0001	s20011_0046	Kontrolle	pankreopriver Diabetes	0.984081041968162
+271	s20011_0001	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9816612729234089
+272	s20011_0006	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9851279000594884
+273	s20011_0006	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9628079962807996
+274	s20011_0006	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9681957186544342
+275	s20011_0006	s20011_0008	Kontrolle	pankreopriver Diabetes	0.97165991902834
+276	s20011_0006	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9675324675324676
+277	s20011_0006	s20011_0017	Kontrolle	pankreopriver Diabetes	0.9680908599242833
+278	s20011_0006	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9700053561863953
+279	s20011_0006	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9659735349716446
+280	s20011_0006	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9685131195335277
+281	s20011_0006	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9672236503856041
+282	s20011_0006	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9841954022988506
+283	s20011_0006	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9677956690727374
+284	s20011_0006	s20011_0036	Kontrolle	pankreopriver Diabetes	0.980849292256453
+285	s20011_0006	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9774647887323944
+286	s20011_0006	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9510591672753835
+287	s20011_0006	s20011_0046	Kontrolle	pankreopriver Diabetes	0.9642233856893543
+288	s20011_0006	s20011_0048	Kontrolle	pankreopriver Diabetes	0.968421052631579
+289	s20011_0011	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9767441860465116
+290	s20011_0011	s20011_0003	Kontrolle	pankreopriver Diabetes	0.97016515716569
+291	s20011_0011	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9587706146926537
+292	s20011_0011	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9697478991596639
+293	s20011_0011	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9769607843137255
+294	s20011_0011	s20011_0017	Kontrolle	pankreopriver Diabetes	0.9758269720101781
+295	s20011_0011	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9629865985960434
+296	s20011_0011	s20011_0022	Kontrolle	pankreopriver Diabetes	0.96771714066103
+297	s20011_0011	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9784722222222222
+298	s20011_0011	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9692913385826771
+299	s20011_0011	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9742647058823529
+300	s20011_0011	s20011_0032	Kontrolle	pankreopriver Diabetes	0.97167325428195
+301	s20011_0011	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9711111111111111
+302	s20011_0011	s20011_0040	Kontrolle	pankreopriver Diabetes	0.982363315696649
+303	s20011_0011	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9710669077757685
+304	s20011_0011	s20011_0046	Kontrolle	pankreopriver Diabetes	0.986822840409956
+305	s20011_0011	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9802414928649835
+306	s20011_0016	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9753265602322206
+307	s20011_0016	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9658302189001602
+308	s20011_0016	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9534184823441022
+309	s20011_0016	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9558573853989814
+310	s20011_0016	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9755022048015679
+311	s20011_0016	s20011_0017	Kontrolle	pankreopriver Diabetes	0.964720974983964
+312	s20011_0016	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9564381806534273
+313	s20011_0016	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9582366589327146
+314	s20011_0016	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9656381486676017
+315	s20011_0016	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9645110410094637
+316	s20011_0016	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9724770642201835
+317	s20011_0016	s20011_0032	Kontrolle	pankreopriver Diabetes	0.96494708994709
+318	s20011_0016	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9723756906077348
+319	s20011_0016	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9752212389380531
+320	s20011_0016	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9532538955087076
+321	s20011_0016	s20011_0046	Kontrolle	pankreopriver Diabetes	0.9763779527559056
+322	s20011_0016	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9712707182320443
+323	s20011_0021	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9834417504435246
+324	s20011_0021	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9562790697674418
+325	s20011_0021	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9709443099273608
+326	s20011_0021	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9725935828877005
+327	s20011_0021	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9716981132075472
+328	s20011_0021	s20011_0017	Kontrolle	pankreopriver Diabetes	0.9754666666666667
+329	s20011_0021	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9647058823529412
+330	s20011_0021	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9630094043887147
+331	s20011_0021	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9740932642487047
+332	s20011_0021	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9701207883026065
+333	s20011_0021	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9865056818181818
+334	s20011_0021	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9697303247110622
+335	s20011_0021	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9868959868959869
+336	s20011_0021	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9769553072625698
+337	s20011_0021	s20011_0044	Kontrolle	pankreopriver Diabetes	0.951519536903039
+338	s20011_0021	s20011_0046	Kontrolle	pankreopriver Diabetes	0.9612706701479548
+339	s20011_0021	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9656652360515021
+340	s20011_0026	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9830729166666666
+341	s20011_0026	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9637537239324727
+342	s20011_0026	s20011_0007	Kontrolle	pankreopriver Diabetes	0.972018654230513
+343	s20011_0026	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9647411852963241
+344	s20011_0026	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9648960739030024
+345	s20011_0026	s20011_0017	Kontrolle	pankreopriver Diabetes	0.972027972027972
+346	s20011_0026	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9668989547038328
+347	s20011_0026	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9632963988919667
+348	s20011_0026	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9689086294416244
+349	s20011_0026	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9675370501058574
+350	s20011_0026	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9880478087649402
+351	s20011_0026	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9687312086590499
+352	s20011_0026	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9811320754716981
+353	s20011_0026	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9716981132075472
+354	s20011_0026	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9444444444444444
+355	s20011_0026	s20011_0046	Kontrolle	pankreopriver Diabetes	0.9559925093632958
+356	s20011_0026	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9697900665642601
+357	s20011_0031	s20011_0002	Kontrolle	pankreopriver Diabetes	0.971830985915493
+358	s20011_0031	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9758771929824561
+359	s20011_0031	s20011_0007	Kontrolle	pankreopriver Diabetes	0.97610513739546
+360	s20011_0031	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9672619047619048
+361	s20011_0031	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9809960681520314
+362	s20011_0031	s20011_0017	Kontrolle	pankreopriver Diabetes	0.976258309591643
+363	s20011_0031	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9688679245283018
+364	s20011_0031	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9695044472681067
+365	s20011_0031	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9771241830065359
+366	s20011_0031	s20011_0027	Kontrolle	pankreopriver Diabetes	0.974934036939314
+367	s20011_0031	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9754385964912281
+368	s20011_0031	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9811881188118812
+369	s20011_0031	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9658792650918635
+370	s20011_0031	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9853181076672104
+371	s20011_0031	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9479166666666666
+372	s20011_0031	s20011_0046	Kontrolle	pankreopriver Diabetes	0.985545335085414
+373	s20011_0031	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9831288343558282
+374	s20011_0035	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9844455594581034
+375	s20011_0035	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9696847210994342
+376	s20011_0035	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9659618359979371
+377	s20011_0035	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9709497206703911
+378	s20011_0035	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9734143562476263
+379	s20011_0035	s20011_0017	Kontrolle	pankreopriver Diabetes	0.9746660525103639
+380	s20011_0035	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9724896836313618
+381	s20011_0035	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9711134453781513
+382	s20011_0035	s20011_0023	Kontrolle	pankreopriver Diabetes	0.970399605328071
+383	s20011_0035	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9705882352941176
+384	s20011_0035	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9900874635568513
+385	s20011_0035	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9750470809792844
+386	s20011_0035	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9868593955321945
+387	s20011_0035	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9810017271157168
+388	s20011_0035	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9645808736717828
+389	s20011_0035	s20011_0046	Kontrolle	pankreopriver Diabetes	0.9701606732976281
+390	s20011_0035	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9678765123070505
+391	s20011_0039	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9787516600265604
+392	s20011_0039	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9591321897073662
+393	s20011_0039	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9715639810426541
+394	s20011_0039	s20011_0008	Kontrolle	pankreopriver Diabetes	0.9577248270561107
+395	s20011_0039	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9683573755234993
+396	s20011_0039	s20011_0017	Kontrolle	pankreopriver Diabetes	0.957459556620731
+397	s20011_0039	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9553571428571429
+398	s20011_0039	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9530916844349681
+399	s20011_0039	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9657622739018088
+400	s20011_0039	s20011_0027	Kontrolle	pankreopriver Diabetes	0.9526928675400291
+401	s20011_0039	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9845150774246129
+402	s20011_0039	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9625766871165644
+403	s20011_0039	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9787234042553191
+404	s20011_0039	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9636803874092009
+405	s20011_0039	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9353484466834593
+406	s20011_0039	s20011_0046	Kontrolle	pankreopriver Diabetes	0.9638327853452325
+407	s20011_0039	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9667359667359667
+408	s20011_0043	s20011_0002	Kontrolle	pankreopriver Diabetes	0.9771796372147454
+409	s20011_0043	s20011_0003	Kontrolle	pankreopriver Diabetes	0.9568609453877925
+410	s20011_0043	s20011_0007	Kontrolle	pankreopriver Diabetes	0.9665271966527197
+411	s20011_0043	s20011_0008	Kontrolle	pankreopriver Diabetes	0.959468438538206
+412	s20011_0043	s20011_0013	Kontrolle	pankreopriver Diabetes	0.9676733304976606
+413	s20011_0043	s20011_0017	Kontrolle	pankreopriver Diabetes	0.9644184811471057
+414	s20011_0043	s20011_0018	Kontrolle	pankreopriver Diabetes	0.9564524694636218
+415	s20011_0043	s20011_0022	Kontrolle	pankreopriver Diabetes	0.9630314232902033
+416	s20011_0043	s20011_0023	Kontrolle	pankreopriver Diabetes	0.9680911680911681
+417	s20011_0043	s20011_0027	Kontrolle	pankreopriver Diabetes	0.965495608531995
+418	s20011_0043	s20011_0028	Kontrolle	pankreopriver Diabetes	0.9825296995108316
+419	s20011_0043	s20011_0032	Kontrolle	pankreopriver Diabetes	0.9668478260869565
+420	s20011_0043	s20011_0036	Kontrolle	pankreopriver Diabetes	0.9814963797264682
+421	s20011_0043	s20011_0040	Kontrolle	pankreopriver Diabetes	0.9724896836313618
+422	s20011_0043	s20011_0044	Kontrolle	pankreopriver Diabetes	0.9480427046263346
+423	s20011_0043	s20011_0046	Kontrolle	pankreopriver Diabetes	0.9666381522668948
+424	s20011_0043	s20011_0048	Kontrolle	pankreopriver Diabetes	0.9627182633317602
+0	s20011_0003	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9814713896457765
+1	s20011_0007	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9768339768339769
+2	s20011_0007	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9722222222222222
+3	s20011_0008	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.970770593445527
+4	s20011_0008	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9725943970767357
+5	s20011_0008	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9637352674524026
+6	s20011_0013	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9854563691073219
+7	s20011_0013	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9709208400646203
+8	s20011_0013	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9796334012219959
+9	s20011_0013	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.979490022172949
+10	s20011_0017	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9788639365918098
+11	s20011_0017	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9706759443339961
+12	s20011_0017	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9647457627118644
+13	s20011_0017	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9571865443425076
+14	s20011_0017	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9746543778801844
+15	s20011_0018	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.97167325428195
+16	s20011_0018	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9590818363273453
+17	s20011_0018	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9602157788267026
+18	s20011_0018	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9631578947368421
+19	s20011_0018	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9715335169880625
+20	s20011_0018	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9629411764705882
+21	s20011_0022	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9743384121892542
+22	s20011_0022	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9644087256027555
+23	s20011_0022	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9705882352941176
+24	s20011_0022	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9582146248812915
+25	s20011_0022	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9732564237021499
+26	s20011_0022	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9679442508710802
+27	s20011_0022	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9531140657802659
+28	s20011_0023	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9819102749638206
+29	s20011_0023	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9723404255319149
+30	s20011_0023	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9641791044776119
+31	s20011_0023	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9705882352941176
+32	s20011_0023	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9789525208027411
+33	s20011_0023	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9712276214833759
+34	s20011_0023	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9642857142857143
+35	s20011_0023	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9716475095785441
+36	s20011_0027	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9828431372549019
+37	s20011_0027	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.967930029154519
+38	s20011_0027	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9749163879598662
+39	s20011_0027	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.966958211856171
+40	s20011_0027	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9727709556860651
+41	s20011_0027	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9634670487106017
+42	s20011_0027	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9594306049822064
+43	s20011_0027	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9464285714285714
+44	s20011_0027	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.9733124018838305
+45	s20011_0028	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9845559845559846
+46	s20011_0028	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9812661498708011
+47	s20011_0028	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9772277227722772
+48	s20011_0028	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9965397923875432
+49	s20011_0028	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.981764705882353
+50	s20011_0028	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9846153846153847
+51	s20011_0028	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9682926829268292
+52	s20011_0028	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9814241486068112
+53	s20011_0028	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.98359161349134
+54	s20011_0028	s20011_0027	pankreopriver Diabetes	pankreopriver Diabetes	0.9829242262540021
+55	s20011_0032	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.98645903859174
+56	s20011_0032	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9699439633214467
+57	s20011_0032	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9700348432055749
+58	s20011_0032	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9734582357533177
+59	s20011_0032	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9769628584861307
+60	s20011_0032	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9727932285368803
+61	s20011_0032	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9705705705705706
+62	s20011_0032	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9727403156384505
+63	s20011_0032	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.9702970297029703
+64	s20011_0032	s20011_0027	pankreopriver Diabetes	pankreopriver Diabetes	0.9682656826568266
+65	s20011_0032	s20011_0028	pankreopriver Diabetes	pankreopriver Diabetes	0.9805414551607445
+66	s20011_0036	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9798816568047337
+67	s20011_0036	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9801470588235294
+68	s20011_0036	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9681762545899633
+69	s20011_0036	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9681335356600911
+70	s20011_0036	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9794701986754967
+71	s20011_0036	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9639727361246349
+72	s20011_0036	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9584942084942085
+73	s20011_0036	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9635890767230169
+74	s20011_0036	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.9790286975717439
+75	s20011_0036	s20011_0027	pankreopriver Diabetes	pankreopriver Diabetes	0.9633152173913043
+76	s20011_0036	s20011_0028	pankreopriver Diabetes	pankreopriver Diabetes	0.9579524680073126
+77	s20011_0036	s20011_0032	pankreopriver Diabetes	pankreopriver Diabetes	0.9809236947791165
+78	s20011_0040	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9841565703634669
+79	s20011_0040	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.982356647763075
+80	s20011_0040	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.98
+81	s20011_0040	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9658314350797267
+82	s20011_0040	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9768652400231348
+83	s20011_0040	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9672262190247801
+84	s20011_0040	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9724842767295597
+85	s20011_0040	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9698492462311558
+86	s20011_0040	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.9805481874447391
+87	s20011_0040	s20011_0027	pankreopriver Diabetes	pankreopriver Diabetes	0.9568421052631579
+88	s20011_0040	s20011_0028	pankreopriver Diabetes	pankreopriver Diabetes	0.9873096446700508
+89	s20011_0040	s20011_0032	pankreopriver Diabetes	pankreopriver Diabetes	0.9752679307502061
+90	s20011_0040	s20011_0036	pankreopriver Diabetes	pankreopriver Diabetes	0.972972972972973
+91	s20011_0044	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9663137632338787
+92	s20011_0044	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9596616785946649
+93	s20011_0044	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9697265625
+94	s20011_0044	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9505882352941176
+95	s20011_0044	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9633353045535187
+96	s20011_0044	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9445822994210091
+97	s20011_0044	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9555016181229773
+98	s20011_0044	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9478623566214807
+99	s20011_0044	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.959743824336688
+100	s20011_0044	s20011_0027	pankreopriver Diabetes	pankreopriver Diabetes	0.948220064724919
+101	s20011_0044	s20011_0028	pankreopriver Diabetes	pankreopriver Diabetes	0.9857328145265889
+102	s20011_0044	s20011_0032	pankreopriver Diabetes	pankreopriver Diabetes	0.9628064243448858
+103	s20011_0044	s20011_0036	pankreopriver Diabetes	pankreopriver Diabetes	0.9577464788732394
+104	s20011_0044	s20011_0040	pankreopriver Diabetes	pankreopriver Diabetes	0.9567430025445293
+105	s20011_0046	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.9874182184197282
+106	s20011_0046	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9707910750507099
+107	s20011_0046	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9836817950025497
+108	s20011_0046	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9776536312849162
+109	s20011_0046	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9701492537313433
+110	s20011_0046	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9773672055427252
+111	s20011_0046	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9789280806229959
+112	s20011_0046	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9747235387045814
+113	s20011_0046	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.980844793713163
+114	s20011_0046	s20011_0027	pankreopriver Diabetes	pankreopriver Diabetes	0.9737124463519313
+115	s20011_0046	s20011_0028	pankreopriver Diabetes	pankreopriver Diabetes	0.9894242068155111
+116	s20011_0046	s20011_0032	pankreopriver Diabetes	pankreopriver Diabetes	0.9773264052905054
+117	s20011_0046	s20011_0036	pankreopriver Diabetes	pankreopriver Diabetes	0.9874255459960292
+118	s20011_0046	s20011_0040	pankreopriver Diabetes	pankreopriver Diabetes	0.9790940766550522
+119	s20011_0046	s20011_0044	pankreopriver Diabetes	pankreopriver Diabetes	0.9618593563766389
+120	s20011_0048	s20011_0002	pankreopriver Diabetes	pankreopriver Diabetes	0.987012987012987
+121	s20011_0048	s20011_0003	pankreopriver Diabetes	pankreopriver Diabetes	0.9670378619153674
+122	s20011_0048	s20011_0007	pankreopriver Diabetes	pankreopriver Diabetes	0.9816408491107286
+123	s20011_0048	s20011_0008	pankreopriver Diabetes	pankreopriver Diabetes	0.9771573604060914
+124	s20011_0048	s20011_0013	pankreopriver Diabetes	pankreopriver Diabetes	0.9730066445182725
+125	s20011_0048	s20011_0017	pankreopriver Diabetes	pankreopriver Diabetes	0.9716640906749099
+126	s20011_0048	s20011_0018	pankreopriver Diabetes	pankreopriver Diabetes	0.9739795918367347
+127	s20011_0048	s20011_0022	pankreopriver Diabetes	pankreopriver Diabetes	0.9744958481613286
+128	s20011_0048	s20011_0023	pankreopriver Diabetes	pankreopriver Diabetes	0.9717607973421927
+129	s20011_0048	s20011_0027	pankreopriver Diabetes	pankreopriver Diabetes	0.9714805825242718
+130	s20011_0048	s20011_0028	pankreopriver Diabetes	pankreopriver Diabetes	0.9865047233468286
+131	s20011_0048	s20011_0032	pankreopriver Diabetes	pankreopriver Diabetes	0.9731012658227848
+132	s20011_0048	s20011_0036	pankreopriver Diabetes	pankreopriver Diabetes	0.9805749805749806
+133	s20011_0048	s20011_0040	pankreopriver Diabetes	pankreopriver Diabetes	0.9787798408488063
+134	s20011_0048	s20011_0044	pankreopriver Diabetes	pankreopriver Diabetes	0.9646739130434783
+135	s20011_0048	s20011_0046	pankreopriver Diabetes	pankreopriver Diabetes	0.9668485102811583
+136	s20011_0002	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.983726606997559
+137	s20011_0002	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.978776529338327
+138	s20011_0002	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9808467741935484
+139	s20011_0002	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9922351636161952
+140	s20011_0002	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9854051333668847
+141	s20011_0002	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9798913043478261
+142	s20011_0002	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9634146341463414
+143	s20011_0002	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.970317297850563
+144	s20011_0002	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9848566792861005
+145	s20011_0002	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9776643267389917
+146	s20011_0002	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9787045252883763
+147	s20011_0002	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9748148148148148
+148	s20011_0002	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9823129251700681
+149	s20011_0002	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9820675105485233
+150	s20011_0002	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9841671944268524
+151	s20011_0002	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9757575757575757
+152	s20011_0002	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.987627365356623
+153	s20011_0002	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9781500364166059
+154	s20011_0002	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9741258741258741
+155	s20011_0002	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9758883248730964
+156	s20011_0002	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9877112135176651
+157	s20011_0003	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9686046511627907
+158	s20011_0003	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9660287081339712
+159	s20011_0003	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9604081632653061
+160	s20011_0003	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9719051799824407
+161	s20011_0003	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9695863746958637
+162	s20011_0003	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9624190064794816
+163	s20011_0003	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9589358010410642
+164	s20011_0003	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9549488054607509
+165	s20011_0003	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9642087106511428
+166	s20011_0003	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9669742593491987
+167	s20011_0003	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.964793082149475
+168	s20011_0003	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9742074153680816
+169	s20011_0003	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9619928094504365
+170	s20011_0003	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9693534844668346
+171	s20011_0003	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9705029013539652
+172	s20011_0003	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9579011592434411
+173	s20011_0003	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9759486905398183
+174	s20011_0003	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9623250807319699
+175	s20011_0003	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9565217391304348
+176	s20011_0003	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9576023391812866
+177	s20011_0003	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9737489745693191
+178	s20011_0007	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9715719063545151
+179	s20011_0007	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9759341355288157
+180	s20011_0007	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9749232343909928
+181	s20011_0007	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9778283115406481
+182	s20011_0007	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9732647814910026
+183	s20011_0007	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.977997799779978
+184	s20011_0007	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9611248966087675
+185	s20011_0007	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9555555555555556
+186	s20011_0007	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9796814936847886
+187	s20011_0007	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9626474442988204
+188	s20011_0007	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9614678899082569
+189	s20011_0007	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9713639788997739
+190	s20011_0007	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9799723756906077
+191	s20011_0007	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9786210582576162
+192	s20011_0007	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9820166987797045
+193	s20011_0007	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9597855227882037
+194	s20011_0007	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9837037037037037
+195	s20011_0007	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9593984962406015
+196	s20011_0007	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9708599857853589
+197	s20011_0007	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9709677419354839
+198	s20011_0007	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9770114942528736
+199	s20011_0008	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9720616570327553
+200	s20011_0008	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9636493228795439
+201	s20011_0008	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9697648376259799
+202	s20011_0008	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9800374298190893
+203	s20011_0008	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9754189944134078
+204	s20011_0008	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9745916515426497
+205	s20011_0008	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9490384615384615
+206	s20011_0008	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9312581063553826
+207	s20011_0008	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9658328248932275
+208	s20011_0008	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9725036179450073
+209	s20011_0008	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9614147909967846
+210	s20011_0008	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9611063094209161
+211	s20011_0008	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.966168371361133
+212	s20011_0008	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9741784037558685
+213	s20011_0008	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9718004338394793
+214	s20011_0008	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9452054794520548
+215	s20011_0008	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9771573604060914
+216	s20011_0008	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9739495798319328
+217	s20011_0008	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9535830618892508
+218	s20011_0008	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9570284049526584
+219	s20011_0008	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9853024307518372
+220	s20011_0013	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9706353443673251
+221	s20011_0013	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9665178571428571
+222	s20011_0013	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.971047619047619
+223	s20011_0013	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9774682507169193
+224	s20011_0013	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9733333333333334
+225	s20011_0013	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9643435980551054
+226	s20011_0013	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9688654353562005
+227	s20011_0013	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9675245098039216
+228	s20011_0013	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9701853344077357
+229	s20011_0013	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9762118491921006
+230	s20011_0013	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9724873666479505
+231	s20011_0013	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9766865079365079
+232	s20011_0013	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9682163187855788
+233	s20011_0013	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9716200236499803
+234	s20011_0013	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9683687302304564
+235	s20011_0013	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9689922480620154
+236	s20011_0013	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9711729622266402
+237	s20011_0013	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9646941819990055
+238	s20011_0013	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9692603266090298
+239	s20011_0013	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9615036231884058
+240	s20011_0013	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9792467332820907
+241	s20011_0017	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9752824858757062
+242	s20011_0017	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9656724817107485
+243	s20011_0017	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9765301426599171
+244	s20011_0017	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9813319878910192
+245	s20011_0017	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9755196304849885
+246	s20011_0017	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9733333333333334
+247	s20011_0017	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9539660056657224
+248	s20011_0017	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9532062391681109
+249	s20011_0017	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9677259185700099
+250	s20011_0017	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9732498577120091
+251	s20011_0017	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9616270145817345
+252	s20011_0017	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9701298701298702
+253	s20011_0017	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9690346083788707
+254	s20011_0017	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9769673704414588
+255	s20011_0017	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9691780821917808
+256	s20011_0017	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9555052790346908
+257	s20011_0017	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9775353016688062
+258	s20011_0017	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9711538461538461
+259	s20011_0017	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9627097576134245
+260	s20011_0017	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9628783552255854
+261	s20011_0017	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9784341303328645
+262	s20011_0018	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9726699369306236
+263	s20011_0018	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9671125975473801
+264	s20011_0018	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9648636153490523
+265	s20011_0018	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9753148614609571
+266	s20011_0018	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9719152854511971
+267	s20011_0018	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9664363277393879
+268	s20011_0018	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9515108924806747
+269	s20011_0018	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9520137103684662
+270	s20011_0018	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9730259931338892
+271	s20011_0018	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9635327635327635
+272	s20011_0018	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9612756264236902
+273	s20011_0018	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9690920798454604
+274	s20011_0018	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9674502712477396
+275	s20011_0018	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9717432950191571
+276	s20011_0018	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9746621621621622
+277	s20011_0018	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9591078066914498
+278	s20011_0018	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9803424223208624
+279	s20011_0018	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9514563106796117
+280	s20011_0018	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.95856524427953
+281	s20011_0018	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9572892938496583
+282	s20011_0018	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9742870500233755
+283	s20011_0022	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9695387293298521
+284	s20011_0022	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9575315195753152
+285	s20011_0022	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9618037135278514
+286	s20011_0022	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9760374050263004
+287	s20011_0022	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9753151260504201
+288	s20011_0022	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.966343411294923
+289	s20011_0022	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9505637467476149
+290	s20011_0022	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9367231638418079
+291	s20011_0022	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9686966420034149
+292	s20011_0022	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9642857142857143
+293	s20011_0022	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9547641963426372
+294	s20011_0022	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9646781789638933
+295	s20011_0022	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.962291515591008
+296	s20011_0022	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9713182570325427
+297	s20011_0022	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9691895512391159
+298	s20011_0022	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9482596425211665
+299	s20011_0022	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9728892331525949
+300	s20011_0022	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9667953667953668
+301	s20011_0022	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9552906110283159
+302	s20011_0022	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9533783783783784
+303	s20011_0022	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9802666666666666
+304	s20011_0023	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9685534591194969
+305	s20011_0023	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9671732522796352
+306	s20011_0023	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9652605459057072
+307	s20011_0023	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.977705274605764
+308	s20011_0023	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9738400789733465
+309	s20011_0023	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9740877842411423
+310	s20011_0023	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9619860356865787
+311	s20011_0023	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9580896686159844
+312	s20011_0023	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9751716851558373
+313	s20011_0023	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9779005524861878
+314	s20011_0023	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9659284497444633
+315	s20011_0023	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.973758865248227
+316	s20011_0023	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.972313777191826
+317	s20011_0023	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9768993839835729
+318	s20011_0023	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.976044226044226
+319	s20011_0023	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9651162790697675
+320	s20011_0023	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9774964838255977
+321	s20011_0023	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9632248939179632
+322	s20011_0023	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9738430583501007
+323	s20011_0023	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9673645320197044
+324	s20011_0023	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9865871833084948
+325	s20011_0027	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.963963963963964
+326	s20011_0027	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.95937711577522
+327	s20011_0027	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9611021069692058
+328	s20011_0027	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9731022115959355
+329	s20011_0027	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9765082754938601
+330	s20011_0027	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.97165991902834
+331	s20011_0027	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9509366636931311
+332	s20011_0027	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9391812865497076
+333	s20011_0027	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9710648148148148
+334	s20011_0027	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9634482758620689
+335	s20011_0027	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9448345035105316
+336	s20011_0027	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9711769415532426
+337	s20011_0027	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.966715976331361
+338	s20011_0027	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9730790802019069
+339	s20011_0027	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9663461538461539
+340	s20011_0027	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9455252918287937
+341	s20011_0027	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9696969696969697
+342	s20011_0027	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9667194928684627
+343	s20011_0027	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9517241379310345
+344	s20011_0027	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9544513457556936
+345	s20011_0027	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9810092240911558
+346	s20011_0028	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9840764331210191
+347	s20011_0028	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9879518072289156
+348	s20011_0028	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9853372434017595
+349	s20011_0028	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9920687376074026
+350	s20011_0028	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.985285462036492
+351	s20011_0028	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9852752880921894
+352	s20011_0028	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9802904564315352
+353	s20011_0028	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9814550641940085
+354	s20011_0028	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9910884786760026
+355	s20011_0028	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9813374805598756
+356	s20011_0028	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9761620977353993
+357	s20011_0028	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9832402234636871
+358	s20011_0028	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9856781802864364
+359	s20011_0028	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.987012987012987
+360	s20011_0028	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9884348496530455
+361	s20011_0028	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9851936218678815
+362	s20011_0028	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9935897435897436
+363	s20011_0028	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.968430826369545
+364	s20011_0028	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9826839826839827
+365	s20011_0028	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9869731800766284
+366	s20011_0028	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9849397590361446
+367	s20011_0032	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9683590875643856
+368	s20011_0032	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9652978600347022
+369	s20011_0032	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9706578324656886
+370	s20011_0032	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9755590223608944
+371	s20011_0032	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9710626185958254
+372	s20011_0032	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9716312056737588
+373	s20011_0032	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9606986899563319
+374	s20011_0032	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9661016949152542
+375	s20011_0032	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9684959349593496
+376	s20011_0032	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9700704225352113
+377	s20011_0032	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9699842022116903
+378	s20011_0032	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9766977363515313
+379	s20011_0032	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9700187382885697
+380	s20011_0032	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9723729649728663
+381	s20011_0032	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9755102040816327
+382	s20011_0032	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9603112840466926
+383	s20011_0032	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9713524317121919
+384	s20011_0032	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9654255319148937
+385	s20011_0032	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9608723540731238
+386	s20011_0032	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9624192601291838
+387	s20011_0032	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9808612440191388
+388	s20011_0036	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9773333333333334
+389	s20011_0036	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.980565371024735
+390	s20011_0036	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9834983498349835
+391	s20011_0036	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9878695981804397
+392	s20011_0036	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9861202908129544
+393	s20011_0036	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9817518248175182
+394	s20011_0036	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9727979274611399
+395	s20011_0036	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9582504970178927
+396	s20011_0036	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9802631578947368
+397	s20011_0036	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9827429609445958
+398	s20011_0036	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9723502304147466
+399	s20011_0036	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9784824462061155
+400	s20011_0036	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9819277108433735
+401	s20011_0036	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9852838121934128
+402	s20011_0036	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9818511796733213
+403	s20011_0036	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9706314243759178
+404	s20011_0036	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9888765294771968
+405	s20011_0036	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9720982142857143
+406	s20011_0036	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9760914760914761
+407	s20011_0036	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9774164408310749
+408	s20011_0036	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9871273712737128
+409	s20011_0040	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9784394250513347
+410	s20011_0040	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.970193740685544
+411	s20011_0040	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9815668202764977
+412	s20011_0040	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9817589576547231
+413	s20011_0040	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9803240740740741
+414	s20011_0040	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9786028949024543
+415	s20011_0040	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9655521783181358
+416	s20011_0040	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9584487534626038
+417	s20011_0040	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9727848101265822
+418	s20011_0040	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.978013646702047
+419	s20011_0040	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9653979238754326
+420	s20011_0040	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9717925386715196
+421	s20011_0040	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9744013212221305
+422	s20011_0040	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9792935444579781
+423	s20011_0040	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9710365853658537
+424	s20011_0040	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9596864501679732
+425	s20011_0040	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9691749773345422
+426	s20011_0040	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9786666666666667
+427	s20011_0040	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9694137638062872
+428	s20011_0040	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9681335356600911
+429	s20011_0040	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9906268306971294
+430	s20011_0044	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9551760939167556
+431	s20011_0044	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9451737451737452
+432	s20011_0044	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9571428571428572
+433	s20011_0044	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9672897196261683
+434	s20011_0044	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9656398104265402
+435	s20011_0044	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9524119947848761
+436	s20011_0044	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9421052631578948
+437	s20011_0044	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9144542772861357
+438	s20011_0044	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9489862655330281
+439	s20011_0044	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9634241245136187
+440	s20011_0044	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9282238442822385
+441	s20011_0044	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9549718574108818
+442	s20011_0044	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9394463667820069
+443	s20011_0044	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9625
+444	s20011_0044	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9545454545454546
+445	s20011_0044	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9396051103368177
+446	s20011_0044	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9610750695088045
+447	s20011_0044	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.950925925925926
+448	s20011_0044	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9444444444444444
+449	s20011_0044	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9307875894988067
+450	s20011_0044	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9692028985507246
+451	s20011_0046	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9682454251883746
+452	s20011_0046	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9569941149841558
+453	s20011_0046	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9709257842387146
+454	s20011_0046	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9739884393063584
+455	s20011_0046	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9704641350210971
+456	s20011_0046	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9586743044189853
+457	s20011_0046	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9714134462678666
+458	s20011_0046	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.965389369592089
+459	s20011_0046	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.959950960359624
+460	s20011_0046	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9788573999100315
+461	s20011_0046	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9711538461538461
+462	s20011_0046	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9785963165754107
+463	s20011_0046	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9571084337349398
+464	s20011_0046	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9674085850556439
+465	s20011_0046	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9568411386593205
+466	s20011_0046	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.966499162479062
+467	s20011_0046	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9642857142857143
+468	s20011_0046	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9742446755819713
+469	s20011_0046	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9635922330097088
+470	s20011_0046	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9556064073226544
+471	s20011_0046	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9807321772639692
+472	s20011_0048	s20011_0004	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9671732522796352
+473	s20011_0048	s20011_0005	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9611553784860558
+474	s20011_0048	s20011_0009	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9661229611041405
+475	s20011_0048	s20011_0010	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9742081447963801
+476	s20011_0048	s20011_0014	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9690635451505016
+477	s20011_0048	s20011_0015	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9639358860195903
+478	s20011_0048	s20011_0019	pankreopriver Diabetes	Diabetes mellitus Typ1	0.962717979555021
+479	s20011_0048	s20011_0020	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9681077250177179
+480	s20011_0048	s20011_0024	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9639358860195903
+481	s20011_0048	s20011_0025	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9765586034912718
+482	s20011_0048	s20011_0029	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9630829015544041
+483	s20011_0048	s20011_0030	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9771332961517011
+484	s20011_0048	s20011_0033	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9654439128123339
+485	s20011_0048	s20011_0034	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9701427953266984
+486	s20011_0048	s20011_0037	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9662808253648717
+487	s20011_0048	s20011_0038	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9684144030322173
+488	s20011_0048	s20011_0041	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9738015607580826
+489	s20011_0048	s20011_0042	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9613228699551569
+490	s20011_0048	s20011_0045	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9682454251883746
+491	s20011_0048	s20011_0047	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9581019687026754
+492	s20011_0048	s20011_0049	pankreopriver Diabetes	Diabetes mellitus Typ1	0.9802521008403361
+493	s20011_0002	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9815864022662889
+494	s20011_0002	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9851279000594884
+495	s20011_0002	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9767441860465116
+496	s20011_0002	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9753265602322206
+497	s20011_0002	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9834417504435246
+498	s20011_0002	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9830729166666666
+499	s20011_0002	s20011_0031	pankreopriver Diabetes	Kontrolle	0.971830985915493
+500	s20011_0002	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9844455594581034
+501	s20011_0002	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9787516600265604
+502	s20011_0002	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9771796372147454
+503	s20011_0003	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9760041731872717
+504	s20011_0003	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9628079962807996
+505	s20011_0003	s20011_0011	pankreopriver Diabetes	Kontrolle	0.97016515716569
+506	s20011_0003	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9658302189001602
+507	s20011_0003	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9562790697674418
+508	s20011_0003	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9637537239324727
+509	s20011_0003	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9758771929824561
+510	s20011_0003	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9696847210994342
+511	s20011_0003	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9591321897073662
+512	s20011_0003	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9568609453877925
+513	s20011_0007	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9566176470588236
+514	s20011_0007	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9681957186544342
+515	s20011_0007	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9587706146926537
+516	s20011_0007	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9534184823441022
+517	s20011_0007	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9709443099273608
+518	s20011_0007	s20011_0026	pankreopriver Diabetes	Kontrolle	0.972018654230513
+519	s20011_0007	s20011_0031	pankreopriver Diabetes	Kontrolle	0.97610513739546
+520	s20011_0007	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9659618359979371
+521	s20011_0007	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9715639810426541
+522	s20011_0007	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9665271966527197
+523	s20011_0008	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9713349713349714
+524	s20011_0008	s20011_0006	pankreopriver Diabetes	Kontrolle	0.97165991902834
+525	s20011_0008	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9697478991596639
+526	s20011_0008	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9558573853989814
+527	s20011_0008	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9725935828877005
+528	s20011_0008	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9647411852963241
+529	s20011_0008	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9672619047619048
+530	s20011_0008	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9709497206703911
+531	s20011_0008	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9577248270561107
+532	s20011_0008	s20011_0043	pankreopriver Diabetes	Kontrolle	0.959468438538206
+533	s20011_0013	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9797590361445783
+534	s20011_0013	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9675324675324676
+535	s20011_0013	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9769607843137255
+536	s20011_0013	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9755022048015679
+537	s20011_0013	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9716981132075472
+538	s20011_0013	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9648960739030024
+539	s20011_0013	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9809960681520314
+540	s20011_0013	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9734143562476263
+541	s20011_0013	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9683573755234993
+542	s20011_0013	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9676733304976606
+543	s20011_0017	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9762796504369539
+544	s20011_0017	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9680908599242833
+545	s20011_0017	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9758269720101781
+546	s20011_0017	s20011_0016	pankreopriver Diabetes	Kontrolle	0.964720974983964
+547	s20011_0017	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9754666666666667
+548	s20011_0017	s20011_0026	pankreopriver Diabetes	Kontrolle	0.972027972027972
+549	s20011_0017	s20011_0031	pankreopriver Diabetes	Kontrolle	0.976258309591643
+550	s20011_0017	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9746660525103639
+551	s20011_0017	s20011_0039	pankreopriver Diabetes	Kontrolle	0.957459556620731
+552	s20011_0017	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9644184811471057
+553	s20011_0018	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9688473520249221
+554	s20011_0018	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9700053561863953
+555	s20011_0018	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9629865985960434
+556	s20011_0018	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9564381806534273
+557	s20011_0018	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9647058823529412
+558	s20011_0018	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9668989547038328
+559	s20011_0018	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9688679245283018
+560	s20011_0018	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9724896836313618
+561	s20011_0018	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9553571428571429
+562	s20011_0018	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9564524694636218
+563	s20011_0022	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9723053892215568
+564	s20011_0022	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9659735349716446
+565	s20011_0022	s20011_0011	pankreopriver Diabetes	Kontrolle	0.96771714066103
+566	s20011_0022	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9582366589327146
+567	s20011_0022	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9630094043887147
+568	s20011_0022	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9632963988919667
+569	s20011_0022	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9695044472681067
+570	s20011_0022	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9711134453781513
+571	s20011_0022	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9530916844349681
+572	s20011_0022	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9630314232902033
+573	s20011_0023	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9683848797250859
+574	s20011_0023	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9685131195335277
+575	s20011_0023	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9784722222222222
+576	s20011_0023	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9656381486676017
+577	s20011_0023	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9740932642487047
+578	s20011_0023	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9689086294416244
+579	s20011_0023	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9771241830065359
+580	s20011_0023	s20011_0035	pankreopriver Diabetes	Kontrolle	0.970399605328071
+581	s20011_0023	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9657622739018088
+582	s20011_0023	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9680911680911681
+583	s20011_0027	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9739463601532568
+584	s20011_0027	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9672236503856041
+585	s20011_0027	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9692913385826771
+586	s20011_0027	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9645110410094637
+587	s20011_0027	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9701207883026065
+588	s20011_0027	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9675370501058574
+589	s20011_0027	s20011_0031	pankreopriver Diabetes	Kontrolle	0.974934036939314
+590	s20011_0027	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9705882352941176
+591	s20011_0027	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9526928675400291
+592	s20011_0027	s20011_0043	pankreopriver Diabetes	Kontrolle	0.965495608531995
+593	s20011_0028	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9731182795698925
+594	s20011_0028	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9841954022988506
+595	s20011_0028	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9742647058823529
+596	s20011_0028	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9724770642201835
+597	s20011_0028	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9865056818181818
+598	s20011_0028	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9880478087649402
+599	s20011_0028	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9754385964912281
+600	s20011_0028	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9900874635568513
+601	s20011_0028	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9845150774246129
+602	s20011_0028	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9825296995108316
+603	s20011_0032	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9668831168831169
+604	s20011_0032	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9677956690727374
+605	s20011_0032	s20011_0011	pankreopriver Diabetes	Kontrolle	0.97167325428195
+606	s20011_0032	s20011_0016	pankreopriver Diabetes	Kontrolle	0.96494708994709
+607	s20011_0032	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9697303247110622
+608	s20011_0032	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9687312086590499
+609	s20011_0032	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9811881188118812
+610	s20011_0032	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9750470809792844
+611	s20011_0032	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9625766871165644
+612	s20011_0032	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9668478260869565
+613	s20011_0036	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9742489270386266
+614	s20011_0036	s20011_0006	pankreopriver Diabetes	Kontrolle	0.980849292256453
+615	s20011_0036	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9711111111111111
+616	s20011_0036	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9723756906077348
+617	s20011_0036	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9868959868959869
+618	s20011_0036	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9811320754716981
+619	s20011_0036	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9658792650918635
+620	s20011_0036	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9868593955321945
+621	s20011_0036	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9787234042553191
+622	s20011_0036	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9814963797264682
+623	s20011_0040	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9828178694158075
+624	s20011_0040	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9774647887323944
+625	s20011_0040	s20011_0011	pankreopriver Diabetes	Kontrolle	0.982363315696649
+626	s20011_0040	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9752212389380531
+627	s20011_0040	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9769553072625698
+628	s20011_0040	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9716981132075472
+629	s20011_0040	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9853181076672104
+630	s20011_0040	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9810017271157168
+631	s20011_0040	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9636803874092009
+632	s20011_0040	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9724896836313618
+633	s20011_0044	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9709251101321585
+634	s20011_0044	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9510591672753835
+635	s20011_0044	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9710669077757685
+636	s20011_0044	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9532538955087076
+637	s20011_0044	s20011_0021	pankreopriver Diabetes	Kontrolle	0.951519536903039
+638	s20011_0044	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9444444444444444
+639	s20011_0044	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9479166666666666
+640	s20011_0044	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9645808736717828
+641	s20011_0044	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9353484466834593
+642	s20011_0044	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9480427046263346
+643	s20011_0046	s20011_0001	pankreopriver Diabetes	Kontrolle	0.984081041968162
+644	s20011_0046	s20011_0006	pankreopriver Diabetes	Kontrolle	0.9642233856893543
+645	s20011_0046	s20011_0011	pankreopriver Diabetes	Kontrolle	0.986822840409956
+646	s20011_0046	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9763779527559056
+647	s20011_0046	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9612706701479548
+648	s20011_0046	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9559925093632958
+649	s20011_0046	s20011_0031	pankreopriver Diabetes	Kontrolle	0.985545335085414
+650	s20011_0046	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9701606732976281
+651	s20011_0046	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9638327853452325
+652	s20011_0046	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9666381522668948
+653	s20011_0048	s20011_0001	pankreopriver Diabetes	Kontrolle	0.9816612729234089
+654	s20011_0048	s20011_0006	pankreopriver Diabetes	Kontrolle	0.968421052631579
+655	s20011_0048	s20011_0011	pankreopriver Diabetes	Kontrolle	0.9802414928649835
+656	s20011_0048	s20011_0016	pankreopriver Diabetes	Kontrolle	0.9712707182320443
+657	s20011_0048	s20011_0021	pankreopriver Diabetes	Kontrolle	0.9656652360515021
+658	s20011_0048	s20011_0026	pankreopriver Diabetes	Kontrolle	0.9697900665642601
+659	s20011_0048	s20011_0031	pankreopriver Diabetes	Kontrolle	0.9831288343558282
+660	s20011_0048	s20011_0035	pankreopriver Diabetes	Kontrolle	0.9678765123070505
+661	s20011_0048	s20011_0039	pankreopriver Diabetes	Kontrolle	0.9667359667359667
+662	s20011_0048	s20011_0043	pankreopriver Diabetes	Kontrolle	0.9627182633317602
