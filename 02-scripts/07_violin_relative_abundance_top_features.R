@@ -38,6 +38,10 @@ phy <- filter_taxa(phy, function(x) mean(x > 0.03) > 0.05, TRUE)
 sample_data(phy)$Type <- ifelse(grepl("PDM", sample_data(phy)$sample_information), "PDM",
                                 ifelse(grepl("K", sample_data(phy)$sample_information), "K", "DM"))
 
+sample_data(phy)$Type <- ifelse(grepl("PDM", sample_data(phy)$sample_information), "T3cDM",
+                                ifelse(grepl("K", sample_data(phy)$sample_information), "H", "T1DM"))
+
+
 tax <- as.data.frame(tax_table(phy))
 
 tax <- tax[, c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species_exact")]
@@ -66,37 +70,33 @@ df_genus <- psmelt(phy_target) %>%
   mutate(Genus = as.character(Genus))
 
 
- 
-
-
-#############################################
-
+#####################################
 
 # Recreate pairwise p-values with FDR adjustment
 stat_df <- df_genus %>%
-  filter(Type %in% c("DM", "PDM", "K")) %>%
+  filter(Type %in% c("T1DM", "T3cDM", "H")) %>%
   group_by(Genus) %>%
   summarise(
-    DM_PDM = wilcox.test(Abundance[Type == "DM"], Abundance[Type == "PDM"])$p.value,
-    DM_K   = wilcox.test(Abundance[Type == "DM"], Abundance[Type == "K"])$p.value,
-    PDM_K  = wilcox.test(Abundance[Type == "PDM"], Abundance[Type == "K"])$p.value,
+    T1DM_T3cDM = wilcox.test(Abundance[Type == "T1DM"], Abundance[Type == "T3cDM"])$p.value,
+    T1DM_H     = wilcox.test(Abundance[Type == "T1DM"], Abundance[Type == "H"])$p.value,
+    T3cDM_H    = wilcox.test(Abundance[Type == "T3cDM"], Abundance[Type == "H"])$p.value,
     .groups = "drop"
   ) %>%
   pivot_longer(
-    cols = starts_with("DM_") | starts_with("PDM_"),
+    cols = starts_with("T1DM_") | starts_with("T3cDM_"),
     names_to = "comparison",
     values_to = "p.adj"
   ) %>%
   mutate(
     group1 = case_when(
-      comparison == "DM_PDM" ~ "DM",
-      comparison == "DM_K" ~ "DM",
-      comparison == "PDM_K" ~ "PDM"
+      comparison == "T1DM_T3cDM" ~ "T1DM",
+      comparison == "T1DM_H" ~ "T1DM",
+      comparison == "T3cDM_H" ~ "T3cDM"
     ),
     group2 = case_when(
-      comparison == "DM_PDM" ~ "PDM",
-      comparison == "DM_K" ~ "K",
-      comparison == "PDM_K" ~ "K"
+      comparison == "T1DM_T3cDM" ~ "T3cDM",
+      comparison == "T1DM_H" ~ "H",
+      comparison == "T3cDM_H" ~ "H"
     ),
     p.signif = case_when(
       p.adj < 0.001 ~ "***",
@@ -112,11 +112,12 @@ stat_df <- stat_df %>%
   mutate(y.position = max(df_genus$Abundance[df_genus$Genus == unique(Genus)], na.rm = TRUE) + 0.03 * row_number()) %>%
   ungroup()
 
+# Plot
 p <- ggplot(df_genus, aes(x = Type, y = Abundance)) +
-  geom_violin(outlier.shape = NA, alpha = 0.8) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8) +
   geom_jitter(width = 0.15, size = 1, alpha = 0.5) +
   facet_wrap(~ Genus, scales = "free_y", ncol = 4) +
-  scale_fill_manual(values = c("DM" = "#E1812C", "PDM" = "#3A923A", "K" = "blue")) +
+  scale_fill_manual(values = c("T1DM" = "#E1812C", "T3cDM" = "#3A923A", "H" = "blue")) +
   stat_pvalue_manual(
     stat_df,
     label = "p.signif",
@@ -141,6 +142,6 @@ p <- ggplot(df_genus, aes(x = Type, y = Abundance)) +
   )
 
 p
-
-
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/top_8_features_logreg.svg", height = 8, width = 15,dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/top_8_features_logreg.png", height = 8, width = 15,dpi=300)
 
