@@ -2,3 +2,5 @@
 01-tables/nf-core_ampliseq/metadata_new.tsv
 01-tables/PDM merged 3.0_modified.csv
 02-scripts/materials/models/
+02-scripts/materials/*.R
+02-scripts/materials/*.RData
