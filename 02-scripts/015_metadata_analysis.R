@@ -271,7 +271,6 @@ forest_df_sig <- forest_df %>%
 
 
 
-# 6. Plot
 p <- ggplot(forest_df_sig, aes(x = estimate, y = reorder(variable, estimate), color = group)) +
   geom_point(position = position_dodge(width = 0.6)) +
   geom_errorbarh(aes(xmin = conf.low, xmax = conf.high), height = 0.2, position = position_dodge(width = 0.6)) +
@@ -301,12 +300,13 @@ p <- p + theme(
 p <- p + 
   annotate("text", x = Inf, y = -Inf, hjust = 1.05, vjust = -1.5,
            label = "* p.adj < 0.05   ** p.adj < 0.01   *** p.adj < 0.001",
-           size = 4, color = "black", fontface = "italic")
+           size = 6, color = "black", fontface = "italic")
 
 
 
 p
-#ggsave(plot = p,"/data/scratch/kvalem/projects/2024/Effenberger-Diabetes/02-scripts/figures/v03/forest_plot_numerical_groups_padjsig.svg", height = 5, width = 7)
-#ggsave(plot = p,"/data/scratch/kvalem/projects/2024/Effenberger-Diabetes/02-scripts/figures/v03/forest_plot_numerical_groups_padjsig.png", height = 5, width = 7)
+
+ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.svg", height = 5, width = 7)
+ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.png", height = 5, width = 7)
 
 #write.csv(forest_df_sig, file = "/data/scratch/kvalem/projects/2024/Effenberger-Diabetes/02-scripts/tables/v02/forest_df_sig.csv", row.names = FALSE)
