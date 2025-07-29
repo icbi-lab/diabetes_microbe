@@ -188,12 +188,12 @@ p <- ggplot(data, aes(x = condition, y = flux, fill = condition)) +
 
 p
 
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_all.svg", plot = p,
-       width = 20, height = 20, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_all.svg", plot = p,
+#       width = 20, height = 20, units = "in", dpi = 300)
 
 
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_all.png", plot = p,
-       width = 20, height = 20, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_all.png", plot = p,
+#       width = 20, height = 20, units = "in", dpi = 300)
 
 
 
@@ -228,10 +228,10 @@ q <- ggplot(stat_df_unique, aes(x = effsize, y = -log10(p.adj))) +
        y = "-log10(P.adj)",
        color = "Result strength")
 
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.svg", plot = q,
-       width = 10, height = 6, units = "in", dpi = 300)
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.png", plot = q,
-       width = 10, height = 6, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.svg", plot = q,
+#       width = 10, height = 6, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.png", plot = q,
+#       width = 10, height = 6, units = "in", dpi = 300)
 
 
 ###################### Boxplot with bioligical sig. effect size >0.3 and p.adj >0.05
@@ -261,7 +261,7 @@ p <- ggplot(filtered_data, aes(x = condition, y = flux, fill = condition)) +
   ) +
   labs(
     title = "",
-    x = "Effect size > 0.3 P.adj > 0.05",
+    x = "Effect size > 0.3 P.adj < 0.05",
     y = "Flux"
   )
 

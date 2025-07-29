@@ -110,14 +110,14 @@ q <- ggplot(clean_data %>% filter(taxon %in% taxa_large_effect), aes(x = taxon, 
     position = position_dodge(width = 0.8),
     label.y.npc = "top"
   ) +
-  labs(x = "Taxon", y = "Growth Rate", fill = "Condition") +
+  labs(x = "Effect size > 0.3 P.adj < 0.05", y = "Growth Rate [1/h]", fill = "Condition") +
   theme_minimal() +
   theme(
     axis.text.x = element_text(angle = 45, hjust = 1, size = 16),axis.text.y = element_text( size = 16),
     panel.grid.major.x = element_blank()
   )
-q
 
+q
 ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/growthrate_boxplot.svg", plot = q,
        width = 10, height = 6, units = "in", dpi = 300)
 ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/growthrate_boxplot.png", plot = q,
