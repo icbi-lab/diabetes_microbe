@@ -10,7 +10,7 @@ library(dplyr)
 
 #Load data
 #ps1 <- readRDS("/data/projects/2024/Effenberger-Diabetes/out/nf_core_ampliseq_003/phyloseq/dada2_phyloseq.rds")
-ps1 <- readRDS("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/01-tables/dada2_phyloseq.rds")
+ps1 <- readRDS("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/dada2_phyloseq.rds")
 print(ps1)
 ps1.com <- ps1
 
@@ -99,6 +99,10 @@ plot.composition.relAbun <- plot.composition.relAbun +
 
 # Print
 print(plot.composition.relAbun)
+
+
+#write.csv(plot.composition.relAbun[["data"]], "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/compositional_plots_family.csv", row.names = FALSE)
+
 
 #ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/compositional_plots_family.svg", height = 10, width = 10, dpi=300)
 #ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/compositional_plots_family.png", height = 10, width = 10, dpi=300)
