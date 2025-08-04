@@ -13,7 +13,6 @@ library(stringr)
 library(viridis)
 library(readr)
 library(themis)
-library(tidymodels)
 library(dplyr)
 library(tidyr)
 library(purrr)
@@ -111,6 +110,8 @@ stat_df <- stat_df %>%
   group_by(Genus) %>%
   mutate(y.position = max(df_genus$Abundance[df_genus$Genus == unique(Genus)], na.rm = TRUE) + 0.03 * row_number()) %>%
   ungroup()
+
+#write_csv(stat_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/stat_df_top_8_features_logreg.csv")
 
 # Plot
 p <- ggplot(df_genus, aes(x = Type, y = Abundance)) +

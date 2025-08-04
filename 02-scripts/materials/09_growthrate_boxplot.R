@@ -117,8 +117,15 @@ q <- ggplot(clean_data %>% filter(taxon %in% taxa_large_effect), aes(x = taxon, 
     panel.grid.major.x = element_blank()
   )
 
+
+
 q
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/growthrate_boxplot.svg", plot = q,
-       width = 10, height = 6, units = "in", dpi = 300)
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/growthrate_boxplot.png", plot = q,
-       width = 10, height = 6, units = "in", dpi = 300)
+
+
+#write_csv(wilcox_results, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/microbial_community/wilcox_results_growthrate_boxplot.csv")
+#write_csv(effect_sizes, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/microbial_community/effect_sizes_growthrate_boxplot.csv")
+
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/growthrate_boxplot.svg", plot = q,
+#       width = 10, height = 6, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/growthrate_boxplot.png", plot = q,
+#       width = 10, height = 6, units = "in", dpi = 300)
