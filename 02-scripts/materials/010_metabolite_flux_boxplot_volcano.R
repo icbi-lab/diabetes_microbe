@@ -267,8 +267,18 @@ p <- ggplot(filtered_data, aes(x = condition, y = flux, fill = condition)) +
 
 p
 
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_biological_sig.svg", plot = p,
-       width = 10, height = 6, units = "in", dpi = 300)
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_biological_sig.png", plot = p,
-       width = 10, height = 6, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_biological_sig.svg", plot = p,
+#       width = 10, height = 6, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/metabolite_flux_biological_sig.png", plot = p,
+#       width = 10, height = 6, units = "in", dpi = 300)
+
+
+# Stats to cs v 
+filtered_metabolites <- c("Pyridoxine", "Fe3+", "Ubiquinone-8", "Zinc")
+
+# Filter the dataframe
+filtered_stat_df <- stat_df %>%
+  filter(description %in% filtered_metabolites)
+
+#write_csv(filtered_stat_df, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/microbial_communitystat_df_metabolite_flux_biological_sig.csv")
 
