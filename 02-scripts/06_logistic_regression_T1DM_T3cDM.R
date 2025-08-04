@@ -13,7 +13,6 @@ library(stringr)
 library(viridis)
 library(readr)
 library(themis)
-library(tidymodels)
 library(dplyr)
 library(tidyr)
 library(purrr)
@@ -132,8 +131,11 @@ c <- conf_mat(results, truth = Type, estimate = .pred_class) %>%
   labs(title = "")
 c
 
-#ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusuion_matrix_microbial.svg", height = 3, width = 3, dpi=300)
-#ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusion_matrix_microbial.png", height = 3, width = 3,dpi=300)
+#write_csv(results,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/results_confusuion_matrix_microbial_T1DM_vs_T3cDM.csv")
+
+# figures without suffix _T1DM_vs_T3cDM refer to this comparison
+#ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusuion_matrix_microbial_T1DM_vs_T3cDM.svg", height = 3, width = 3, dpi=300)
+#ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusion_matrix_microbial_T1DM_vs_T3cDM.png", height = 3, width = 3,dpi=300)
 
 ################ ROC CURVE TRAIN TEST
 best_threshold = 0.5
@@ -183,9 +185,10 @@ p <- ggplot(roc_combined, aes(x = 1 - specificity, y = sensitivity, color = Set)
 
 p
 
+#write_csv(roc_combined,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/roc_curve_train_test_microbial_T1DM_vs_T3cDM.csv")
 
-#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/roc_curve_train_test_microbial.svg", height = 3, width = 3.5, dpi=300)
-#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/roc_curve_train_test_microbial.png", height = 3, width = 3.5, dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/roc_curve_train_test_microbial_T1DM_vs_T3cDM.svg", height = 3, width = 3.5, dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/roc_curve_train_test_microbial_T1DM_vs_T3cDM.png", height = 3, width = 3.5, dpi=300)
 
 
 ########################################## LOG ODD COEFFICIENT PLOT
@@ -235,8 +238,10 @@ lg <- ggplot(coef_df, aes(x = estimate, y = reorder(term, estimate))) +
   labs(title = "",
        x = "← T1DM                     Log-Odds coefficient                    T3cDM →",
        y = NULL) +
-  theme(text = element_text(size = 12))
+  theme(text = element_text(size = 18))
 lg
 
-#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial.svg", height = 8, width = 8,dpi=300)
-#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial.png", height = 8, width = 8,dpi=300)
+#write_csv(coef_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/coef_df_log_reg_coefs_microbial_T1DM_vs_T3cDM.csv")
+
+#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.svg", height = 8, width = 8,dpi=300)
+#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.png", height = 8, width = 8,dpi=300)

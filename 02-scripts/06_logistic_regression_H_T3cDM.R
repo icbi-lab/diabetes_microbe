@@ -13,7 +13,6 @@ library(stringr)
 library(viridis)
 library(readr)
 library(themis)
-library(tidymodels)
 library(dplyr)
 library(tidyr)
 library(purrr)
@@ -131,6 +130,8 @@ c <- conf_mat(results, truth = Type, estimate = .pred_class) %>%
   labs(title = "")
 c
 
+write_csv(results,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/results_confusuion_matrix_microbial_T3cDM_vs_H.csv")
+
 #ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusuion_matrix_microbial_T3cDM_vs_H.svg", height = 3, width = 3, dpi=300)
 #ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusion_matrix_microbial_T3cDM_vs_H.png", height = 3, width = 3,dpi=300)
 
@@ -181,6 +182,9 @@ p <- ggplot(roc_combined, aes(x = 1 - specificity, y = sensitivity, color = Set)
   scale_color_manual(values = c("Train" = "#3a99bc", "Test" = "#db9e2a"))
 
 p
+
+#write_csv(roc_combined,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/roc_curve_train_test_microbial_T3cDM_vs_H.csv")
+
 
 
 #ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/roc_curve_train_test_microbial_T3cDM_vs_H.svg", height = 3, width = 3.5, dpi=300)
@@ -242,8 +246,12 @@ lg <- ggplot(coef_df, aes(x = estimate, y = reorder(term, estimate))) +
   labs(title = "",
        x = "← T3cDM                     Log-Odds coefficient                    H →",
        y = NULL) +
-  theme(text = element_text(size = 12))
+  theme(text = element_text(size = 18))
 lg
+
+#write_csv(coef_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/coef_df_log_reg_coefs_microbial_T3cDM_vs_H.csv")
+
+
 
 #ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T3cDM_vs_H.svg", height = 8, width = 8,dpi=300)
 #ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T3cDM_vs_H.png", height = 8, width = 8,dpi=300)
