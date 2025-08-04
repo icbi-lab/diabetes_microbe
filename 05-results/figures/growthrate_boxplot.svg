@@ -27,8 +27,8 @@
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
      inkscape:zoom="1.3166667"
-     inkscape:cx="480"
-     inkscape:cy="288.22785"
+     inkscape:cx="479.99999"
+     inkscape:cy="288.22784"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
@@ -824,10 +824,10 @@
     <text
        x="678.87"
        y="164.64"
-       style="font-size: 8.80px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="25.33px"
+       style="font-size:8.8px;font-family:'Nimbus Sans'"
+       textLength="25.33"
        lengthAdjust="spacingAndGlyphs"
-       id="text96">T1DM</text>
+       id="text96">T1D  </text>
     <text
        x="678.87"
        y="181.92"

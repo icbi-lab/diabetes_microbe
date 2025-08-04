@@ -1,7 +1,45 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='432.00pt' viewBox='0 0 720.00 432.00'>
-<defs>
-  <style type='text/css'><![CDATA[
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="720.00pt"
+   height="432.00pt"
+   viewBox="0 0 720.00 432.00"
+   version="1.1"
+   id="svg112"
+   sodipodi:docname="volcano_plot.svg"
+   inkscape:export-filename="volcano_plot.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview112"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="2.6333334"
+     inkscape:cx="423.41771"
+     inkscape:cy="278.5443"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g98" />
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1"><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
       fill: none;
       stroke: #000000;
@@ -13,137 +51,595 @@
       white-space: pre;
     }
   ]]></style>
-</defs>
-<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
-<defs>
-  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA='>
-    <rect x='0.00' y='0.00' width='720.00' height='432.00' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)'>
-</g>
-<defs>
-  <clipPath id='cpNDAuOTV8NTg4LjU0fDI3LjU3fDM5NC41Mw=='>
-    <rect x='40.95' y='27.57' width='547.58' height='366.97' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpNDAuOTV8NTg4LjU0fDI3LjU3fDM5NC41Mw==)'>
-<polyline points='40.95,317.61 588.54,317.61 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='40.95,197.12 588.54,197.12 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='40.95,76.64 588.54,76.64 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='137.80,394.53 137.80,27.57 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='281.72,394.53 281.72,27.57 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='425.64,394.53 425.64,27.57 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='569.55,394.53 569.55,27.57 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='40.95,377.85 588.54,377.85 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='40.95,257.37 588.54,257.37 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='40.95,136.88 588.54,136.88 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='65.84,394.53 65.84,27.57 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='209.76,394.53 209.76,27.57 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='353.68,394.53 353.68,27.57 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='497.59,394.53 497.59,27.57 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<circle cx='265.64' cy='138.87' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='65.84' cy='377.85' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='230.20' cy='290.98' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='281.33' cy='180.02' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='267.04' cy='181.85' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='95.29' cy='373.89' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='301.16' cy='47.66' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='207.92' cy='255.65' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='226.31' cy='227.57' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='115.37' cy='363.41' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='125.36' cy='369.91' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='220.23' cy='252.22' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='194.01' cy='284.30' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='248.90' cy='298.59' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='277.07' cy='272.98' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='149.15' cy='344.18' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='88.04' cy='372.65' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='286.80' cy='95.19' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='316.24' cy='135.71' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='485.77' cy='70.51' r='3.56' style='stroke-width: 0.71; stroke: #B2182B; stroke-opacity: 0.80; fill: #B2182B; fill-opacity: 0.80;' />
-<circle cx='306.43' cy='251.73' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='252.32' cy='167.46' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='65.84' cy='377.85' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<line x1='65.84' y1='394.53' x2='65.84' y2='27.57' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='353.68' y1='394.53' x2='353.68' y2='27.57' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='40.95' y1='370.02' x2='588.54' y2='370.02' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='297.81' y1='148.23' x2='266.92' y2='139.25' style='stroke-width: 1.07;' />
-<line x1='327.26' y1='118.50' x2='293.82' y2='110.69' style='stroke-width: 1.07;' />
-<line x1='262.52' y1='131.38' x2='291.53' y2='111.06' style='stroke-width: 1.07;' />
-<line x1='324.14' y1='177.69' x2='282.73' y2='179.95' style='stroke-width: 1.07;' />
-<line x1='308.67' y1='80.73' x2='298.78' y2='94.35' style='stroke-width: 1.07;' />
-<line x1='303.81' y1='284.14' x2='273.46' y2='284.14' style='stroke-width: 1.07;' />
-<line x1='291.92' y1='75.56' x2='297.87' y2='94.27' style='stroke-width: 1.07;' />
-<line x1='389.80' y1='139.40' x2='374.70' y2='140.41' style='stroke-width: 1.07;' />
-<line x1='232.53' y1='185.07' x2='251.48' y2='168.21' style='stroke-width: 1.07;' />
-<line x1='282.27' y1='127.73' x2='291.98' y2='111.25' style='stroke-width: 1.07;' />
-<line x1='216.64' y1='175.76' x2='251.00' y2='167.77' style='stroke-width: 1.07;' />
-<line x1='289.57' y1='163.13' x2='253.70' y2='167.30' style='stroke-width: 1.07;' />
-<line x1='321.04' y1='90.48' x2='293.47' y2='109.71' style='stroke-width: 1.07;' />
-<line x1='248.91' y1='148.42' x2='252.15' y2='166.53' style='stroke-width: 1.07;' />
-<line x1='280.04' y1='116.24' x2='291.35' y2='110.92' style='stroke-width: 1.07;' />
-<text x='342.10' y='152.24' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='84.97px' lengthAdjust='spacingAndGlyphs'>(R)-Pantothenate</text>
-<text x='464.85' y='273.19' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='240.16px' lengthAdjust='spacingAndGlyphs'>1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)</text>
-<text x='402.03' y='197.68' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='91.22px' lengthAdjust='spacingAndGlyphs'>2-deoxyadenosine</text>
-<text x='226.34' y='165.13' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='41.40px' lengthAdjust='spacingAndGlyphs'>Chloride</text>
-<text x='349.76' y='122.41' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='41.40px' lengthAdjust='spacingAndGlyphs'>Chloride</text>
-<text x='268.19' y='162.60' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='27.71px' lengthAdjust='spacingAndGlyphs'>Co2+</text>
-<text x='273.24' y='106.44' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='27.71px' lengthAdjust='spacingAndGlyphs'>Co2+</text>
-<text x='235.99' y='179.59' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='27.92px' lengthAdjust='spacingAndGlyphs'>Cu2+</text>
-<text x='246.76' y='135.68' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='27.92px' lengthAdjust='spacingAndGlyphs'>Cu2+</text>
-<text x='346.45' y='181.30' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='41.01px' lengthAdjust='spacingAndGlyphs'>Cytidine</text>
-<text x='305.85' y='206.79' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='41.01px' lengthAdjust='spacingAndGlyphs'>Cytidine</text>
-<text x='283.50' y='191.78' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='70.88px' lengthAdjust='spacingAndGlyphs'>Deoxycytidine</text>
-<text x='313.42' y='43.05' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='25.96px' lengthAdjust='spacingAndGlyphs'>Fe3+</text>
-<text x='310.19' y='78.93' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='25.96px' lengthAdjust='spacingAndGlyphs'>Fe3+</text>
-<text x='259.93' y='294.82' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='76.81px' lengthAdjust='spacingAndGlyphs'>Menaquinone 7</text>
-<text x='320.38' y='269.04' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='76.81px' lengthAdjust='spacingAndGlyphs'>Menaquinone 8</text>
-<text x='344.02' y='287.77' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='76.81px' lengthAdjust='spacingAndGlyphs'>Menaquinone 8</text>
-<text x='272.23' y='177.49' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='29.56px' lengthAdjust='spacingAndGlyphs'>Mn2+</text>
-<text x='307.31' y='122.36' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='29.56px' lengthAdjust='spacingAndGlyphs'>Mn2+</text>
-<text x='226.61' y='254.61' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='103.26px' lengthAdjust='spacingAndGlyphs'>Oxidized glutathione</text>
-<text x='255.22' y='92.29' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='51.88px' lengthAdjust='spacingAndGlyphs'>Putrescine</text>
-<text x='264.19' y='77.84' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='51.88px' lengthAdjust='spacingAndGlyphs'>Putrescine</text>
-<text x='344.05' y='137.35' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='45.59px' lengthAdjust='spacingAndGlyphs'>Pyridoxal</text>
-<text x='234.81' y='274.89' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='45.59px' lengthAdjust='spacingAndGlyphs'>Pyridoxal</text>
-<text x='473.50' y='82.30' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='51.92px' lengthAdjust='spacingAndGlyphs'>Pyridoxine</text>
-<text x='551.38' y='56.08' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='51.92px' lengthAdjust='spacingAndGlyphs'>Pyridoxine</text>
-<text x='318.74' y='247.18' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='66.50px' lengthAdjust='spacingAndGlyphs'>Ubiquinone-8</text>
-<text x='424.85' y='143.02' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='66.50px' lengthAdjust='spacingAndGlyphs'>Ubiquinone-8</text>
-<text x='230.22' y='194.12' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='21.36px' lengthAdjust='spacingAndGlyphs'>Zinc</text>
-<text x='281.36' y='136.78' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='21.36px' lengthAdjust='spacingAndGlyphs'>Zinc</text>
-<text x='184.34' y='179.66' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='61.00px' lengthAdjust='spacingAndGlyphs'>calcium(2+)</text>
-<text x='328.08' y='107.80' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='61.00px' lengthAdjust='spacingAndGlyphs'>calcium(2+)</text>
-<text x='320.61' y='166.69' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='58.48px' lengthAdjust='spacingAndGlyphs'>magnesium</text>
-<text x='352.08' y='93.39' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='58.48px' lengthAdjust='spacingAndGlyphs'>magnesium</text>
-<text x='221.34' y='150.62' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='51.54px' lengthAdjust='spacingAndGlyphs'>potassium</text>
-<text x='252.47' y='121.07' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='51.54px' lengthAdjust='spacingAndGlyphs'>potassium</text>
-<text x='230.01' y='315.96' text-anchor='middle' style='font-size: 9.96px; font-family: "Nimbus Sans";' textLength='33.88px' lengthAdjust='spacingAndGlyphs'>sulfate</text>
-</g>
-<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)'>
-<text x='35.12' y='381.64' text-anchor='end' style='font-size: 10.40px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='6.61px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='35.12' y='261.16' text-anchor='end' style='font-size: 10.40px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='13.22px' lengthAdjust='spacingAndGlyphs'>20</text>
-<text x='35.12' y='140.67' text-anchor='end' style='font-size: 10.40px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='13.22px' lengthAdjust='spacingAndGlyphs'>40</text>
-<text x='65.84' y='407.94' text-anchor='middle' style='font-size: 10.40px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='23.13px' lengthAdjust='spacingAndGlyphs'>0.00</text>
-<text x='209.76' y='407.94' text-anchor='middle' style='font-size: 10.40px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='23.13px' lengthAdjust='spacingAndGlyphs'>0.25</text>
-<text x='353.68' y='407.94' text-anchor='middle' style='font-size: 10.40px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='23.13px' lengthAdjust='spacingAndGlyphs'>0.50</text>
-<text x='497.59' y='407.94' text-anchor='middle' style='font-size: 10.40px;fill: #4D4D4D; font-family: "Nimbus Sans";' textLength='23.13px' lengthAdjust='spacingAndGlyphs'>0.75</text>
-<text x='314.74' y='422.82' text-anchor='middle' style='font-size: 13.00px; font-family: "Nimbus Sans";' textLength='66.97px' lengthAdjust='spacingAndGlyphs'>Effect size</text>
-<text transform='translate(15.96,211.05) rotate(-90)' text-anchor='middle' style='font-size: 13.00px; font-family: "Nimbus Sans";' textLength='81.00px' lengthAdjust='spacingAndGlyphs'>-log10(P.adj)</text>
-<text x='607.96' y='186.63' style='font-size: 13.00px; font-family: "Nimbus Sans";' textLength='99.09px' lengthAdjust='spacingAndGlyphs'>Result strength</text>
-<circle cx='616.60' cy='203.10' r='3.56' style='stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;' />
-<circle cx='616.60' cy='220.38' r='3.56' style='stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;' />
-<circle cx='616.60' cy='237.66' r='3.56' style='stroke-width: 0.71; stroke: #B2182B; stroke-opacity: 0.80; fill: #B2182B; fill-opacity: 0.80;' />
-<text x='631.72' y='206.89' style='font-size: 10.40px; font-family: "Nimbus Sans";' textLength='50.57px' lengthAdjust='spacingAndGlyphs'>moderate</text>
-<text x='631.72' y='224.17' style='font-size: 10.40px; font-family: "Nimbus Sans";' textLength='73.98px' lengthAdjust='spacingAndGlyphs'>not significant</text>
-<text x='631.72' y='241.45' style='font-size: 10.40px; font-family: "Nimbus Sans";' textLength='33.07px' lengthAdjust='spacingAndGlyphs'>strong</text>
-</g>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="stroke: none; fill: none;"
+     id="rect1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="720.00"
+         height="432.00"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g2" />
+  <defs
+     id="defs3">
+    <clipPath
+       id="cpNDAuOTV8NTg4LjU0fDI3LjU3fDM5NC41Mw==">
+      <rect
+         x="40.95"
+         y="27.57"
+         width="547.58"
+         height="366.97"
+         id="rect3" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpNDAuOTV8NTg4LjU0fDI3LjU3fDM5NC41Mw==)"
+     id="g98">
+    <polyline
+       points="40.95,317.61 588.54,317.61 "
+       style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline3" />
+    <polyline
+       points="40.95,197.12 588.54,197.12 "
+       style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline4" />
+    <polyline
+       points="40.95,76.64 588.54,76.64 "
+       style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline5" />
+    <polyline
+       points="137.80,394.53 137.80,27.57 "
+       style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline6" />
+    <polyline
+       points="281.72,394.53 281.72,27.57 "
+       style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline7" />
+    <polyline
+       points="425.64,394.53 425.64,27.57 "
+       style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline8" />
+    <polyline
+       points="40.95,377.85 588.54,377.85 "
+       style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline10" />
+    <polyline
+       points="40.95,257.37 588.54,257.37 "
+       style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline11" />
+    <polyline
+       points="40.95,136.88 588.54,136.88 "
+       style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline12" />
+    <polyline
+       points="65.84,394.53 65.84,27.57 "
+       style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline13" />
+    <polyline
+       points="209.76,394.53 209.76,27.57 "
+       style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline14" />
+    <polyline
+       points="353.68,394.53 353.68,27.57 "
+       style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline15" />
+    <polyline
+       points="497.59,394.53 497.59,27.57 "
+       style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline16" />
+    <circle
+       cx="266.91895"
+       cy="138.01463"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle16"
+       inkscape:transform-center-x="-5.37333"
+       inkscape:transform-center-y="-2.2107272" />
+    <circle
+       cx="65.84"
+       cy="377.85"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle17" />
+    <circle
+       cx="230.20"
+       cy="290.98"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle18" />
+    <circle
+       cx="252.32"
+       cy="167.46"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle19" />
+    <circle
+       cx="249.48036"
+       cy="165.65009"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle20" />
+    <circle
+       cx="255.26909"
+       cy="165.0955"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle21" />
+    <circle
+       cx="281.33"
+       cy="180.02"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle22" />
+    <circle
+       cx="267.04"
+       cy="181.85"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle23" />
+    <circle
+       cx="95.29"
+       cy="373.89"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle24" />
+    <circle
+       cx="301.16"
+       cy="47.66"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle25" />
+    <circle
+       cx="207.92"
+       cy="255.65"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle26" />
+    <circle
+       cx="115.37"
+       cy="363.41"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle28" />
+    <circle
+       cx="125.36"
+       cy="369.91"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle29" />
+    <circle
+       cx="220.23"
+       cy="252.22"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle30" />
+    <circle
+       cx="194.01"
+       cy="284.30"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle31" />
+    <circle
+       cx="248.90"
+       cy="298.59"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle32" />
+    <circle
+       cx="277.07"
+       cy="272.98"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle33" />
+    <circle
+       cx="248.36276"
+       cy="171.98331"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle34" />
+    <circle
+       cx="149.15"
+       cy="344.18"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle35" />
+    <circle
+       cx="88.04"
+       cy="372.65"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle36" />
+    <circle
+       cx="286.80"
+       cy="95.19"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle37" />
+    <circle
+       cx="316.24"
+       cy="135.71"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle38" />
+    <circle
+       cx="485.77"
+       cy="70.51"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B2182B; stroke-opacity: 0.80; fill: #B2182B; fill-opacity: 0.80;"
+       id="circle39" />
+    <circle
+       cx="306.43"
+       cy="251.73"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle40" />
+    <circle
+       cx="259.32098"
+       cy="166.89108"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle41" />
+    <circle
+       cx="246.25018"
+       cy="168.31657"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle42" />
+    <circle
+       cx="252.29938"
+       cy="160.85088"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle43" />
+    <circle
+       cx="254.00299"
+       cy="172.21809"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle44" />
+    <circle
+       cx="65.84"
+       cy="377.85"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle45" />
+    <line
+       x1="65.84"
+       y1="394.53"
+       x2="65.84"
+       y2="27.57"
+       style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+       id="line45" />
+    <line
+       x1="353.68"
+       y1="394.53"
+       x2="353.68"
+       y2="27.57"
+       style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+       id="line46" />
+    <line
+       x1="40.95"
+       y1="370.02"
+       x2="588.54"
+       y2="370.02"
+       style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+       id="line47" />
+    <line
+       x1="324.14"
+       y1="177.69"
+       x2="282.73"
+       y2="179.95"
+       style="stroke-width: 1.07;"
+       id="line51" />
+    <line
+       x1="216.64"
+       y1="175.76"
+       x2="251.00"
+       y2="167.77"
+       style="stroke-width: 1.07;"
+       id="line58" />
+    <line
+       x1="289.57"
+       y1="163.13"
+       x2="253.70"
+       y2="167.30"
+       style="stroke-width: 1.07;"
+       id="line59" />
+    <line
+       x1="248.91"
+       y1="148.42"
+       x2="252.15"
+       y2="166.53"
+       style="stroke-width: 1.07;"
+       id="line61" />
+    <text
+       x="226.34"
+       y="165.13"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="41.40px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text65">Chloride</text>
+    <text
+       x="268.19"
+       y="162.60"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="27.71px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text67">Co2+</text>
+    <text
+       x="246.76"
+       y="135.68"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="27.92px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text70">Cu2+</text>
+    <text
+       x="346.45"
+       y="181.30"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="41.01px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text71">Cytidine</text>
+    <text
+       x="283.50"
+       y="191.78"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="70.88px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text73">Deoxycytidine</text>
+    <text
+       x="313.42"
+       y="43.05"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="25.96px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text74">Fe3+</text>
+    <text
+       x="259.93"
+       y="294.82"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="76.81px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text76">Menaquinone 7</text>
+    <text
+       x="320.38"
+       y="269.04"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="76.81px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text77">Menaquinone 8</text>
+    <text
+       x="272.23"
+       y="177.49"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="29.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text79">Mn2+</text>
+    <text
+       x="226.61"
+       y="254.61"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="103.26px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text81">Oxidized glutathione</text>
+    <text
+       x="255.22"
+       y="92.29"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="51.88px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text82">Putrescine</text>
+    <text
+       x="344.05"
+       y="137.35"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="45.59px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text84">Pyridoxal</text>
+    <text
+       x="473.50"
+       y="82.30"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="51.92px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text86">Pyridoxine</text>
+    <text
+       x="318.74"
+       y="247.18"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="66.50px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text88">Ubiquinone-8</text>
+    <text
+       x="281.36"
+       y="136.78"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="21.36px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text91">Zinc</text>
+    <text
+       x="184.34"
+       y="179.66"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="61.00px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text92">calcium(2+)</text>
+    <text
+       x="320.61"
+       y="166.69"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="58.48px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text94">magnesium</text>
+    <text
+       x="221.34"
+       y="150.62"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="51.54px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text96">potassium</text>
+    <text
+       x="230.01"
+       y="315.96"
+       text-anchor="middle"
+       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="33.88px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text98">sulfate</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     id="g112">
+    <text
+       x="35.12"
+       y="381.64"
+       text-anchor="end"
+       style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="6.61px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text99">0</text>
+    <text
+       x="35.12"
+       y="261.16"
+       text-anchor="end"
+       style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="13.22px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text100">20</text>
+    <text
+       x="35.12"
+       y="140.67"
+       text-anchor="end"
+       style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="13.22px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text101">40</text>
+    <text
+       x="65.84"
+       y="407.94"
+       text-anchor="middle"
+       style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="23.13px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text102">0.00</text>
+    <text
+       x="209.76"
+       y="407.94"
+       text-anchor="middle"
+       style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="23.13px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text103">0.25</text>
+    <text
+       x="353.68"
+       y="407.94"
+       text-anchor="middle"
+       style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="23.13px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text104">0.50</text>
+    <text
+       x="497.59"
+       y="407.94"
+       text-anchor="middle"
+       style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="23.13px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text105">0.75</text>
+    <text
+       x="314.74"
+       y="422.82"
+       text-anchor="middle"
+       style="font-size: 13.00px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="66.97px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text106">Effect size</text>
+    <text
+       transform="translate(15.96,211.05) rotate(-90)"
+       text-anchor="middle"
+       style="font-size: 13.00px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="81.00px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text107">-log10(P.adj)</text>
+    <text
+       x="607.96002"
+       y="186.63"
+       style="font-size:13px;font-family:'Nimbus Sans'"
+       textLength="99.089996"
+       lengthAdjust="spacingAndGlyphs"
+       id="text108"
+       transform="translate(-101.92112,-161.28583)">Result strength</text>
+    <circle
+       cx="512.25604"
+       cy="55.122684"
+       r="3.5599999"
+       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle108" />
+    <circle
+       cx="512.25604"
+       cy="72.402679"
+       r="3.5599999"
+       style="fill:#b3b3b3;fill-opacity:0.8;stroke:#b3b3b3;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle109" />
+    <circle
+       cx="513.48474"
+       cy="35.990772"
+       r="3.5599999"
+       style="fill:#b2182b;fill-opacity:0.8;stroke:#b2182b;stroke-width:0.71;stroke-opacity:0.8"
+       id="circle110" />
+    <text
+       x="631.71997"
+       y="206.89"
+       style="font-size:10.4px;font-family:'Nimbus Sans'"
+       textLength="50.57"
+       lengthAdjust="spacingAndGlyphs"
+       id="text110"
+       transform="translate(-104.3439,-147.97733)">moderate</text>
+    <text
+       x="631.71997"
+       y="224.17"
+       style="font-size:10.4px;font-family:'Nimbus Sans'"
+       textLength="73.980003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text111"
+       transform="translate(-104.3439,-147.97733)">not significant</text>
+    <text
+       x="631.71997"
+       y="241.45"
+       style="font-size:10.4px;font-family:'Nimbus Sans'"
+       textLength="33.07"
+       lengthAdjust="spacingAndGlyphs"
+       id="text112"
+       transform="translate(-103.11524,-201.66923)">strong</text>
+  </g>
 </svg>
