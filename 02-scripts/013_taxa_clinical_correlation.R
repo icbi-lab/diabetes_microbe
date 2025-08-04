@@ -361,8 +361,8 @@ pp <- ggplot(cor_results, aes(x = clinical_var, y = microbe, fill = cor)) +
 
 pp
 
+write_csv(cor_results, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/cor_results_correlation_micro_clinical_doctor.csv")
 
-
-ggsave(plot=pp,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/correlation_micro_clinical_doctor.svg", height = 5, width = 9, dpi=300)
-ggsave(plot=pp,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/correlation_micro_clinical_doctor.png", height = 5, width = 9, dpi=300)
+#ggsave(plot=pp,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/correlation_micro_clinical_doctor.svg", height = 5, width = 9, dpi=300)
+#ggsave(plot=pp,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/correlation_micro_clinical_doctor.png", height = 5, width = 9, dpi=300)
 

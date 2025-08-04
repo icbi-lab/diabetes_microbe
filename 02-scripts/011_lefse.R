@@ -9,8 +9,6 @@ library(janitor)
 library(dplyr)
 library(microbiomeMarker)
 
-#library(knitr)
-
 
 library(dplyr)
 library(tidyr)
@@ -20,7 +18,7 @@ library(viridis)
 library(readr)
 library(themis)
 
-library(tidymodels)
+
 
 
 library(dplyr)
@@ -157,8 +155,8 @@ p_all <- ggplot(dat_all, aes(x = feature_id, y = signed_lda, fill = enrich_group
 
 p_all
 
+#write_csv(dat_all, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/dat_all_barplot_lefse_all_comparison.csv")
 
-
-ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_all_comparison.svg", height = 10, width = 10, dpi=300)
-ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_all_comparison.png", height = 10, width = 10, dpi=300)
+#ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_all_comparison.svg", height = 10, width = 10, dpi=300)
+#ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_all_comparison.png", height = 10, width = 10, dpi=300)
 
