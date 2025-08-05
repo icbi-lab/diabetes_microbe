@@ -1,0 +1,10 @@
+,Metric,Comparison,P_value,test
+0,Shannon,H_vs_T1DM,0.6880901161436235,mannwhitneyu two-sided
+1,Shannon,H_vs_T3cDM,0.09256436227426171,mannwhitneyu two-sided
+2,Shannon,T3cDM_vs_T1DM,0.04589761917210571,mannwhitneyu two-sided
+3,Simpson,H_vs_T1DM,0.43435111514533487,mannwhitneyu two-sided
+4,Simpson,H_vs_T3cDM,0.022339883486320666,mannwhitneyu two-sided
+5,Simpson,T3cDM_vs_T1DM,0.06873060061756658,mannwhitneyu two-sided
+6,Chao1,H_vs_T1DM,0.7512945586546257,mannwhitneyu two-sided
+7,Chao1,H_vs_T3cDM,0.2380293908461294,mannwhitneyu two-sided
+8,Chao1,T3cDM_vs_T1DM,0.11289279116504015,mannwhitneyu two-sided

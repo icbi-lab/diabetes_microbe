@@ -1,0 +1,49 @@
+,id,KHK1,KHK2,CA1,CA2,Pankreatektomie,HbA1C_diff,Glukose_diff,BMI_diff,KHK_diff,CA_diff,shannon_entropy,Type,sample_information
+0,s20011_0048,ja,nein,ja,ja,Teilresektion rechts,increase,increase,increase,resolved,persistent,7.57977458353132,PDM,PDM12
+1,s20011_0023,ja,ja,ja,ja,nein,decrease,decrease,decrease,persistent,persistent,5.76206650928764,PDM,PDM17
+2,s20011_0019,nein,nein,nein,nein,nein,decrease,decrease,increase,absent,absent,5.90108494358752,DM,DM4
+3,s20011_0002,ja,ja,nein,nein,nein,increase,decrease,increase,persistent,absent,5.92288227633451,PDM,PDM1
+4,s20011_0007,ja,ja,nein,nein,nein,decrease,increase,decrease,persistent,absent,6.16695450601612,PDM,PDM2
+5,s20011_0008,ja,ja,nein,nein,nein,decrease,increase,decrease,persistent,absent,6.18923418451396,PDM,PDM14
+6,s20011_0003,nein,ja,nein,nein,nein,increase,increase,increase,onset,absent,7.17848672629369,PDM,PDM13
+7,s20011_0033,ja,ja,nein,nein,nein,decrease,increase,decrease,persistent,absent,6.51349718096946,DM,DM7
+8,s20011_0022,ja,ja,ja,ja,Teilresektion links,decrease,decrease,increase,persistent,persistent,6.32552772185556,PDM,PDM5
+9,s20011_0018,ja,ja,ja,ja,Teilresektion links,decrease,increase,increase,persistent,persistent,6.19999915100724,PDM,PDM16
+10,s20011_0014,ja,ja,nein,nein,nein,increase,increase,increase,persistent,absent,7.66523625455024,DM,DM3
+11,s20011_0013,nein,nein,nein,nein,nein,increase,increase,decrease,absent,absent,7.31938511813572,PDM,PDM15
+12,s20011_0044,nein,nein,nein,ja,nein,increase,decrease,decrease,absent,onset,5.74434840044745,PDM,PDM10
+13,s20011_0037,nein,nein,nein,nein,nein,increase,decrease,increase,absent,absent,6.43087828465944,DM,DM8
+14,s20011_0041,nein,nein,nein,nein,nein,increase,increase,decrease,absent,absent,6.34206307798664,DM,DM9
+15,s20011_0004,ja,nein,nein,nein,nein,decrease,increase,increase,resolved,absent,6.84933490830883,DM,DM1
+16,s20011_0029,nein,nein,nein,nein,nein,increase,decrease,increase,absent,absent,6.48585845807047,DM,DM6
+17,s20011_0027,ja,ja,nein,nein,Resektion,increase,decrease,increase,persistent,absent,5.62459061280889,PDM,PDM6
+18,s20011_0010,ja,ja,nein,nein,nein,decrease,decrease,increase,persistent,absent,6.66642971714092,DM,DM14
+19,s20011_0042,nein,nein,nein,nein,nein,decrease,increase,decrease,absent,absent,5.1252255744279,DM,DM21
+20,s20011_0036,nein,ja,nein,nein,Teilresektion rechts,increase,decrease,increase,onset,absent,3.2761802781998,PDM,PDM8
+21,s20011_0005,nein,nein,nein,nein,nein,decrease,decrease,increase,absent,absent,6.84658167201646,DM,DM13
+22,s20011_0032,nein,nein,nein,nein,nein,increase,increase,decrease,absent,absent,5.77505992359315,PDM,PDM7
+23,s20011_0046,nein,nein,nein,nein,nein,decrease,decrease,increase,absent,absent,8.47493244813806,PDM,PDM11
+24,s20011_0015,nein,nein,nein,nein,nein,increase,decrease,increase,absent,absent,7.00738576674332,DM,DM15
+25,s20011_0030,nein,nein,nein,nein,nein,decrease,decrease,increase,absent,absent,6.56730098491347,DM,DM18
+26,s20011_0009,nein,nein,nein,nein,nein,decrease,increase,increase,absent,absent,7.8671933190341,DM,DM2
+27,s20011_0020,ja,ja,nein,nein,nein,increase,increase,decrease,persistent,absent,5.7852177451205,DM,DM16
+28,s20011_0047,nein,nein,nein,nein,nein,increase,increase,increase,absent,absent,7.45528835322448,DM,DM11
+29,s20011_0025,nein,nein,nein,nein,nein,increase,decrease,decrease,absent,absent,6.72591508393488,DM,DM17
+30,s20011_0024,nein,nein,nein,nein,nein,increase,increase,decrease,absent,absent,8.01989204832562,DM,DM5
+31,s20011_0049,nein,nein,nein,nein,nein,increase,decrease,increase,absent,absent,7.39192367794635,DM,DM12
+32,s20011_0040,nein,nein,nein,nein,Resektion,increase,increase,increase,absent,absent,4.59593102537107,PDM,PDM9
+33,s20011_0028,nein,nein,nein,nein,Resektion,increase,decrease,decrease,absent,absent,5.47653725795745,PDM,PDM18
+34,s20011_0034,nein,nein,nein,nein,nein,increase,decrease,increase,absent,absent,7.19718747944413,DM,DM19
+35,s20011_0038,nein,nein,nein,nein,nein,increase,increase,increase,absent,absent,5.45124365856737,DM,DM20
+36,s20011_0045,nein,nein,nein,nein,nein,increase,increase,increase,absent,absent,6.99117320647289,DM,DM10
+37,s20011_0017,ja,ja,ja,ja,Teilresektion links,increase,increase,decrease,persistent,persistent,6.72141222397895,PDM,PDM4
+38,s20011_0001,nein,nein,nein,nein,nein,increase,decrease,increase,absent,absent,5.9936288113868,K,K1
+39,s20011_0006,nein,nein,nein,nein,nein,decrease,increase,increase,absent,absent,7.46049468400189,K,K2
+40,s20011_0011,nein,nein,nein,nein,nein,increase,increase,decrease,absent,absent,6.50029849056529,K,K3
+41,s20011_0016,nein,nein,nein,nein,nein,increase,increase,decrease,absent,absent,6.60138925676123,K,K4
+42,s20011_0021,nein,nein,nein,nein,nein,decrease,increase,increase,absent,absent,7.25727702571626,K,K5
+43,s20011_0026,nein,nein,nein,nein,nein,increase,increase,decrease,absent,absent,6.74416228865501,K,K6
+44,s20011_0031,nein,nein,nein,nein,nein,increase,decrease,increase,absent,absent,5.25763972639461,K,K7
+45,s20011_0035,nein,nein,nein,nein,nein,decrease,decrease,increase,absent,absent,8.01135607621721,K,K8
+46,s20011_0039,nein,nein,nein,nein,nein,decrease,increase,increase,absent,absent,6.9544833001528,K,K9
+47,s20011_0043,nein,nein,nein,nein,nein,decrease,increase,decrease,absent,absent,7.20412078417128,K,K10
