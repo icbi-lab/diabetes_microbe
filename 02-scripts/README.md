@@ -34,3 +34,13 @@ Samplesheet available at diabetes_microbe/01-tables/nf-core_ampliseq
 ./materials/09_growthrate_boxplot.R - Microbial community modelling  growth rate boxplot
 
 ./materials/010_metabolite_flux_boxplot_volcano.R - Microbial community modelling metabolite flux boxplot 
+
+011_lefse.R -   Linear discriminant analysis Effect Size (LefSe) comparing disease groups  pairwise comparison
+
+013_taxa_clinical_correlation.R   - Pearson correlation analyses between relative abundances of top genera identified from logistic models and selected clinical variables relevant to T1D and T3cDM.
+
+014_linear_regression.R - Linear regression to evaluate the relationship between Escherichia-Shigella relative abundance and the binary clinical variable "Pancreatectomy"
+
+015_metadata_analysis.R  - Linear mixed-effects models (GLMM) on clinical and laboratory variables collected at baseline and follow-up. Forest plot. 
+
+016_lefse_sex.R  - Linear discriminant analysis Effect Size (LefSe) separated by disease comparing sex (female vs male)
