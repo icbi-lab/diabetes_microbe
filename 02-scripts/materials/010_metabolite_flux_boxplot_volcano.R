@@ -238,7 +238,7 @@ filtered_metabolites <- c("Pyridoxine", "Fe3+", "Ubiquinone-8", "Zinc")
 
 q <- ggplot(stat_df_unique, aes(x = effsize, y = -log10(p.adj))) +
   geom_point(aes(color = result_strength), alpha = 0.8, size = 3) +
-  geom_vline(xintercept = c(0, 0.5), linetype = "dashed", color = "grey") +
+  geom_vline(xintercept = c(0, 0.3), linetype = "dashed", color = "grey") +
   geom_hline(yintercept = -log10(0.05), linetype = "dashed", color = "grey") +
   geom_text_repel(
     data = filter(stat_df_unique, description %in% filtered_metabolites),
