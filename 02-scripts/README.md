@@ -19,3 +19,18 @@ Samplesheet available at diabetes_microbe/01-tables/nf-core_ampliseq
 
 05_beta_diversity.ipynb - Community Ꞵ-diversity analysis described by Bray-Curtis and Jaccard distances.
 
+06_logistic_regression_H_T1DM.R - Microbial logistic regression model comparison H vs T1DM confusuion matrix, ROC AUC curve and log odd coefficients
+
+06_logistic_regression_H_T3cDM.R - Microbial logistic regression model comparison H vs T3cDM , ROC AUC curve and log odd coefficients
+
+06_logistic_regression_T1DM_T3cDM.R - Microbial logistic regression model comparison T1D vs T3cDM, ROC AUC curve and log odd coefficients
+
+07_violin_relative_abundance_top_features.R - Relative abundance boxplots top features from  microbial logistic regression model pairwise comparison
+
+08_venn_diagram.R - Venn diagram using top features from  microbial logistic regression model pairwise comparison
+
+./materials/08_micom.ipynb - Microbial community modelling 
+
+./materials/09_growthrate_boxplot.R - Microbial community modelling  growth rate boxplot
+
+./materials/010_metabolite_flux_boxplot_volcano.R - Microbial community modelling metabolite flux boxplot 

@@ -88,6 +88,7 @@ sbatch 02-scripts/nf-core_ampliseq/run_nf_core_ampliseq.slurm
 
 ```
 02-scripts/011_lefse.R
+02-scripts/016_lefse_sex.R
 ```
 
 - Linear Regression

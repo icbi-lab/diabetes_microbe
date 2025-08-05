@@ -1,5 +1,5 @@
 
-# Data and Materials for the 2020 ISB Microbiome Course
+# MICOM
 
 ## Modeling microbiota-wide metabolism with MICOM
 
