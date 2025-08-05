@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    class="svglite"
-   width="720.00pt"
+   width="432.00pt"
    height="432.00pt"
-   viewBox="0 0 720.00 432.00"
+   viewBox="0 0 432.00 432.00"
    version="1.1"
-   id="svg112"
+   id="svg64"
    sodipodi:docname="volcano_plot.svg"
    inkscape:export-filename="volcano_plot.png"
    inkscape:export-xdpi="300"
@@ -16,7 +16,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview112"
+     id="namedview64"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -26,15 +26,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
-     inkscape:zoom="2.6333334"
-     inkscape:cx="423.41771"
-     inkscape:cy="278.5443"
+     inkscape:zoom="1.4947917"
+     inkscape:cx="287.66551"
+     inkscape:cy="288"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g98" />
+     inkscape:current-layer="g64" />
   <defs
      id="defs1">
     <style
@@ -60,466 +60,326 @@
   <defs
      id="defs2">
     <clipPath
-       id="cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=">
+       id="cpMC4wMHw0MzIuMDB8MC4wMHw0MzIuMDA=">
       <rect
          x="0.00"
          y="0.00"
-         width="720.00"
+         width="432.00"
          height="432.00"
          id="rect2" />
     </clipPath>
   </defs>
   <g
-     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
+     clip-path="url(#cpMC4wMHw0MzIuMDB8MC4wMHw0MzIuMDA=)"
      id="g2" />
   <defs
      id="defs3">
     <clipPath
-       id="cpNDAuOTV8NTg4LjU0fDI3LjU3fDM5NC41Mw==">
+       id="cpNDAuOTV8MzAwLjU0fDI3LjU3fDM5NC41Mw==">
       <rect
          x="40.95"
          y="27.57"
-         width="547.58"
+         width="259.58"
          height="366.97"
          id="rect3" />
     </clipPath>
   </defs>
   <g
-     clip-path="url(#cpNDAuOTV8NTg4LjU0fDI3LjU3fDM5NC41Mw==)"
-     id="g98">
+     clip-path="url(#cpNDAuOTV8MzAwLjU0fDI3LjU3fDM5NC41Mw==)"
+     id="g50">
     <polyline
-       points="40.95,317.61 588.54,317.61 "
+       points="40.95,316.99 300.54,316.99 "
        style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline3" />
     <polyline
-       points="40.95,197.12 588.54,197.12 "
+       points="40.95,195.26 300.54,195.26 "
        style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline4" />
     <polyline
-       points="40.95,76.64 588.54,76.64 "
+       points="40.95,73.52 300.54,73.52 "
        style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline5" />
     <polyline
-       points="137.80,394.53 137.80,27.57 "
+       points="85.10,394.53 85.10,27.57 "
        style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline6" />
     <polyline
-       points="281.72,394.53 281.72,27.57 "
+       points="149.80,394.53 149.80,27.57 "
        style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline7" />
     <polyline
-       points="425.64,394.53 425.64,27.57 "
+       points="214.51,394.53 214.51,27.57 "
        style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline8" />
     <polyline
-       points="40.95,377.85 588.54,377.85 "
+       points="279.21,394.53 279.21,27.57 "
+       style="stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;"
+       id="polyline9" />
+    <polyline
+       points="40.95,377.85 300.54,377.85 "
        style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline10" />
     <polyline
-       points="40.95,257.37 588.54,257.37 "
+       points="40.95,256.12 300.54,256.12 "
        style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline11" />
     <polyline
-       points="40.95,136.88 588.54,136.88 "
+       points="40.95,134.39 300.54,134.39 "
        style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline12" />
     <polyline
-       points="65.84,394.53 65.84,27.57 "
+       points="52.75,394.53 52.75,27.57 "
        style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline13" />
     <polyline
-       points="209.76,394.53 209.76,27.57 "
+       points="117.45,394.53 117.45,27.57 "
        style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline14" />
     <polyline
-       points="353.68,394.53 353.68,27.57 "
+       points="182.15,394.53 182.15,27.57 "
        style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline15" />
     <polyline
-       points="497.59,394.53 497.59,27.57 "
+       points="246.86,394.53 246.86,27.57 "
        style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline16" />
     <circle
-       cx="266.91895"
-       cy="138.01463"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
-       id="circle16"
-       inkscape:transform-center-x="-5.37333"
-       inkscape:transform-center-y="-2.2107272" />
+       cx="165.03"
+       cy="136.40"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle16" />
     <circle
-       cx="65.84"
+       cx="52.75"
        cy="377.85"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle17" />
     <circle
-       cx="230.20"
-       cy="290.98"
+       cx="145.12"
+       cy="290.08"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle18" />
     <circle
-       cx="252.32"
-       cy="167.46"
+       cx="157.54"
+       cy="165.28"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle19" />
     <circle
-       cx="249.48036"
-       cy="165.65009"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       cx="157.54"
+       cy="165.28"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle20" />
     <circle
-       cx="255.26909"
-       cy="165.0955"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       cx="157.54"
+       cy="165.28"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle21" />
     <circle
-       cx="281.33"
-       cy="180.02"
+       cx="173.85"
+       cy="177.98"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle22" />
     <circle
-       cx="267.04"
-       cy="181.85"
+       cx="165.82"
+       cy="179.82"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle23" />
     <circle
-       cx="95.29"
-       cy="373.89"
+       cx="69.30"
+       cy="373.85"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle24" />
     <circle
-       cx="301.16"
-       cy="47.66"
+       cx="184.99"
+       cy="44.25"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle25" />
     <circle
-       cx="207.92"
-       cy="255.65"
+       cx="132.59"
+       cy="254.39"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle26" />
     <circle
-       cx="115.37"
-       cy="363.41"
+       cx="142.93"
+       cy="226.01"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle27" />
+    <circle
+       cx="80.59"
+       cy="363.26"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle28" />
     <circle
-       cx="125.36"
-       cy="369.91"
+       cx="86.20"
+       cy="369.83"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle29" />
     <circle
-       cx="220.23"
-       cy="252.22"
+       cx="139.51"
+       cy="250.92"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle30" />
     <circle
-       cx="194.01"
-       cy="284.30"
+       cx="124.78"
+       cy="283.34"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle31" />
     <circle
-       cx="248.90"
-       cy="298.59"
+       cx="155.63"
+       cy="297.77"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle32" />
     <circle
-       cx="277.07"
-       cy="272.98"
+       cx="171.45"
+       cy="271.89"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle33" />
     <circle
-       cx="248.36276"
-       cy="171.98331"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       cx="157.54"
+       cy="165.28"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle34" />
     <circle
-       cx="149.15"
-       cy="344.18"
+       cx="99.57"
+       cy="343.83"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle35" />
     <circle
-       cx="88.04"
-       cy="372.65"
+       cx="65.23"
+       cy="372.60"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle36" />
     <circle
-       cx="286.80"
-       cy="95.19"
+       cx="176.92"
+       cy="92.26"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle37" />
     <circle
-       cx="316.24"
-       cy="135.71"
+       cx="193.47"
+       cy="133.20"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle38" />
     <circle
-       cx="485.77"
-       cy="70.51"
+       cx="288.74"
+       cy="67.33"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B2182B; stroke-opacity: 0.80; fill: #B2182B; fill-opacity: 0.80;"
        id="circle39" />
     <circle
-       cx="306.43"
-       cy="251.73"
+       cx="187.96"
+       cy="250.43"
        r="3.56"
        style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle40" />
     <circle
-       cx="259.32098"
-       cy="166.89108"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       cx="157.54"
+       cy="165.28"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle41" />
     <circle
-       cx="246.25018"
-       cy="168.31657"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       cx="157.54"
+       cy="165.28"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle42" />
     <circle
-       cx="252.29938"
-       cy="160.85088"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       cx="157.54"
+       cy="165.28"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle43" />
     <circle
-       cx="254.00299"
-       cy="172.21809"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
+       cx="157.54"
+       cy="165.28"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
        id="circle44" />
     <circle
-       cx="65.84"
+       cx="52.75"
        cy="377.85"
        r="3.56"
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle45" />
     <line
-       x1="65.84"
+       x1="52.75"
        y1="394.53"
-       x2="65.84"
+       x2="52.75"
        y2="27.57"
        style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
        id="line45" />
     <line
-       x1="353.68"
+       x1="214.51"
        y1="394.53"
-       x2="353.68"
+       x2="214.51"
        y2="27.57"
        style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
        id="line46" />
     <line
        x1="40.95"
-       y1="370.02"
-       x2="588.54"
-       y2="370.02"
+       y1="369.94"
+       x2="300.54"
+       y2="369.94"
        style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
        id="line47" />
-    <line
-       x1="324.14"
-       y1="177.69"
-       x2="282.73"
-       y2="179.95"
-       style="stroke-width: 1.07;"
-       id="line51" />
-    <line
-       x1="216.64"
-       y1="175.76"
-       x2="251.00"
-       y2="167.77"
-       style="stroke-width: 1.07;"
-       id="line58" />
-    <line
-       x1="289.57"
-       y1="163.13"
-       x2="253.70"
-       y2="167.30"
-       style="stroke-width: 1.07;"
-       id="line59" />
-    <line
-       x1="248.91"
-       y1="148.42"
-       x2="252.15"
-       y2="166.53"
-       style="stroke-width: 1.07;"
-       id="line61" />
     <text
-       x="226.34"
-       y="165.13"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="41.40px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text65">Chloride</text>
-    <text
-       x="268.19"
-       y="162.60"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="27.71px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text67">Co2+</text>
-    <text
-       x="246.76"
-       y="135.68"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="27.92px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text70">Cu2+</text>
-    <text
-       x="346.45"
-       y="181.30"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="41.01px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text71">Cytidine</text>
-    <text
-       x="283.50"
-       y="191.78"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="70.88px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text73">Deoxycytidine</text>
-    <text
-       x="313.42"
-       y="43.05"
+       x="179.10"
+       y="56.15"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="25.96px"
        lengthAdjust="spacingAndGlyphs"
-       id="text74">Fe3+</text>
+       id="text47">Fe3+</text>
     <text
-       x="259.93"
-       y="294.82"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="76.81px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text76">Menaquinone 7</text>
-    <text
-       x="320.38"
-       y="269.04"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="76.81px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text77">Menaquinone 8</text>
-    <text
-       x="272.23"
-       y="177.49"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="29.56px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text79">Mn2+</text>
-    <text
-       x="226.61"
-       y="254.61"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="103.26px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text81">Oxidized glutathione</text>
-    <text
-       x="255.22"
-       y="92.29"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="51.88px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text82">Putrescine</text>
-    <text
-       x="344.05"
-       y="137.35"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="45.59px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text84">Pyridoxal</text>
-    <text
-       x="473.50"
-       y="82.30"
+       x="258.66"
+       y="70.96"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="51.92px"
        lengthAdjust="spacingAndGlyphs"
-       id="text86">Pyridoxine</text>
+       id="text48">Pyridoxine</text>
     <text
-       x="318.74"
-       y="247.18"
+       x="193.90"
+       y="245.63"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="66.50px"
        lengthAdjust="spacingAndGlyphs"
-       id="text88">Ubiquinone-8</text>
+       id="text49">Ubiquinone-8</text>
     <text
-       x="281.36"
-       y="136.78"
+       x="151.67"
+       y="177.20"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="21.36px"
        lengthAdjust="spacingAndGlyphs"
-       id="text91">Zinc</text>
-    <text
-       x="184.34"
-       y="179.66"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="61.00px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text92">calcium(2+)</text>
-    <text
-       x="320.61"
-       y="166.69"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="58.48px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text94">magnesium</text>
-    <text
-       x="221.34"
-       y="150.62"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="51.54px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text96">potassium</text>
-    <text
-       x="230.01"
-       y="315.96"
-       text-anchor="middle"
-       style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="33.88px"
-       lengthAdjust="spacingAndGlyphs"
-       id="text98">sulfate</text>
+       id="text50">Zinc</text>
   </g>
   <g
-     clip-path="url(#cpMC4wMHw3MjAuMDB8MC4wMHw0MzIuMDA=)"
-     id="g112">
+     clip-path="url(#cpMC4wMHw0MzIuMDB8MC4wMHw0MzIuMDA=)"
+     id="g64">
     <text
        x="35.12"
        y="381.64"
@@ -527,119 +387,117 @@
        style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
        textLength="6.61px"
        lengthAdjust="spacingAndGlyphs"
-       id="text99">0</text>
+       id="text51">0</text>
     <text
        x="35.12"
-       y="261.16"
+       y="259.91"
        text-anchor="end"
        style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
        textLength="13.22px"
        lengthAdjust="spacingAndGlyphs"
-       id="text100">20</text>
+       id="text52">20</text>
     <text
        x="35.12"
-       y="140.67"
+       y="138.18"
        text-anchor="end"
        style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
        textLength="13.22px"
        lengthAdjust="spacingAndGlyphs"
-       id="text101">40</text>
+       id="text53">40</text>
     <text
-       x="65.84"
+       x="52.75"
        y="407.94"
        text-anchor="middle"
        style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="23.13px"
+       textLength="16.52px"
        lengthAdjust="spacingAndGlyphs"
-       id="text102">0.00</text>
+       id="text54">0.0</text>
     <text
-       x="209.76"
+       x="117.45"
        y="407.94"
        text-anchor="middle"
        style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="23.13px"
+       textLength="16.52px"
        lengthAdjust="spacingAndGlyphs"
-       id="text103">0.25</text>
+       id="text55">0.2</text>
     <text
-       x="353.68"
+       x="182.15"
        y="407.94"
        text-anchor="middle"
        style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="23.13px"
+       textLength="16.52px"
        lengthAdjust="spacingAndGlyphs"
-       id="text104">0.50</text>
+       id="text56">0.4</text>
     <text
-       x="497.59"
+       x="246.86"
        y="407.94"
        text-anchor="middle"
        style="font-size: 10.40px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="23.13px"
+       textLength="16.52px"
        lengthAdjust="spacingAndGlyphs"
-       id="text105">0.75</text>
+       id="text57">0.6</text>
     <text
-       x="314.74"
+       x="170.74"
        y="422.82"
        text-anchor="middle"
        style="font-size: 13.00px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="66.97px"
        lengthAdjust="spacingAndGlyphs"
-       id="text106">Effect size</text>
+       id="text58">Effect size</text>
     <text
        transform="translate(15.96,211.05) rotate(-90)"
        text-anchor="middle"
        style="font-size: 13.00px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="81.00px"
        lengthAdjust="spacingAndGlyphs"
-       id="text107">-log10(P.adj)</text>
+       id="text59">-log10(P.adj)</text>
     <text
-       x="607.96002"
+       x="319.95999"
        y="186.63"
        style="font-size:13px;font-family:'Nimbus Sans'"
        textLength="99.089996"
        lengthAdjust="spacingAndGlyphs"
-       id="text108"
-       transform="translate(-101.92112,-161.28583)">Result strength</text>
+       id="text60"
+       transform="translate(-3.4998231,-22.010691)">Result strength</text>
     <circle
-       cx="512.25604"
-       cy="55.122684"
-       r="3.5599999"
-       style="fill:#ef8a62;fill-opacity:0.8;stroke:#ef8a62;stroke-width:0.71;stroke-opacity:0.8"
-       id="circle108" />
+       cx="328.60"
+       cy="203.10"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #EF8A62; stroke-opacity: 0.80; fill: #EF8A62; fill-opacity: 0.80;"
+       id="circle60" />
     <circle
-       cx="512.25604"
-       cy="72.402679"
-       r="3.5599999"
-       style="fill:#b3b3b3;fill-opacity:0.8;stroke:#b3b3b3;stroke-width:0.71;stroke-opacity:0.8"
-       id="circle109" />
+       cx="328.60"
+       cy="220.38"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
+       id="circle61" />
     <circle
-       cx="513.48474"
-       cy="35.990772"
+       cx="328.92789"
+       cy="183.30888"
        r="3.5599999"
        style="fill:#b2182b;fill-opacity:0.8;stroke:#b2182b;stroke-width:0.71;stroke-opacity:0.8"
-       id="circle110" />
+       id="circle62" />
     <text
-       x="631.71997"
+       x="343.72"
        y="206.89"
-       style="font-size:10.4px;font-family:'Nimbus Sans'"
-       textLength="50.57"
+       style="font-size: 10.40px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="50.57px"
        lengthAdjust="spacingAndGlyphs"
-       id="text110"
-       transform="translate(-104.3439,-147.97733)">moderate</text>
+       id="text62">moderate</text>
     <text
-       x="631.71997"
+       x="343.72"
        y="224.17"
-       style="font-size:10.4px;font-family:'Nimbus Sans'"
-       textLength="73.980003"
+       style="font-size: 10.40px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="73.98px"
        lengthAdjust="spacingAndGlyphs"
-       id="text111"
-       transform="translate(-104.3439,-147.97733)">not significant</text>
+       id="text63">not significant</text>
     <text
-       x="631.71997"
+       x="343.72"
        y="241.45"
        style="font-size:10.4px;font-family:'Nimbus Sans'"
        textLength="33.07"
        lengthAdjust="spacingAndGlyphs"
-       id="text112"
-       transform="translate(-103.11524,-201.66923)">strong</text>
+       id="text64"
+       transform="translate(0.32789022,-54.351118)">strong</text>
   </g>
 </svg>

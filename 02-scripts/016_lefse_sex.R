@@ -94,7 +94,6 @@ get_lefse_df <- function(lef_out, comp_name, group1, group2) {
 
 dat_T1D <- get_lefse_df(mm_lefse_T1D, "f vs m", "f", "m")
 
-
 #
 
 
