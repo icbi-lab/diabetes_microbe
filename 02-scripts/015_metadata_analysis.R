@@ -306,7 +306,7 @@ p <- p +
 
 p
 
-ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.svg", height = 5, width = 7)
-ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.png", height = 5, width = 7)
+#ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.svg", height = 5, width = 7)
+#ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.png", height = 5, width = 7)
 
-#write.csv(forest_df_sig, file = "/data/scratch/kvalem/projects/2024/Effenberger-Diabetes/02-scripts/tables/v02/forest_df_sig.csv", row.names = FALSE)
+write.csv(forest_df_sig, file = "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/forest_df_sig_forest_plot_numerical_groups_padjsig.csv", row.names = FALSE)
