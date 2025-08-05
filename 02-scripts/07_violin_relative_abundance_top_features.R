@@ -54,16 +54,13 @@ tax_table(phy) <- tax_fixed
 
 
 
-# Step 1: Extract relevant genus-level data
 target_genera <- c("Fusicatenibacter", "Akkermansia", "Subdoligranulum",
                    "Blautia", "CAG-352", "Escherichia-Shigella",
                    "Faecalibacterium", "Streptococcus")
 
-# Filter phyloseq object to only include those genera
 genus_taxa <- taxa_names(phy)[tax_table(phy)[, "Genus"] %in% target_genera]
 phy_target <- prune_taxa(genus_taxa, phy)
 
-# Step 2: Melt to long format with sample, genus, and relative abundance
 df_genus <- psmelt(phy_target) %>%
   #filter(Type %in% c("DM", "PDM")) %>%  # exclude K group if present
   mutate(Genus = as.character(Genus))
@@ -71,7 +68,6 @@ df_genus <- psmelt(phy_target) %>%
 
 #####################################
 
-# Recreate pairwise p-values with FDR adjustment
 stat_df <- df_genus %>%
   filter(Type %in% c("T1DM", "T3cDM", "H")) %>%
   group_by(Genus) %>%
@@ -105,7 +101,6 @@ stat_df <- df_genus %>%
     )
   )
 
-# Dynamically space brackets above each genus
 stat_df <- stat_df %>%
   group_by(Genus) %>%
   mutate(y.position = max(df_genus$Abundance[df_genus$Genus == unique(Genus)], na.rm = TRUE) + 0.03 * row_number()) %>%
