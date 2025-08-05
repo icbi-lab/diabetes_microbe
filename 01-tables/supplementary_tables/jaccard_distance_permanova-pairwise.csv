@@ -1,0 +1,4 @@
+Group 1,Group 2,Sample size,Permutations,pseudo-F,p-value,q-value
+Diabetes mellitus Typ1,Kontrolle,31,999,1.0453707489784119,0.021,0.03150000000000001
+Diabetes mellitus Typ1,pankreopriver Diabetes,38,999,1.1145868703829502,0.001,0.003
+Kontrolle,pankreopriver Diabetes,27,999,1.0457318702624878,0.032,0.032
