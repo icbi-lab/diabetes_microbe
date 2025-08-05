@@ -227,11 +227,45 @@ q <- ggplot(stat_df_unique, aes(x = effsize, y = -log10(p.adj))) +
        x = "Effect size",
        y = "-log10(P.adj)",
        color = "Result strength")
+q
 
-#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.svg", plot = q,
-#       width = 10, height = 6, units = "in", dpi = 300)
-#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.png", plot = q,
-#       width = 10, height = 6, units = "in", dpi = 300)
+
+library(ggplot2)
+library(ggrepel)
+library(dplyr)
+
+filtered_metabolites <- c("Pyridoxine", "Fe3+", "Ubiquinone-8", "Zinc")
+
+q <- ggplot(stat_df_unique, aes(x = effsize, y = -log10(p.adj))) +
+  geom_point(aes(color = result_strength), alpha = 0.8, size = 3) +
+  geom_vline(xintercept = c(0, 0.5), linetype = "dashed", color = "grey") +
+  geom_hline(yintercept = -log10(0.05), linetype = "dashed", color = "grey") +
+  geom_text_repel(
+    data = filter(stat_df_unique, description %in% filtered_metabolites),
+    aes(label = description),
+    size = 3.5,
+    max.overlaps = Inf
+  ) +
+  scale_color_manual(values = c(
+    "strong" = "#B2182B",
+    "moderate" = "#EF8A62",
+    "weak" = "#FDB863",
+    "not significant" = "grey70"
+  )) +
+  theme_minimal(base_size = 13) +
+  labs(
+    title = "",
+    x = "Effect size",
+    y = "-log10(P.adj)",
+    color = "Result strength"
+  )
+
+q
+
+ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.svg", plot = q,
+       width = 6, height = 6, units = "in", dpi = 300)
+ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/volcano_plot.png", plot = q,
+       width = 6, height = 6, units = "in", dpi = 300)
 
 
 ###################### Boxplot with bioligical sig. effect size >0.3 and p.adj >0.05
