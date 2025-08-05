@@ -249,8 +249,8 @@ p <- ggplot(pdm_df, aes(x = Blautia, y = `Pancreatectomy`, color = Type)) +
 p
 
 
-ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/linear_regression_Escherichia-Shigella_Pancreatectomy.svg", height = 3, width = 5, dpi=300)
-ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/linear_regression_Escherichia-Shigella_Pancreatectomy.png", height = 3, width = 5, dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/linear_regression_Escherichia-Shigella_Pancreatectomy.svg", height = 3, width = 5, dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/linear_regression_Escherichia-Shigella_Pancreatectomy.png", height = 3, width = 5, dpi=300)
 
 
 
@@ -326,6 +326,6 @@ cat("Fold change (Right Partial vs Left Partial):", round(fold_change_3, 2), "\n
 
 
 pan
-ggsave(plot=pan,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.svg", height = 5, width = 3, dpi=300)
-ggsave(plot=pan,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.png", height = 5, width = 3, dpi=300)
+#ggsave(plot=pan,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.svg", height = 5, width = 3, dpi=300)
+#ggsave(plot=pan,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.png", height = 5, width = 3, dpi=300)
 
