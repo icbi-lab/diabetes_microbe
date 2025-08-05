@@ -31,8 +31,8 @@
      inkscape:cy="288"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="7"
      inkscape:window-maximized="1"
      inkscape:current-layer="g64" />
   <defs
@@ -331,9 +331,9 @@
        style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
        id="line45" />
     <line
-       x1="214.51"
+       x1="149.80"
        y1="394.53"
-       x2="214.51"
+       x2="149.80"
        y2="27.57"
        style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
        id="line46" />
@@ -345,8 +345,8 @@
        style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
        id="line47" />
     <text
-       x="179.10"
-       y="56.15"
+       x="190.88"
+       y="39.52"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="25.96px"
@@ -361,15 +361,15 @@
        lengthAdjust="spacingAndGlyphs"
        id="text48">Pyridoxine</text>
     <text
-       x="193.90"
-       y="245.63"
+       x="182.05"
+       y="262.41"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="66.50px"
        lengthAdjust="spacingAndGlyphs"
        id="text49">Ubiquinone-8</text>
     <text
-       x="151.67"
+       x="151.72"
        y="177.20"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
@@ -458,7 +458,7 @@
        textLength="99.089996"
        lengthAdjust="spacingAndGlyphs"
        id="text60"
-       transform="translate(-3.4998231,-22.010691)">Result strength</text>
+       transform="translate(-1.5805613,-17.670977)">Result strength</text>
     <circle
        cx="328.60"
        cy="203.10"
@@ -472,8 +472,8 @@
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle61" />
     <circle
-       cx="328.92789"
-       cy="183.30888"
+       cx="328.71295"
+       cy="186.22778"
        r="3.5599999"
        style="fill:#b2182b;fill-opacity:0.8;stroke:#b2182b;stroke-width:0.71;stroke-opacity:0.8"
        id="circle62" />
@@ -498,6 +498,6 @@
        textLength="33.07"
        lengthAdjust="spacingAndGlyphs"
        id="text64"
-       transform="translate(0.32789022,-54.351118)">strong</text>
+       transform="translate(0.11294098,-51.432216)">strong</text>
   </g>
 </svg>
