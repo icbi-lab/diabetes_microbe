@@ -160,29 +160,52 @@ dat_H <- get_lefse_df(mm_lefse_H, "f vs m", "f", "m") %>%
 # Combine both
 dat_all <- bind_rows(dat_T3cDM, dat_T1D,dat_H)
 
-# Create the combined plot
-p_all <- ggplot(dat_all, aes(x = feature, y = signed_lda, fill = enrich_group)) +
-  geom_bar(stat = "identity", width = 0.7) +
+
+
+dat_genus <- dat_all %>%
+  filter(!str_detect(feature, "_{2,}$")) %>%                   
+  mutate(
+    # make a clean genus column
+    genus = feature %>%
+      str_replace_all("\\[|\\]", "") %>%                       
+      str_extract("^[^ _]+")                                  
+  )
+
+dat_best <- dat_genus %>%
+  mutate(abs_lda = abs(ef_lda)) %>%                              
+  group_by(condition, genus) %>%
+  slice_max(abs_lda, n = 1, with_ties = FALSE) %>%
+  ungroup()
+
+drop_these <- c("Desulfovibrionales","Actinobacteriota","Alphaproteobacteria")
+dat_genus <- dat_genus %>% filter(!(genus %in% drop_these))
+
+dat_top5 <- dat_best %>%
+  group_by(condition) %>%
+  slice_max(abs_lda, n = 10, with_ties = FALSE) %>%
+  ungroup()
+
+p_all <- ggplot(dat_top5, aes(x = reorder(genus,signed_lda), y = signed_lda, fill = enrich_group)) +  # replace 'sex' with your column (f/m)
+  geom_col() +
   coord_flip() +
-  scale_y_continuous(name = "LDA SCORE (log10)                  p.adj < 0.05") +
-  scale_fill_manual(values = c("f" = "#ef8a62", "m" = "#67a9cf")) +
-  scale_x_discrete(labels = dat_all$feature_mod) +
   facet_wrap(~ condition, scales = "free_y", ncol = 1) +
-  theme_minimal(base_size = 12) +
+  theme_minimal() +
+  scale_y_continuous(name = "LDA SCORE (log10)                  p.adj < 0.05") +
+  scale_fill_manual(values = c("f" = "#ef8a62", "m" = "#67a9cf")) +  theme_minimal(base_size = 18) +
   theme(
     axis.title.y = element_blank(),
-    axis.text.y = element_text(size = 12),
-    strip.text = element_text(size = 14, face = "bold"),
-    legend.title = element_blank()
-  )
+    axis.text.y = element_text(size = 18),
+    strip.text = element_text(size = 18, face = "bold"),
+    legend.title = element_blank() ) 
+
+
 
 
 p_all
 
 
-#write_csv(dat_all, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/dat_all_barplot_lefse_sex_comparison.csv")
+#write_csv(dat_top5, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/dat_top5_barplot_lefse_sex_comparison.csv")
 
 #ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_sex_comparison.svg", height = 10, width = 10, dpi=300)
 #ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_sex_comparison.png", height = 10, width = 10, dpi=300)
-
 
