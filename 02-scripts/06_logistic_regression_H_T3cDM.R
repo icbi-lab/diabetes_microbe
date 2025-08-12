@@ -130,7 +130,7 @@ c <- conf_mat(results, truth = Type, estimate = .pred_class) %>%
   labs(title = "")
 c
 
-write_csv(results,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/results_confusuion_matrix_microbial_T3cDM_vs_H.csv")
+#write_csv(results,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/results_confusuion_matrix_microbial_T3cDM_vs_H.csv")
 
 #ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusuion_matrix_microbial_T3cDM_vs_H.svg", height = 3, width = 3, dpi=300)
 #ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusion_matrix_microbial_T3cDM_vs_H.png", height = 3, width = 3,dpi=300)
@@ -246,10 +246,11 @@ lg <- ggplot(coef_df, aes(x = estimate, y = reorder(term, estimate))) +
   labs(title = "",
        x = "← T3cDM                     Log-Odds coefficient                    H →",
        y = NULL) +
-  theme(text = element_text(size = 18))
+  theme(text = element_text(size = 25))
 lg
 
 #write_csv(coef_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/coef_df_log_reg_coefs_microbial_T3cDM_vs_H.csv")
+
 
 
 

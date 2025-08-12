@@ -13,7 +13,7 @@ library(stringr)
 library(viridis)
 library(readr)
 library(themis)
-#library(tidymodels)
+library(tidymodels)
 library(dplyr)
 library(tidyr)
 library(purrr)
@@ -238,11 +238,11 @@ lg <- ggplot(coef_df, aes(x = estimate, y = reorder(term, estimate))) +
   labs(title = "",
        x = "← T1DM                     Log-Odds coefficient                    H →",
        y = NULL) +
-  theme(text = element_text(size = 18))
+  theme(text = element_text(size = 25))
 lg
 
 #write_csv(coef_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/coef_df_log_reg_coefs_microbial_T1DM_vs_H.csv")
 
 
-#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_H.svg", height = 8, width = 8,dpi=300)
-#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_H.png", height = 8, width = 8,dpi=300)
+ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_H.svg", height = 8, width = 8,dpi=300)
+ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_H.png", height = 8, width = 8,dpi=300)

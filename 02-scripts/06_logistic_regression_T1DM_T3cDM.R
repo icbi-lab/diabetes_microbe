@@ -238,10 +238,10 @@ lg <- ggplot(coef_df, aes(x = estimate, y = reorder(term, estimate))) +
   labs(title = "",
        x = "← T1DM                     Log-Odds coefficient                    T3cDM →",
        y = NULL) +
-  theme(text = element_text(size = 18))
+  theme(text = element_text(size = 25))
 lg
 
 #write_csv(coef_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/coef_df_log_reg_coefs_microbial_T1DM_vs_T3cDM.csv")
 
-#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.svg", height = 8, width = 8,dpi=300)
-#ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.png", height = 8, width = 8,dpi=300)
+ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.svg", height = 8, width = 8,dpi=300)
+ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.png", height = 8, width = 8,dpi=300)
