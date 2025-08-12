@@ -30,8 +30,8 @@
      inkscape:cy="144"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="7"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg21"
      inkscape:export-bgcolor="#ffffffff" />
@@ -179,7 +179,7 @@
        x="43.86"
        y="143.60"
        text-anchor="end"
-       style="font-size: 8.80px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;fill:#3274a1;font-family:'Nimbus Sans';fill-opacity:1"
        textLength="6.62px"
        lengthAdjust="spacingAndGlyphs"
        id="text14">H</text>
@@ -187,7 +187,7 @@
        x="43.860001"
        y="70.43"
        text-anchor="end"
-       style="font-size:8.8px;font-family:'Nimbus Sans';fill:#4d4d4d"
+       style="font-size:8.8px;font-family:'Nimbus Sans';fill:#e1812c;fill-opacity:1"
        textLength="25.33"
        lengthAdjust="spacingAndGlyphs"
        id="text15">T1D </text>
@@ -211,7 +211,7 @@
        x="92.900002"
        y="195.64"
        text-anchor="middle"
-       style="font-size:8.8px;font-family:'Nimbus Sans';fill:#4d4d4d"
+       style="font-size:8.8px;font-family:'Nimbus Sans';fill:#e1812c;fill-opacity:1"
        textLength="25.33"
        lengthAdjust="spacingAndGlyphs"
        id="text18">T1D </text>
@@ -219,7 +219,7 @@
        x="166.41"
        y="195.64"
        text-anchor="middle"
-       style="font-size: 8.80px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;fill:#3274a1;font-family:'Nimbus Sans';fill-opacity:1"
        textLength="6.62px"
        lengthAdjust="spacingAndGlyphs"
        id="text19">H</text>

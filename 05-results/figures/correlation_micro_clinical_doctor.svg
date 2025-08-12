@@ -632,7 +632,7 @@
        x="165.42"
        y="203.98"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="97.03px"
        lengthAdjust="spacingAndGlyphs"
        id="text78">g__Akkermansia</text>
@@ -640,7 +640,7 @@
        x="165.42"
        y="181.90"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="61.57px"
        lengthAdjust="spacingAndGlyphs"
        id="text79">g__Blautia</text>
@@ -648,15 +648,16 @@
        x="165.42"
        y="159.83"
        text-anchor="end"
-       style="font-size:12px;font-family:'Nimbus Sans';fill:#4d4d4d"
+       style="font-size:12px;font-family:'Nimbus Sans';fill:#1a1a1a"
        textLength="72.559998"
        lengthAdjust="spacingAndGlyphs"
-       id="text80">g__Clostridium</text>
+       id="text80"
+       transform="matrix(1.3452706,0,0,1.2018146,-56.847614,-32.783967)">g__Clostridium</text>
     <text
        x="165.42"
        y="137.75"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="140.16px"
        lengthAdjust="spacingAndGlyphs"
        id="text81">g__Escherichia-Shigella</text>
@@ -664,7 +665,7 @@
        x="165.42"
        y="115.67"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="122.05px"
        lengthAdjust="spacingAndGlyphs"
        id="text82">g__Faecalibacterium</text>
@@ -672,7 +673,7 @@
        x="165.42"
        y="93.59"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="118.68px"
        lengthAdjust="spacingAndGlyphs"
        id="text83">g__Fusicatenibacter</text>
@@ -680,7 +681,7 @@
        x="165.42"
        y="71.51"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="104.70px"
        lengthAdjust="spacingAndGlyphs"
        id="text84">g__Streptococcus</text>
@@ -688,73 +689,73 @@
        x="165.42"
        y="49.43"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="121.87px"
        lengthAdjust="spacingAndGlyphs"
        id="text85">g__Subdoligranulum</text>
     <text
        transform="translate(204.95,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="23.21px"
        lengthAdjust="spacingAndGlyphs"
        id="text86">Age</text>
     <text
        transform="translate(249.31,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="94.24px"
        lengthAdjust="spacingAndGlyphs"
        id="text87">Smoking Status</text>
     <text
        transform="translate(293.66,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="151.61px"
        lengthAdjust="spacingAndGlyphs"
        id="text88">HbA1c (DCCT/NGSP) (BS)</text>
     <text
        transform="translate(338.02,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="145.71px"
        lengthAdjust="spacingAndGlyphs"
        id="text89">Short-acting Insulin (BS)</text>
     <text
        transform="translate(382.38,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="107.37px"
        lengthAdjust="spacingAndGlyphs"
        id="text90">Mixed Insulin (BS)</text>
     <text
        transform="translate(426.73,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="142.55px"
        lengthAdjust="spacingAndGlyphs"
        id="text91">Long-acting Insulin (BS)</text>
     <text
        transform="translate(471.09,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="97.23px"
        lengthAdjust="spacingAndGlyphs"
        id="text92">Pancreatectomy</text>
     <text
        transform="translate(515.45,225.77) rotate(-45)"
        text-anchor="end"
-       style="font-size: 12.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:12px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="70.93px"
        lengthAdjust="spacingAndGlyphs"
        id="text93">MASLD (BS)</text>
     <text
-       x="558.29"
-       y="80.87"
-       style="font-size: 15.00px; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="74.76px"
+       x="558.28998"
+       y="80.870003"
+       style="font-size:15px;font-family:'Nimbus Sans'"
+       textLength="74.760002"
        lengthAdjust="spacingAndGlyphs"
-       id="text94">Pearson R</text>
+       id="text94">Pearson r</text>
     <image
        width="17.28"
        height="86.40"
@@ -838,5 +839,14 @@
        textLength="19.09px"
        lengthAdjust="spacingAndGlyphs"
        id="text107">0.6</text>
+    <text
+       x="390.79001"
+       y="422.12"
+       text-anchor="middle"
+       style="font-size:14px;font-family:'Nimbus Sans';white-space:pre;stroke-linecap:butt;stroke-linejoin:round"
+       textLength="203.25999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text6296"
+       transform="matrix(1.0478352,0,0,1,-298.13648,-68.740192)">*p &lt; 0.05 **p&lt;0.01 ***p&lt;0.001         </text>
   </g>
 </svg>

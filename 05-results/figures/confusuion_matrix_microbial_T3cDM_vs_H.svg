@@ -31,8 +31,8 @@
      inkscape:cy="144"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="7"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg21" />
   <defs
@@ -180,7 +180,7 @@
        x="48.70"
        y="143.60"
        text-anchor="end"
-       style="font-size: 8.80px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;fill:#3a923a;font-family:'Nimbus Sans';fill-opacity:1"
        textLength="30.17px"
        lengthAdjust="spacingAndGlyphs"
        id="text14">T3cDM</text>
@@ -188,7 +188,7 @@
        x="48.70"
        y="70.43"
        text-anchor="end"
-       style="font-size: 8.80px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;fill:#3274a1;font-family:'Nimbus Sans';fill-opacity:1"
        textLength="6.62px"
        lengthAdjust="spacingAndGlyphs"
        id="text15">H</text>
@@ -212,7 +212,7 @@
        x="96.42"
        y="195.64"
        text-anchor="middle"
-       style="font-size: 8.80px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;fill:#3274a1;font-family:'Nimbus Sans';fill-opacity:1"
        textLength="6.62px"
        lengthAdjust="spacingAndGlyphs"
        id="text18">H</text>
@@ -220,7 +220,7 @@
        x="167.73"
        y="195.64"
        text-anchor="middle"
-       style="font-size: 8.80px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;fill:#3a923a;font-family:'Nimbus Sans';fill-opacity:1"
        textLength="30.17px"
        lengthAdjust="spacingAndGlyphs"
        id="text19">T3cDM</text>

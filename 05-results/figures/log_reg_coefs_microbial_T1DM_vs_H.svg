@@ -27,8 +27,8 @@
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
      inkscape:zoom="1.1210938"
-     inkscape:cx="383.55401"
-     inkscape:cy="384"
+     inkscape:cx="419.23343"
+     inkscape:cy="383.108"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -75,159 +75,159 @@
   <defs
      id="defs3">
     <clipPath
-       id="cpMTA3Ljc5fDU3MC41MnwyNC40NHw1NDIuNjI=">
+       id="cpMjEzLjQ3fDU3MC41MnwzOS4wN3w1MjAuNjk=">
       <rect
-         x="107.79"
-         y="24.44"
-         width="462.73"
-         height="518.17"
+         x="213.47"
+         y="39.07"
+         width="357.05"
+         height="481.61"
          id="rect3" />
     </clipPath>
   </defs>
   <g
-     clip-path="url(#cpMTA3Ljc5fDU3MC41MnwyNC40NHw1NDIuNjI=)"
+     clip-path="url(#cpMjEzLjQ3fDU3MC41MnwzOS4wN3w1MjAuNjk=)"
      id="g32">
     <polyline
-       points="202.14,542.62 202.14,24.44 "
+       points="286.27,520.69 286.27,39.07 "
        style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline3" />
     <polyline
-       points="335.29,542.62 335.29,24.44 "
+       points="389.01,520.69 389.01,39.07 "
        style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline4" />
     <polyline
-       points="468.44,542.62 468.44,24.44 "
+       points="491.75,520.69 491.75,39.07 "
        style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline5" />
     <polyline
-       points="107.79,482.83 570.52,482.83 "
+       points="213.47,465.12 570.52,465.12 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline6" />
     <polyline
-       points="107.79,383.18 570.52,383.18 "
+       points="213.47,372.50 570.52,372.50 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline7" />
     <polyline
-       points="107.79,283.53 570.52,283.53 "
+       points="213.47,279.88 570.52,279.88 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline8" />
     <polyline
-       points="107.79,183.88 570.52,183.88 "
+       points="213.47,187.26 570.52,187.26 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline9" />
     <polyline
-       points="107.79,84.23 570.52,84.23 "
+       points="213.47,94.65 570.52,94.65 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline10" />
     <polyline
-       points="135.56,542.62 135.56,24.44 "
+       points="234.90,520.69 234.90,39.07 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline11" />
     <polyline
-       points="268.71,542.62 268.71,24.44 "
+       points="337.64,520.69 337.64,39.07 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline12" />
     <polyline
-       points="401.86,542.62 401.86,24.44 "
+       points="440.38,520.69 440.38,39.07 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline13" />
     <polyline
-       points="535.01,542.62 535.01,24.44 "
+       points="543.12,520.69 543.12,39.07 "
        style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
        id="polyline14" />
     <rect
-       x="129.95"
-       y="437.99"
-       width="5.62"
-       height="89.68"
+       x="230.57"
+       y="423.44"
+       width="4.33"
+       height="83.36"
        style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3182BD;"
        id="rect14" />
     <rect
-       x="135.56"
-       y="338.34"
-       width="13.02"
-       height="89.68"
+       x="234.90"
+       y="330.82"
+       width="10.04"
+       height="83.36"
        style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3182BD;"
        id="rect15" />
     <rect
-       x="135.56"
-       y="238.69"
-       width="98.24"
-       height="89.68"
+       x="234.90"
+       y="238.20"
+       width="75.80"
+       height="83.36"
        style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3182BD;"
        id="rect16" />
     <rect
-       x="135.56"
-       y="139.04"
-       width="256.89"
-       height="89.68"
+       x="234.90"
+       y="145.59"
+       width="198.22"
+       height="83.36"
        style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3182BD;"
        id="rect17" />
     <rect
-       x="135.56"
-       y="39.39"
-       width="344.94"
-       height="89.68"
+       x="234.90"
+       y="52.97"
+       width="266.16"
+       height="83.36"
        style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3182BD;"
        id="rect18" />
     <polyline
-       points="131.07,497.78 131.07,467.88 "
+       points="231.44,479.01 231.44,451.22 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline18" />
     <polyline
-       points="131.07,482.83 128.82,482.83 "
+       points="231.44,465.12 229.70,465.12 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline19" />
     <polyline
-       points="128.82,497.78 128.82,467.88 "
+       points="229.70,479.01 229.70,451.22 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline20" />
     <polyline
-       points="151.18,398.13 151.18,368.23 "
+       points="246.95,386.39 246.95,358.61 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline21" />
     <polyline
-       points="151.18,383.18 145.98,383.18 "
+       points="246.95,372.50 242.94,372.50 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline22" />
     <polyline
-       points="145.98,398.13 145.98,368.23 "
+       points="242.94,386.39 242.94,358.61 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline23" />
     <polyline
-       points="253.45,298.48 253.45,268.58 "
+       points="325.86,293.77 325.86,265.99 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline24" />
     <polyline
-       points="253.45,283.53 214.15,283.53 "
+       points="325.86,279.88 295.54,279.88 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline25" />
     <polyline
-       points="214.15,298.48 214.15,268.58 "
+       points="295.54,293.77 295.54,265.99 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline26" />
     <polyline
-       points="443.83,198.83 443.83,168.93 "
+       points="472.77,201.16 472.77,173.37 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline27" />
     <polyline
-       points="443.83,183.88 341.08,183.88 "
+       points="472.77,187.26 393.48,187.26 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline28" />
     <polyline
-       points="341.08,198.83 341.08,168.93 "
+       points="393.48,201.16 393.48,173.37 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline29" />
     <polyline
-       points="549.49,99.18 549.49,69.29 "
+       points="554.29,108.54 554.29,80.75 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline30" />
     <polyline
-       points="549.49,84.23 411.51,84.23 "
+       points="554.29,94.65 447.83,94.65 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline31" />
     <polyline
-       points="411.51,99.18 411.51,69.29 "
+       points="447.83,108.54 447.83,80.75 "
        style="stroke-width: 1.07; stroke-linecap: butt;"
        id="polyline32" />
   </g>
@@ -235,84 +235,85 @@
      clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)"
      id="g41">
     <text
-       x="102.86"
-       y="486.32"
+       x="208.54"
+       y="472.41"
        text-anchor="end"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="94.80px"
+       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
+       textLength="197.70px"
        lengthAdjust="spacingAndGlyphs"
        id="text32">g__Fusicatenibacter</text>
     <text
-       x="102.86"
-       y="386.68"
+       x="208.54"
+       y="379.79"
        text-anchor="end"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="77.52px"
+       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
+       textLength="161.65px"
        lengthAdjust="spacingAndGlyphs"
        id="text33">g__Akkermansia</text>
     <text
-       x="102.86"
-       y="287.03"
+       x="208.53999"
+       y="287.17001"
        text-anchor="end"
-       style="font-size:9.6px;font-family:'Nimbus Sans';fill:#4d4d4d"
-       textLength="57.959999"
+       style="font-size:20px;font-family:'Nimbus Sans';fill:#1a1a1a"
+       textLength="120.87"
        lengthAdjust="spacingAndGlyphs"
        id="text34">g__Clostridium</text>
     <text
-       x="102.86"
-       y="187.38"
+       x="208.54"
+       y="194.55"
        text-anchor="end"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="97.38px"
+       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
+       textLength="203.06px"
        lengthAdjust="spacingAndGlyphs"
        id="text35">g__Subdoligranulum</text>
     <text
-       x="102.86"
-       y="87.73"
+       x="208.54"
+       y="101.94"
        text-anchor="end"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="49.18px"
+       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
+       textLength="102.56px"
        lengthAdjust="spacingAndGlyphs"
        id="text36">g__Blautia</text>
     <text
-       x="135.56"
-       y="554.54"
+       x="234.90"
+       y="540.20"
        text-anchor="middle"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="15.24px"
+       style="font-size: 20.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="31.80px"
        lengthAdjust="spacingAndGlyphs"
        id="text37">0.0</text>
     <text
-       x="268.71"
-       y="554.54"
+       x="337.64"
+       y="540.20"
        text-anchor="middle"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="15.24px"
+       style="font-size: 20.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="31.80px"
        lengthAdjust="spacingAndGlyphs"
        id="text38">0.4</text>
     <text
-       x="401.86"
-       y="554.54"
+       x="440.38"
+       y="540.20"
        text-anchor="middle"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="15.24px"
+       style="font-size: 20.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="31.80px"
        lengthAdjust="spacingAndGlyphs"
        id="text39">0.8</text>
     <text
-       x="535.01"
-       y="554.54"
+       x="543.12"
+       y="540.20"
        text-anchor="middle"
-       style="font-size: 9.60px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
-       textLength="15.24px"
+       style="font-size: 20.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="31.80px"
        lengthAdjust="spacingAndGlyphs"
        id="text40">1.2</text>
     <text
-       x="339.16"
-       y="568.02002"
+       x="392"
+       y="565.32001"
        text-anchor="middle"
-       style="font-size:12px;font-family:'Nimbus Sans'"
-       textLength="351.42001"
+       style="font-size:25px;font-family:'Nimbus Sans'"
+       textLength="731.91998"
        lengthAdjust="spacingAndGlyphs"
-       id="text41">← T1D                     Log-Odds coefficient                    H →</text>
+       id="text41"
+       transform="matrix(1.0114164,0,0,0.7115813,-218.1724,160.80137)">                                                                                    ←T1DM  Log-Odds coefficient  H →</text>
   </g>
 </svg>

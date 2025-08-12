@@ -29,15 +29,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
-     inkscape:zoom="0.74177336"
-     inkscape:cx="396.34748"
-     inkscape:cy="376.79973"
+     inkscape:zoom="1.0490259"
+     inkscape:cx="505.23059"
+     inkscape:cy="323.63356"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g686" />
+     inkscape:current-layer="matplotlib.axis_1" />
   <metadata
      id="metadata1">
     <rdf:RDF>
@@ -291,11 +291,13 @@
           </g>
         </g>
         <g
-           id="text_6">
+           id="text_6"
+           style="fill:#1a1a1a">
           <!-- Growth Rate [1/h] -->
           <g
              transform="matrix(0.1,0,0,-0.1,390.04609,558.71656)"
-             id="g38">
+             id="g38"
+             style="fill:#1a1a1a">
             <defs
                id="defs21">
               <path
@@ -353,80 +355,100 @@
             </defs>
             <use
                xlink:href="#DejaVuSans-47"
-               id="use22" />
+               id="use22"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-72"
                transform="translate(77.490234)"
-               id="use23" />
+               id="use23"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-6f"
                transform="translate(116.35352)"
-               id="use24" />
+               id="use24"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-77"
                transform="translate(177.53516)"
-               id="use25" />
+               id="use25"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-74"
                transform="translate(259.32227)"
-               id="use26" />
+               id="use26"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-68"
                transform="translate(298.53125)"
-               id="use27" />
+               id="use27"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-20"
                transform="translate(361.91016)"
-               id="use28" />
+               id="use28"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-52"
                transform="translate(393.69727)"
-               id="use29" />
+               id="use29"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-61"
                transform="translate(460.92969)"
-               id="use30" />
+               id="use30"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-74"
                transform="translate(522.20898)"
-               id="use31" />
+               id="use31"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-65"
                transform="translate(561.41797)"
-               id="use32" />
+               id="use32"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-20"
                transform="translate(622.94141)"
-               id="use33" />
+               id="use33"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-5b"
                transform="translate(654.72852)"
-               id="use34" />
+               id="use34"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-31"
                transform="translate(693.74219)"
-               id="use35" />
+               id="use35"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-2f"
                transform="translate(757.36523)"
-               id="use36" />
+               id="use36"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-68"
                transform="translate(791.05664)"
-               id="use37" />
+               id="use37"
+               style="fill:#1a1a1a" />
             <use
                xlink:href="#DejaVuSans-5d"
                transform="translate(854.43555)"
-               id="use38" />
+               id="use38"
+               style="fill:#1a1a1a" />
           </g>
         </g>
       </g>
       <g
-         id="matplotlib.axis_2">
+         id="matplotlib.axis_2"
+         style="fill:#1a1a1a">
         <g
-           id="ytick_1">
+           id="ytick_1"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_6">
+             id="line2d_6"
+             style="fill:#1a1a1a">
             <defs
                id="defs38">
               <path
@@ -435,21 +457,24 @@
                  style="stroke:#000000;stroke-width:0.8" />
             </defs>
             <g
-               id="g39">
+               id="g39"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="16.543571"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use39" />
             </g>
           </g>
           <g
-             id="text_7">
+             id="text_7"
+             style="fill:#1a1a1a">
             <!-- Bacteroides -->
             <g
                transform="matrix(0.1,0,0,-0.1,62.8125,20.34279)"
-               id="g50">
+               id="g50"
+               style="fill:#1a1a1a">
               <defs
                  id="defs39">
                 <path
@@ -475,70 +500,86 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-42"
-                 id="use40" />
+                 id="use40"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(68.603516)"
-                 id="use41" />
+                 id="use41"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(129.88281)"
-                 id="use42" />
+                 id="use42"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(184.86328)"
-                 id="use43" />
+                 id="use43"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(224.07227)"
-                 id="use44" />
+                 id="use44"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(285.5957)"
-                 id="use45" />
+                 id="use45"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(324.45898)"
-                 id="use46" />
+                 id="use46"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(385.64062)"
-                 id="use47" />
+                 id="use47"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-64"
                  transform="translate(413.42383)"
-                 id="use48" />
+                 id="use48"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(476.90039)"
-                 id="use49" />
+                 id="use49"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(538.42383)"
-                 id="use50" />
+                 id="use50"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_2">
+           id="ytick_2"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_7">
+             id="line2d_7"
+             style="fill:#1a1a1a">
             <g
-               id="g51">
+               id="g51"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="35.230713"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use51" />
             </g>
           </g>
           <g
-             id="text_8">
+             id="text_8"
+             style="fill:#1a1a1a">
             <!-- Blautia -->
             <g
                transform="matrix(0.1,0,0,-0.1,86.935937,39.029933)"
-               id="g58">
+               id="g58"
+               style="fill:#1a1a1a">
               <defs
                  id="defs51">
                 <path
@@ -552,54 +593,66 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-42"
-                 id="use52" />
+                 id="use52"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(68.603516)"
-                 id="use53" />
+                 id="use53"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(96.386719)"
-                 id="use54" />
+                 id="use54"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(157.66602)"
-                 id="use55" />
+                 id="use55"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(221.04492)"
-                 id="use56" />
+                 id="use56"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(260.25391)"
-                 id="use57" />
+                 id="use57"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(288.03711)"
-                 id="use58" />
+                 id="use58"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_3">
+           id="ytick_3"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_8">
+             id="line2d_8"
+             style="fill:#1a1a1a">
             <g
-               id="g59">
+               id="g59"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="53.917858"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use59" />
             </g>
           </g>
           <g
-             id="text_9">
+             id="text_9"
+             style="fill:#1a1a1a">
             <!-- Akkermansia -->
             <g
                transform="matrix(0.1,0,0,-0.1,57.396875,57.717076)"
-               id="g70">
+               id="g70"
+               style="fill:#1a1a1a">
               <defs
                  id="defs59">
                 <path
@@ -621,70 +674,86 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-41"
-                 id="use60" />
+                 id="use60"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6b"
                  transform="translate(68.408203)"
-                 id="use61" />
+                 id="use61"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6b"
                  transform="translate(126.31836)"
-                 id="use62" />
+                 id="use62"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(180.60352)"
-                 id="use63" />
+                 id="use63"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(242.12695)"
-                 id="use64" />
+                 id="use64"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(281.49023)"
-                 id="use65" />
+                 id="use65"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(378.90234)"
-                 id="use66" />
+                 id="use66"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(440.18164)"
-                 id="use67" />
+                 id="use67"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(503.56055)"
-                 id="use68" />
+                 id="use68"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(555.66016)"
-                 id="use69" />
+                 id="use69"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(583.44336)"
-                 id="use70" />
+                 id="use70"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_4">
+           id="ytick_4"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_9">
+             id="line2d_9"
+             style="fill:#1a1a1a">
             <g
-               id="g71">
+               id="g71"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="72.605003"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use71" />
             </g>
           </g>
           <g
-             id="text_10">
+             id="text_10"
+             style="fill:#1a1a1a">
             <!-- Faecalibacterium -->
             <g
                transform="matrix(0.1,0,0,-0.1,36.548437,76.404219)"
-               id="g87">
+               id="g87"
+               style="fill:#1a1a1a">
               <defs
                  id="defs71">
                 <path
@@ -698,90 +767,111 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-46"
-                 id="use72" />
+                 id="use72"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(48.394531)"
-                 id="use73" />
+                 id="use73"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(109.67383)"
-                 id="use74" />
+                 id="use74"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(171.19727)"
-                 id="use75" />
+                 id="use75"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(226.17773)"
-                 id="use76" />
+                 id="use76"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(287.45703)"
-                 id="use77" />
+                 id="use77"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(315.24023)"
-                 id="use78" />
+                 id="use78"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(343.02344)"
-                 id="use79" />
+                 id="use79"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(406.5)"
-                 id="use80" />
+                 id="use80"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(467.7793)"
-                 id="use81" />
+                 id="use81"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(522.75977)"
-                 id="use82" />
+                 id="use82"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(561.96875)"
-                 id="use83" />
+                 id="use83"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(623.49219)"
-                 id="use84" />
+                 id="use84"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(664.60547)"
-                 id="use85" />
+                 id="use85"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(692.38867)"
-                 id="use86" />
+                 id="use86"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(755.76758)"
-                 id="use87" />
+                 id="use87"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_5">
+           id="ytick_5"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_10">
+             id="line2d_10"
+             style="fill:#1a1a1a">
             <g
-               id="g88">
+               id="g88"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="91.292145"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use88" />
             </g>
           </g>
           <g
-             id="text_11">
+             id="text_11"
+             style="fill:#1a1a1a">
             <!-- Alistipes -->
             <g
                transform="matrix(0.1,0,0,-0.1,79.851562,95.091362)"
-               id="g97">
+               id="g97"
+               style="fill:#1a1a1a">
               <defs
                  id="defs88">
                 <path
@@ -791,62 +881,76 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-41"
-                 id="use89" />
+                 id="use89"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(68.408203)"
-                 id="use90" />
+                 id="use90"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(96.191406)"
-                 id="use91" />
+                 id="use91"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(123.97461)"
-                 id="use92" />
+                 id="use92"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(176.07422)"
-                 id="use93" />
+                 id="use93"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(215.2832)"
-                 id="use94" />
+                 id="use94"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(243.06641)"
-                 id="use95" />
+                 id="use95"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(306.54297)"
-                 id="use96" />
+                 id="use96"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(368.06641)"
-                 id="use97" />
+                 id="use97"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_6">
+           id="ytick_6"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_11">
+             id="line2d_11"
+             style="fill:#1a1a1a">
             <g
-               id="g98">
+               id="g98"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="109.97929"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use98" />
             </g>
           </g>
           <g
-             id="text_12">
+             id="text_12"
+             style="fill:#1a1a1a">
             <!-- Butyrivibrio -->
             <g
                transform="matrix(0.1,0,0,-0.1,63.8875,113.7785)"
-               id="g110">
+               id="g110"
+               style="fill:#1a1a1a">
               <defs
                  id="defs98">
                 <path
@@ -860,140 +964,173 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-42"
-                 id="use99" />
+                 id="use99"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(68.603516)"
-                 id="use100" />
+                 id="use100"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(131.98242)"
-                 id="use101" />
+                 id="use101"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-79"
                  transform="translate(171.19141)"
-                 id="use102" />
+                 id="use102"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(230.37109)"
-                 id="use103" />
+                 id="use103"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(271.48437)"
-                 id="use104" />
+                 id="use104"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-76"
                  transform="translate(299.26758)"
-                 id="use105" />
+                 id="use105"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(358.44727)"
-                 id="use106" />
+                 id="use106"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(386.23047)"
-                 id="use107" />
+                 id="use107"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(449.70703)"
-                 id="use108" />
+                 id="use108"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(490.82031)"
-                 id="use109" />
+                 id="use109"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(518.60352)"
-                 id="use110" />
+                 id="use110"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_7">
+           id="ytick_7"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_12">
+             id="line2d_12"
+             style="fill:#1a1a1a">
             <g
-               id="g111">
+               id="g111"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="128.66643"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use111" />
             </g>
           </g>
           <g
-             id="text_13">
+             id="text_13"
+             style="fill:#1a1a1a">
             <!-- Barnesiella -->
             <g
                transform="matrix(0.1,0,0,-0.1,66.626563,132.46565)"
-               id="g122">
+               id="g122"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-42"
-                 id="use112" />
+                 id="use112"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(68.603516)"
-                 id="use113" />
+                 id="use113"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(129.88281)"
-                 id="use114" />
+                 id="use114"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(169.24609)"
-                 id="use115" />
+                 id="use115"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(232.625)"
-                 id="use116" />
+                 id="use116"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(294.14844)"
-                 id="use117" />
+                 id="use117"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(346.24805)"
-                 id="use118" />
+                 id="use118"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(374.03125)"
-                 id="use119" />
+                 id="use119"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(435.55469)"
-                 id="use120" />
+                 id="use120"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(463.33789)"
-                 id="use121" />
+                 id="use121"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(491.12109)"
-                 id="use122" />
+                 id="use122"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_8">
+           id="ytick_8"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_13">
+             id="line2d_13"
+             style="fill:#1a1a1a">
             <g
-               id="g123">
+               id="g123"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="147.35358"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use123" />
             </g>
           </g>
           <g
-             id="text_14">
+             id="text_14"
+             style="fill:#1a1a1a">
             <!-- Bifidobacterium -->
             <g
                transform="matrix(0.1,0,0,-0.1,42.446875,151.15279)"
-               id="g138">
+               id="g138"
+               style="fill:#1a1a1a">
               <defs
                  id="defs123">
                 <path
@@ -1003,86 +1140,106 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-42"
-                 id="use124" />
+                 id="use124"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(68.603516)"
-                 id="use125" />
+                 id="use125"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-66"
                  transform="translate(96.386719)"
-                 id="use126" />
+                 id="use126"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(131.5918)"
-                 id="use127" />
+                 id="use127"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-64"
                  transform="translate(159.375)"
-                 id="use128" />
+                 id="use128"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(222.85156)"
-                 id="use129" />
+                 id="use129"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(284.0332)"
-                 id="use130" />
+                 id="use130"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(347.50977)"
-                 id="use131" />
+                 id="use131"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(408.78906)"
-                 id="use132" />
+                 id="use132"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(463.76953)"
-                 id="use133" />
+                 id="use133"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(502.97852)"
-                 id="use134" />
+                 id="use134"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(564.50195)"
-                 id="use135" />
+                 id="use135"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(605.61523)"
-                 id="use136" />
+                 id="use136"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(633.39844)"
-                 id="use137" />
+                 id="use137"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(696.77734)"
-                 id="use138" />
+                 id="use138"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_9">
+           id="ytick_9"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_14">
+             id="line2d_14"
+             style="fill:#1a1a1a">
             <g
-               id="g139">
+               id="g139"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="166.04071"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use139" />
             </g>
           </g>
           <g
-             id="text_15">
+             id="text_15"
+             style="fill:#1a1a1a">
             <!-- Coprococcus -->
             <g
                transform="matrix(0.1,0,0,-0.1,58.251562,169.83993)"
-               id="g150">
+               id="g150"
+               style="fill:#1a1a1a">
               <defs
                  id="defs139">
                 <path
@@ -1092,70 +1249,86 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-43"
-                 id="use140" />
+                 id="use140"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(69.824219)"
-                 id="use141" />
+                 id="use141"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(131.00586)"
-                 id="use142" />
+                 id="use142"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(194.48242)"
-                 id="use143" />
+                 id="use143"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(233.3457)"
-                 id="use144" />
+                 id="use144"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(294.52734)"
-                 id="use145" />
+                 id="use145"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(349.50781)"
-                 id="use146" />
+                 id="use146"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(410.68945)"
-                 id="use147" />
+                 id="use147"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(465.66992)"
-                 id="use148" />
+                 id="use148"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(520.65039)"
-                 id="use149" />
+                 id="use149"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(584.0293)"
-                 id="use150" />
+                 id="use150"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_10">
+           id="ytick_10"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_15">
+             id="line2d_15"
+             style="fill:#1a1a1a">
             <g
-               id="g151">
+               id="g151"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="184.72786"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use151" />
             </g>
           </g>
           <g
-             id="text_16">
+             id="text_16"
+             style="fill:#1a1a1a">
             <!-- Streptococcus -->
             <g
                transform="matrix(0.1,0,0,-0.1,51.010937,188.52708)"
-               id="g164">
+               id="g164"
+               style="fill:#1a1a1a">
               <defs
                  id="defs151">
                 <path
@@ -1165,136 +1338,168 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-53"
-                 id="use152" />
+                 id="use152"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(63.476562)"
-                 id="use153" />
+                 id="use153"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(102.68555)"
-                 id="use154" />
+                 id="use154"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(141.54883)"
-                 id="use155" />
+                 id="use155"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(203.07227)"
-                 id="use156" />
+                 id="use156"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(266.54883)"
-                 id="use157" />
+                 id="use157"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(305.75781)"
-                 id="use158" />
+                 id="use158"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(366.93945)"
-                 id="use159" />
+                 id="use159"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(421.91992)"
-                 id="use160" />
+                 id="use160"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(483.10156)"
-                 id="use161" />
+                 id="use161"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(538.08203)"
-                 id="use162" />
+                 id="use162"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(593.0625)"
-                 id="use163" />
+                 id="use163"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(656.44141)"
-                 id="use164" />
+                 id="use164"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_11">
+           id="ytick_11"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_16">
+             id="line2d_16"
+             style="fill:#1a1a1a">
             <g
-               id="g165">
+               id="g165"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="203.41499"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use165" />
             </g>
           </g>
           <g
-             id="text_17">
+             id="text_17"
+             style="fill:#1a1a1a">
             <!-- Roseburia -->
             <g
                transform="matrix(0.1,0,0,-0.1,72.184375,207.21422)"
-               id="g174">
+               id="g174"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-52"
-                 id="use166" />
+                 id="use166"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(64.982422)"
-                 id="use167" />
+                 id="use167"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(126.16406)"
-                 id="use168" />
+                 id="use168"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(178.26367)"
-                 id="use169" />
+                 id="use169"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(239.78711)"
-                 id="use170" />
+                 id="use170"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(303.26367)"
-                 id="use171" />
+                 id="use171"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(366.64258)"
-                 id="use172" />
+                 id="use172"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(407.75586)"
-                 id="use173" />
+                 id="use173"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(435.53906)"
-                 id="use174" />
+                 id="use174"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_12">
+           id="ytick_12"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_17">
+             id="line2d_17"
+             style="fill:#1a1a1a">
             <g
-               id="g175">
+               id="g175"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="222.10214"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use175" />
             </g>
           </g>
           <g
-             id="text_18">
+             id="text_18"
+             style="fill:#1a1a1a">
             <!-- Subdoligranulum -->
             <g
                transform="matrix(0.1,0,0,-0.1,36.690625,225.90136)"
-               id="g190">
+               id="g190"
+               style="fill:#1a1a1a">
               <defs
                  id="defs175">
                 <path
@@ -1304,156 +1509,193 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-53"
-                 id="use176" />
+                 id="use176"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(63.476562)"
-                 id="use177" />
+                 id="use177"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(126.85547)"
-                 id="use178" />
+                 id="use178"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-64"
                  transform="translate(190.33203)"
-                 id="use179" />
+                 id="use179"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(253.80859)"
-                 id="use180" />
+                 id="use180"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(314.99023)"
-                 id="use181" />
+                 id="use181"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(342.77344)"
-                 id="use182" />
+                 id="use182"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-67"
                  transform="translate(370.55664)"
-                 id="use183" />
+                 id="use183"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(434.0332)"
-                 id="use184" />
+                 id="use184"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(475.14648)"
-                 id="use185" />
+                 id="use185"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(536.42578)"
-                 id="use186" />
+                 id="use186"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(599.80469)"
-                 id="use187" />
+                 id="use187"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(663.18359)"
-                 id="use188" />
+                 id="use188"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(690.9668)"
-                 id="use189" />
+                 id="use189"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(754.3457)"
-                 id="use190" />
+                 id="use190"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_13">
+           id="ytick_13"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_18">
+             id="line2d_18"
+             style="fill:#1a1a1a">
             <g
-               id="g191">
+               id="g191"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="240.78929"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use191" />
             </g>
           </g>
           <g
-             id="text_19">
+             id="text_19"
+             style="fill:#1a1a1a">
             <!-- Anaerostipes -->
             <g
                transform="matrix(0.1,0,0,-0.1,56.784375,244.5885)"
-               id="g203">
+               id="g203"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-41"
-                 id="use192" />
+                 id="use192"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(68.408203)"
-                 id="use193" />
+                 id="use193"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(131.78711)"
-                 id="use194" />
+                 id="use194"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(193.06641)"
-                 id="use195" />
+                 id="use195"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(254.58984)"
-                 id="use196" />
+                 id="use196"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(293.45312)"
-                 id="use197" />
+                 id="use197"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(354.63477)"
-                 id="use198" />
+                 id="use198"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(406.73437)"
-                 id="use199" />
+                 id="use199"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(445.94336)"
-                 id="use200" />
+                 id="use200"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(473.72656)"
-                 id="use201" />
+                 id="use201"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(537.20312)"
-                 id="use202" />
+                 id="use202"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(598.72656)"
-                 id="use203" />
+                 id="use203"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_14">
+           id="ytick_14"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_19">
+             id="line2d_19"
+             style="fill:#1a1a1a">
             <g
-               id="g204">
+               id="g204"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="259.47644"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use204" />
             </g>
           </g>
           <g
-             id="text_20">
+             id="text_20"
+             style="fill:#1a1a1a">
             <!-- Parasutterella -->
             <g
                transform="matrix(0.1,0,0,-0.1,52.65625,263.27565)"
-               id="g218">
+               id="g218"
+               style="fill:#1a1a1a">
               <defs
                  id="defs204">
                 <path
@@ -1463,82 +1705,101 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-50"
-                 id="use205" />
+                 id="use205"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(55.802734)"
-                 id="use206" />
+                 id="use206"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(117.08203)"
-                 id="use207" />
+                 id="use207"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(158.19531)"
-                 id="use208" />
+                 id="use208"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(219.47461)"
-                 id="use209" />
+                 id="use209"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(271.57422)"
-                 id="use210" />
+                 id="use210"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(334.95312)"
-                 id="use211" />
+                 id="use211"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(374.16211)"
-                 id="use212" />
+                 id="use212"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(413.37109)"
-                 id="use213" />
+                 id="use213"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(474.89453)"
-                 id="use214" />
+                 id="use214"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(513.75781)"
-                 id="use215" />
+                 id="use215"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(575.28125)"
-                 id="use216" />
+                 id="use216"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(603.06445)"
-                 id="use217" />
+                 id="use217"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(630.84766)"
-                 id="use218" />
+                 id="use218"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_15">
+           id="ytick_15"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_20">
+             id="line2d_20"
+             style="fill:#1a1a1a">
             <g
-               id="g219">
+               id="g219"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="278.16357"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use219" />
             </g>
           </g>
           <g
-             id="text_21">
+             id="text_21"
+             style="fill:#1a1a1a">
             <!-- Lachnoclostridium -->
             <g
                transform="matrix(0.1,0,0,-0.1,30.25625,281.96279)"
-               id="g236">
+               id="g236"
+               style="fill:#1a1a1a">
               <defs
                  id="defs219">
                 <path
@@ -1548,94 +1809,116 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-4c"
-                 id="use220" />
+                 id="use220"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(55.712891)"
-                 id="use221" />
+                 id="use221"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(116.99219)"
-                 id="use222" />
+                 id="use222"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-68"
                  transform="translate(171.97266)"
-                 id="use223" />
+                 id="use223"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(235.35156)"
-                 id="use224" />
+                 id="use224"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(298.73047)"
-                 id="use225" />
+                 id="use225"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(359.91211)"
-                 id="use226" />
+                 id="use226"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(414.89258)"
-                 id="use227" />
+                 id="use227"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(442.67578)"
-                 id="use228" />
+                 id="use228"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(503.85742)"
-                 id="use229" />
+                 id="use229"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(555.95703)"
-                 id="use230" />
+                 id="use230"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(595.16602)"
-                 id="use231" />
+                 id="use231"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(636.2793)"
-                 id="use232" />
+                 id="use232"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-64"
                  transform="translate(664.0625)"
-                 id="use233" />
+                 id="use233"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(727.53906)"
-                 id="use234" />
+                 id="use234"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(755.32227)"
-                 id="use235" />
+                 id="use235"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(818.70117)"
-                 id="use236" />
+                 id="use236"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_16">
+           id="ytick_16"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_21">
+             id="line2d_21"
+             style="fill:#1a1a1a">
             <g
-               id="g237">
+               id="g237"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="296.85071"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use237" />
             </g>
           </g>
           <g
-             id="text_22">
+             id="text_22"
+             style="fill:#1a1a1a">
             <!-- Olsenella -->
             <g
                transform="matrix(0.1,0,0,-0.1,75.679688,300.64993)"
-               id="g246">
+               id="g246"
+               style="fill:#1a1a1a">
               <defs
                  id="defs237">
                 <path
@@ -1645,342 +1928,424 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-4f"
-                 id="use238" />
+                 id="use238"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(78.710938)"
-                 id="use239" />
+                 id="use239"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(106.49414)"
-                 id="use240" />
+                 id="use240"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(158.59375)"
-                 id="use241" />
+                 id="use241"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(220.11719)"
-                 id="use242" />
+                 id="use242"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(283.49609)"
-                 id="use243" />
+                 id="use243"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(345.01953)"
-                 id="use244" />
+                 id="use244"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(372.80273)"
-                 id="use245" />
+                 id="use245"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(400.58594)"
-                 id="use246" />
+                 id="use246"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_17">
+           id="ytick_17"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_22">
+             id="line2d_22"
+             style="fill:#1a1a1a">
             <g
-               id="g247">
+               id="g247"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="315.53784"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use247" />
             </g>
           </g>
           <g
-             id="text_23">
+             id="text_23"
+             style="fill:#1a1a1a">
             <!-- Odoribacter -->
             <g
                transform="matrix(0.1,0,0,-0.1,62.479687,319.33708)"
-               id="g258">
+               id="g258"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-4f"
-                 id="use248" />
+                 id="use248"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-64"
                  transform="translate(78.710938)"
-                 id="use249" />
+                 id="use249"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(142.1875)"
-                 id="use250" />
+                 id="use250"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(203.36914)"
-                 id="use251" />
+                 id="use251"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(244.48242)"
-                 id="use252" />
+                 id="use252"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(272.26562)"
-                 id="use253" />
+                 id="use253"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(335.74219)"
-                 id="use254" />
+                 id="use254"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(397.02148)"
-                 id="use255" />
+                 id="use255"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(452.00195)"
-                 id="use256" />
+                 id="use256"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(491.21094)"
-                 id="use257" />
+                 id="use257"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(552.73437)"
-                 id="use258" />
+                 id="use258"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_18">
+           id="ytick_18"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_23">
+             id="line2d_23"
+             style="fill:#1a1a1a">
             <g
-               id="g259">
+               id="g259"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="334.22501"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use259" />
             </g>
           </g>
           <g
-             id="text_24">
+             id="text_24"
+             style="fill:#1a1a1a">
             <!-- Ruminococcus -->
             <g
                transform="matrix(0.1,0,0,-0.1,49.895313,338.02422)"
-               id="g271">
+               id="g271"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-52"
-                 id="use260" />
+                 id="use260"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(64.982422)"
-                 id="use261" />
+                 id="use261"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(128.36133)"
-                 id="use262" />
+                 id="use262"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(225.77344)"
-                 id="use263" />
+                 id="use263"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(253.55664)"
-                 id="use264" />
+                 id="use264"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(316.93555)"
-                 id="use265" />
+                 id="use265"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(378.11719)"
-                 id="use266" />
+                 id="use266"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(433.09766)"
-                 id="use267" />
+                 id="use267"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(494.2793)"
-                 id="use268" />
+                 id="use268"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(549.25977)"
-                 id="use269" />
+                 id="use269"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(604.24023)"
-                 id="use270" />
+                 id="use270"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(667.61914)"
-                 id="use271" />
+                 id="use271"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_19">
+           id="ytick_19"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_24">
+             id="line2d_24"
+             style="fill:#1a1a1a">
             <g
-               id="g272">
+               id="g272"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="352.91214"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use272" />
             </g>
           </g>
           <g
-             id="text_25">
+             id="text_25"
+             style="fill:#1a1a1a">
             <!-- Prevotella -->
             <g
                transform="matrix(0.1,0,0,-0.1,72.178125,356.71136)"
-               id="g282">
+               id="g282"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-50"
-                 id="use273" />
+                 id="use273"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(58.552734)"
-                 id="use274" />
+                 id="use274"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(97.416016)"
-                 id="use275" />
+                 id="use275"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-76"
                  transform="translate(158.93945)"
-                 id="use276" />
+                 id="use276"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(218.11914)"
-                 id="use277" />
+                 id="use277"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(279.30078)"
-                 id="use278" />
+                 id="use278"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(318.50977)"
-                 id="use279" />
+                 id="use279"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(380.0332)"
-                 id="use280" />
+                 id="use280"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(407.81641)"
-                 id="use281" />
+                 id="use281"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(435.59961)"
-                 id="use282" />
+                 id="use282"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_20">
+           id="ytick_20"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_25">
+             id="line2d_25"
+             style="fill:#1a1a1a">
             <g
-               id="g283">
+               id="g283"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="371.59927"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use283" />
             </g>
           </g>
           <g
-             id="text_26">
+             id="text_26"
+             style="fill:#1a1a1a">
             <!-- Parabacteroides -->
             <g
                transform="matrix(0.1,0,0,-0.1,41.378125,375.3985)"
-               id="g298">
+               id="g298"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-50"
-                 id="use284" />
+                 id="use284"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(55.802734)"
-                 id="use285" />
+                 id="use285"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(117.08203)"
-                 id="use286" />
+                 id="use286"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(158.19531)"
-                 id="use287" />
+                 id="use287"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(219.47461)"
-                 id="use288" />
+                 id="use288"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(282.95117)"
-                 id="use289" />
+                 id="use289"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(344.23047)"
-                 id="use290" />
+                 id="use290"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(399.21094)"
-                 id="use291" />
+                 id="use291"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(438.41992)"
-                 id="use292" />
+                 id="use292"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(499.94336)"
-                 id="use293" />
+                 id="use293"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(538.80664)"
-                 id="use294" />
+                 id="use294"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(599.98828)"
-                 id="use295" />
+                 id="use295"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-64"
                  transform="translate(627.77148)"
-                 id="use296" />
+                 id="use296"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(691.24805)"
-                 id="use297" />
+                 id="use297"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(752.77148)"
-                 id="use298" />
+                 id="use298"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_21">
+           id="ytick_21"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_26">
+             id="line2d_26"
+             style="fill:#1a1a1a">
             <g
-               id="g299">
+               id="g299"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="390.28644"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use299" />
             </g>
           </g>
           <g
-             id="text_27">
+             id="text_27"
+             style="fill:#1a1a1a">
             <!-- Holdemanella -->
             <g
                transform="matrix(0.1,0,0,-0.1,52.904687,394.08565)"
-               id="g311">
+               id="g311"
+               style="fill:#1a1a1a">
               <defs
                  id="defs299">
                 <path
@@ -1990,180 +2355,223 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-48"
-                 id="use300" />
+                 id="use300"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(75.195312)"
-                 id="use301" />
+                 id="use301"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(136.37695)"
-                 id="use302" />
+                 id="use302"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-64"
                  transform="translate(164.16016)"
-                 id="use303" />
+                 id="use303"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(227.63672)"
-                 id="use304" />
+                 id="use304"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(289.16016)"
-                 id="use305" />
+                 id="use305"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(386.57227)"
-                 id="use306" />
+                 id="use306"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(447.85156)"
-                 id="use307" />
+                 id="use307"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(511.23047)"
-                 id="use308" />
+                 id="use308"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(572.75391)"
-                 id="use309" />
+                 id="use309"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(600.53711)"
-                 id="use310" />
+                 id="use310"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(628.32031)"
-                 id="use311" />
+                 id="use311"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_22">
+           id="ytick_22"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_27">
+             id="line2d_27"
+             style="fill:#1a1a1a">
             <g
-               id="g312">
+               id="g312"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="408.97357"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use312" />
             </g>
           </g>
           <g
-             id="text_28">
+             id="text_28"
+             style="fill:#1a1a1a">
             <!-- Phascolarctobacterium -->
             <g
                transform="matrix(0.1,0,0,-0.1,7.2,412.77279)"
-               id="g333">
+               id="g333"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-50"
-                 id="use313" />
+                 id="use313"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-68"
                  transform="translate(60.302734)"
-                 id="use314" />
+                 id="use314"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(123.68164)"
-                 id="use315" />
+                 id="use315"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(184.96094)"
-                 id="use316" />
+                 id="use316"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(237.06055)"
-                 id="use317" />
+                 id="use317"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(292.04102)"
-                 id="use318" />
+                 id="use318"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(353.22266)"
-                 id="use319" />
+                 id="use319"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(381.00586)"
-                 id="use320" />
+                 id="use320"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(442.28516)"
-                 id="use321" />
+                 id="use321"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(481.14844)"
-                 id="use322" />
+                 id="use322"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(536.12891)"
-                 id="use323" />
+                 id="use323"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(575.33789)"
-                 id="use324" />
+                 id="use324"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(636.51953)"
-                 id="use325" />
+                 id="use325"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(699.99609)"
-                 id="use326" />
+                 id="use326"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(761.27539)"
-                 id="use327" />
+                 id="use327"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(816.25586)"
-                 id="use328" />
+                 id="use328"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(855.46484)"
-                 id="use329" />
+                 id="use329"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(916.98828)"
-                 id="use330" />
+                 id="use330"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(958.10156)"
-                 id="use331" />
+                 id="use331"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(985.88477)"
-                 id="use332" />
+                 id="use332"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(1049.2637)"
-                 id="use333" />
+                 id="use333"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_23">
+           id="ytick_23"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_28">
+             id="line2d_28"
+             style="fill:#1a1a1a">
             <g
-               id="g334">
+               id="g334"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="427.66071"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use334" />
             </g>
           </g>
           <g
-             id="text_29">
+             id="text_29"
+             style="fill:#1a1a1a">
             <!-- Megasphaera -->
             <g
                transform="matrix(0.1,0,0,-0.1,54.19375,431.45993)"
-               id="g345">
+               id="g345"
+               style="fill:#1a1a1a">
               <defs
                  id="defs334">
                 <path
@@ -2173,70 +2581,86 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-4d"
-                 id="use335" />
+                 id="use335"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(86.279297)"
-                 id="use336" />
+                 id="use336"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-67"
                  transform="translate(147.80273)"
-                 id="use337" />
+                 id="use337"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(211.2793)"
-                 id="use338" />
+                 id="use338"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(272.55859)"
-                 id="use339" />
+                 id="use339"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(324.6582)"
-                 id="use340" />
+                 id="use340"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-68"
                  transform="translate(388.13477)"
-                 id="use341" />
+                 id="use341"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(451.51367)"
-                 id="use342" />
+                 id="use342"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(512.79297)"
-                 id="use343" />
+                 id="use343"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(574.31641)"
-                 id="use344" />
+                 id="use344"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(615.42969)"
-                 id="use345" />
+                 id="use345"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_24">
+           id="ytick_24"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_29">
+             id="line2d_29"
+             style="fill:#1a1a1a">
             <g
-               id="g346">
+               id="g346"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="446.34787"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use346" />
             </g>
           </g>
           <g
-             id="text_30">
+             id="text_30"
+             style="fill:#1a1a1a">
             <!-- Intestinibacter -->
             <g
                transform="matrix(0.1,0,0,-0.1,49.323437,450.14708)"
-               id="g361">
+               id="g361"
+               style="fill:#1a1a1a">
               <defs
                  id="defs346">
                 <path
@@ -2246,359 +2670,446 @@
               </defs>
               <use
                  xlink:href="#DejaVuSans-49"
-                 id="use347" />
+                 id="use347"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(29.492188)"
-                 id="use348" />
+                 id="use348"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(92.871094)"
-                 id="use349" />
+                 id="use349"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(132.08008)"
-                 id="use350" />
+                 id="use350"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(193.60352)"
-                 id="use351" />
+                 id="use351"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(245.70312)"
-                 id="use352" />
+                 id="use352"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(284.91211)"
-                 id="use353" />
+                 id="use353"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6e"
                  transform="translate(312.69531)"
-                 id="use354" />
+                 id="use354"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(376.07422)"
-                 id="use355" />
+                 id="use355"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(403.85742)"
-                 id="use356" />
+                 id="use356"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(467.33398)"
-                 id="use357" />
+                 id="use357"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(528.61328)"
-                 id="use358" />
+                 id="use358"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(583.59375)"
-                 id="use359" />
+                 id="use359"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(622.80273)"
-                 id="use360" />
+                 id="use360"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(684.32617)"
-                 id="use361" />
+                 id="use361"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_25">
+           id="ytick_25"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_30">
+             id="line2d_30"
+             style="fill:#1a1a1a">
             <g
-               id="g362">
+               id="g362"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="465.035"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use362" />
             </g>
           </g>
           <g
-             id="text_31">
+             id="text_31"
+             style="fill:#1a1a1a">
             <!-- Fusobacterium -->
             <g
                transform="matrix(0.1,0,0,-0.1,47.984375,468.83422)"
-               id="g375">
+               id="g375"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-46"
-                 id="use363" />
+                 id="use363"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(52.019531)"
-                 id="use364" />
+                 id="use364"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(115.39844)"
-                 id="use365" />
+                 id="use365"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(167.49805)"
-                 id="use366" />
+                 id="use366"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-62"
                  transform="translate(228.67969)"
-                 id="use367" />
+                 id="use367"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(292.15625)"
-                 id="use368" />
+                 id="use368"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-63"
                  transform="translate(353.43555)"
-                 id="use369" />
+                 id="use369"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(408.41602)"
-                 id="use370" />
+                 id="use370"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(447.625)"
-                 id="use371" />
+                 id="use371"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(509.14844)"
-                 id="use372" />
+                 id="use372"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(550.26172)"
-                 id="use373" />
+                 id="use373"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(578.04492)"
-                 id="use374" />
+                 id="use374"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(641.42383)"
-                 id="use375" />
+                 id="use375"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_26">
+           id="ytick_26"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_31">
+             id="line2d_31"
+             style="fill:#1a1a1a">
             <g
-               id="g376">
+               id="g376"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="483.72214"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use376" />
             </g>
           </g>
           <g
-             id="text_32">
+             id="text_32"
+             style="fill:#1a1a1a">
             <!-- Paraprevotella -->
             <g
                transform="matrix(0.1,0,0,-0.1,49.7375,487.52136)"
-               id="g390">
+               id="g390"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-50"
-                 id="use377" />
+                 id="use377"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(55.802734)"
-                 id="use378" />
+                 id="use378"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(117.08203)"
-                 id="use379" />
+                 id="use379"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(158.19531)"
-                 id="use380" />
+                 id="use380"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(219.47461)"
-                 id="use381" />
+                 id="use381"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(282.95117)"
-                 id="use382" />
+                 id="use382"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(321.81445)"
-                 id="use383" />
+                 id="use383"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-76"
                  transform="translate(383.33789)"
-                 id="use384" />
+                 id="use384"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(442.51758)"
-                 id="use385" />
+                 id="use385"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(503.69922)"
-                 id="use386" />
+                 id="use386"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(542.9082)"
-                 id="use387" />
+                 id="use387"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(604.43164)"
-                 id="use388" />
+                 id="use388"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(632.21484)"
-                 id="use389" />
+                 id="use389"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(659.99805)"
-                 id="use390" />
+                 id="use390"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_27">
+           id="ytick_27"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_32">
+             id="line2d_32"
+             style="fill:#1a1a1a">
             <g
-               id="g391">
+               id="g391"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="502.40927"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use391" />
             </g>
           </g>
           <g
-             id="text_33">
+             id="text_33"
+             style="fill:#1a1a1a">
             <!-- Alloprevotella -->
             <g
                transform="matrix(0.1,0,0,-0.1,53.16875,506.2085)"
-               id="g405">
+               id="g405"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-41"
-                 id="use392" />
+                 id="use392"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(68.408203)"
-                 id="use393" />
+                 id="use393"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(96.191406)"
-                 id="use394" />
+                 id="use394"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(123.97461)"
-                 id="use395" />
+                 id="use395"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(185.15625)"
-                 id="use396" />
+                 id="use396"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-72"
                  transform="translate(248.63281)"
-                 id="use397" />
+                 id="use397"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(287.49609)"
-                 id="use398" />
+                 id="use398"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-76"
                  transform="translate(349.01953)"
-                 id="use399" />
+                 id="use399"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(408.19922)"
-                 id="use400" />
+                 id="use400"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-74"
                  transform="translate(469.38086)"
-                 id="use401" />
+                 id="use401"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(508.58984)"
-                 id="use402" />
+                 id="use402"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(570.11328)"
-                 id="use403" />
+                 id="use403"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(597.89648)"
-                 id="use404" />
+                 id="use404"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(625.67969)"
-                 id="use405" />
+                 id="use405"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>
         <g
-           id="ytick_28">
+           id="ytick_28"
+           style="fill:#1a1a1a">
           <g
-             id="line2d_33">
+             id="line2d_33"
+             style="fill:#1a1a1a">
             <g
-               id="g406">
+               id="g406"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#mb980f622ef"
                  x="128.86719"
                  y="521.09644"
-                 style="stroke:#000000;stroke-width:0.8"
+                 style="stroke:#000000;stroke-width:0.8;fill:#1a1a1a"
                  id="use406" />
             </g>
           </g>
           <g
-             id="text_34">
+             id="text_34"
+             style="fill:#1a1a1a">
             <!-- Haemophilus -->
             <g
                transform="matrix(0.1,0,0,-0.1,56.417187,524.89565)"
-               id="g417">
+               id="g417"
+               style="fill:#1a1a1a">
               <use
                  xlink:href="#DejaVuSans-48"
-                 id="use407" />
+                 id="use407"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-61"
                  transform="translate(75.195312)"
-                 id="use408" />
+                 id="use408"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-65"
                  transform="translate(136.47461)"
-                 id="use409" />
+                 id="use409"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6d"
                  transform="translate(197.99805)"
-                 id="use410" />
+                 id="use410"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6f"
                  transform="translate(295.41016)"
-                 id="use411" />
+                 id="use411"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-70"
                  transform="translate(356.5918)"
-                 id="use412" />
+                 id="use412"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-68"
                  transform="translate(420.06836)"
-                 id="use413" />
+                 id="use413"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-69"
                  transform="translate(483.44727)"
-                 id="use414" />
+                 id="use414"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-6c"
                  transform="translate(511.23047)"
-                 id="use415" />
+                 id="use415"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-75"
                  transform="translate(539.01367)"
-                 id="use416" />
+                 id="use416"
+                 style="fill:#1a1a1a" />
               <use
                  xlink:href="#DejaVuSans-73"
                  transform="translate(602.39258)"
-                 id="use417" />
+                 id="use417"
+                 style="fill:#1a1a1a" />
             </g>
           </g>
         </g>

@@ -26,15 +26,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
-     inkscape:zoom="0.93102395"
-     inkscape:cx="213.74316"
-     inkscape:cy="235.76193"
+     inkscape:zoom="1.3166667"
+     inkscape:cx="467.84809"
+     inkscape:cy="219.87341"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="7"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g97" />
+     inkscape:current-layer="g73" />
   <defs
      id="defs1">
     <style
@@ -139,7 +139,7 @@
        id="line12" />
     <polygon
        points="68.05,127.38 68.05,267.84 84.46,267.84 84.46,127.38 68.05,127.38 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #619FCA;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3274a1;fill-opacity:1"
        id="polygon12" />
     <line
        x1="68.05"
@@ -164,7 +164,7 @@
        id="line15" />
     <polygon
        points="89.93,267.68 89.93,279.15 106.34,279.15 106.34,267.68 89.93,267.68 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="polygon15" />
     <line
        x1="89.93"
@@ -189,7 +189,7 @@
        id="line18" />
     <polygon
        points="111.81,221.95 111.81,263.92 128.22,263.92 128.22,221.95 111.81,221.95 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #6ABC6A;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3a923a;fill-opacity:1"
        id="polygon18" />
     <line
        x1="111.81"
@@ -214,7 +214,7 @@
        id="line21" />
     <polygon
        points="150.10,209.82 150.10,258.58 166.51,258.58 166.51,209.82 150.10,209.82 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #619FCA;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3274a1;fill-opacity:1"
        id="polygon21" />
     <line
        x1="150.10"
@@ -239,7 +239,7 @@
        id="line24" />
     <polygon
        points="171.98,50.22 171.98,222.19 188.39,222.19 188.39,50.22 171.98,50.22 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="polygon24" />
     <line
        x1="171.98"
@@ -264,7 +264,7 @@
        id="line27" />
     <polygon
        points="193.86,135.57 193.86,236.64 210.27,236.64 210.27,135.57 193.86,135.57 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #6ABC6A;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3a923a;fill-opacity:1"
        id="polygon27" />
     <line
        x1="193.86"
@@ -289,7 +289,7 @@
        id="line30" />
     <polygon
        points="232.15,233.46 232.15,258.83 248.56,258.83 248.56,233.46 232.15,233.46 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #619FCA;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3274a1;fill-opacity:1"
        id="polygon30" />
     <line
        x1="232.15"
@@ -314,7 +314,7 @@
        id="line33" />
     <polygon
        points="254.03,179.25 254.03,263.87 270.44,263.87 270.44,179.25 254.03,179.25 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="polygon33" />
     <line
        x1="254.03"
@@ -339,7 +339,7 @@
        id="line36" />
     <polygon
        points="275.91,83.24 275.91,183.07 292.32,183.07 292.32,83.24 275.91,83.24 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #6ABC6A;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3a923a;fill-opacity:1"
        id="polygon36" />
     <line
        x1="275.91"
@@ -389,7 +389,7 @@
        id="line42" />
     <polygon
        points="336.09,258.01 336.09,267.01 352.50,267.01 352.50,258.01 336.09,258.01 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="polygon42" />
     <line
        x1="336.09"
@@ -439,7 +439,7 @@
        id="line48" />
     <polygon
        points="396.26,97.39 396.26,272.09 412.67,272.09 412.67,97.39 396.26,97.39 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #619FCA;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3274a1;fill-opacity:1"
        id="polygon48" />
     <line
        x1="396.26"
@@ -464,7 +464,7 @@
        id="line51" />
     <polygon
        points="418.14,250.80 418.14,278.50 434.55,278.50 434.55,250.80 418.14,250.80 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="polygon51" />
     <line
        x1="418.14"
@@ -489,7 +489,7 @@
        id="line54" />
     <polygon
        points="440.02,161.84 440.02,269.92 456.43,269.92 456.43,161.84 440.02,161.84 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #6ABC6A;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3a923a;fill-opacity:1"
        id="polygon54" />
     <line
        x1="440.02"
@@ -514,7 +514,7 @@
        id="line57" />
     <polygon
        points="478.31,263.77 478.31,278.19 494.72,278.19 494.72,263.77 478.31,263.77 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #619FCA;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3274a1;fill-opacity:1"
        id="polygon57" />
     <line
        x1="478.31"
@@ -539,7 +539,7 @@
        id="line60" />
     <polygon
        points="500.19,244.93 500.19,281.45 516.60,281.45 516.60,244.93 500.19,244.93 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="polygon60" />
     <line
        x1="500.19"
@@ -564,7 +564,7 @@
        id="line63" />
     <polygon
        points="522.07,234.06 522.07,272.60 538.48,272.60 538.48,234.06 522.07,234.06 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #6ABC6A;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3a923a;fill-opacity:1"
        id="polygon63" />
     <line
        x1="522.07"
@@ -589,7 +589,7 @@
        id="line66" />
     <polygon
        points="560.36,247.23 560.36,266.48 576.77,266.48 576.77,247.23 560.36,247.23 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #619FCA;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3274a1;fill-opacity:1"
        id="polygon66" />
     <line
        x1="560.36"
@@ -614,7 +614,7 @@
        id="line69" />
     <polygon
        points="582.24,261.19 582.24,271.14 598.65,271.14 598.65,261.19 582.24,261.19 "
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="polygon69" />
     <line
        x1="582.24"
@@ -656,7 +656,7 @@
        x="43.97"
        y="303.27"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="25.44px"
        lengthAdjust="spacingAndGlyphs"
        id="text73">0.0</text>
@@ -664,7 +664,7 @@
        x="43.97"
        y="233.60"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="25.44px"
        lengthAdjust="spacingAndGlyphs"
        id="text74">0.1</text>
@@ -672,7 +672,7 @@
        x="43.97"
        y="163.93"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="25.44px"
        lengthAdjust="spacingAndGlyphs"
        id="text75">0.2</text>
@@ -680,7 +680,7 @@
        x="43.97"
        y="94.26"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="25.44px"
        lengthAdjust="spacingAndGlyphs"
        id="text76">0.3</text>
@@ -688,56 +688,56 @@
        x="43.97"
        y="24.58"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="25.44px"
        lengthAdjust="spacingAndGlyphs"
        id="text77">0.4</text>
     <text
        transform="translate(106.38,314.78) rotate(-45)"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="55.88px"
        lengthAdjust="spacingAndGlyphs"
        id="text78">Blautia</text>
     <text
        transform="translate(188.44,314.78) rotate(-45)"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="103.17px"
        lengthAdjust="spacingAndGlyphs"
        id="text79">Akkermansia</text>
     <text
        transform="translate(270.49,314.78) rotate(-45)"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="67.21px"
        lengthAdjust="spacingAndGlyphs"
        id="text80">Alistipes</text>
     <text
        transform="translate(352.54,314.78) rotate(-45)"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="88.37px"
        lengthAdjust="spacingAndGlyphs"
        id="text81">Barnesiella</text>
     <text
        transform="translate(434.59,314.78) rotate(-45)"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="127.04px"
        lengthAdjust="spacingAndGlyphs"
        id="text82">Bifidobacterium</text>
     <text
        transform="translate(516.64,314.78) rotate(-45)"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="136.25px"
        lengthAdjust="spacingAndGlyphs"
        id="text83">Subdoligranulum</text>
     <text
        transform="translate(598.69,314.78) rotate(-45)"
        text-anchor="end"
-       style="font-size: 16.00px;fill: #4D4D4D; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:16px;fill:#1a1a1a;font-family:'Nimbus Sans'"
        textLength="115.14px"
        lengthAdjust="spacingAndGlyphs"
        id="text84">Ruminococcus</text>
@@ -749,11 +749,11 @@
        textLength="159.78"
        lengthAdjust="spacingAndGlyphs"
        id="text85"
-       transform="translate(-256.22301,1.2018556)">* Effect size &gt; 0.3 P.adj &lt; 0.05</text>
+       transform="translate(-256.22301,1.2018556)">* Effect size &gt; 0.3 p.adj &lt; 0.05</text>
     <text
        transform="translate(13.50,153.54) rotate(-90)"
        text-anchor="middle"
-       style="font-size: 11.00px; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:11px;font-family:'Nimbus Sans';fill:#1a1a1a"
        textLength="98.29px"
        lengthAdjust="spacingAndGlyphs"
        id="text86">Growth Rate [1/h]</text>
@@ -770,7 +770,7 @@
        y="139.83"
        width="12.96"
        height="8.64"
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #619FCA;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3274a1;fill-opacity:1"
        id="rect88" />
     <polyline
        points="658.27,144.15 671.23,144.15 "
@@ -789,7 +789,7 @@
        y="157.11"
        width="12.96"
        height="8.64"
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFA555;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#e1812c;fill-opacity:1"
        id="rect91" />
     <polyline
        points="658.27,161.43 671.23,161.43 "
@@ -808,7 +808,7 @@
        y="174.39"
        width="12.96"
        height="8.64"
-       style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt; stroke-linejoin: miter; fill: #6ABC6A;"
+       style="stroke-width:1.07;stroke:#333333;stroke-linecap:butt;stroke-linejoin:miter;fill:#3a923a;fill-opacity:1"
        id="rect94" />
     <polyline
        points="658.27,178.71 671.23,178.71 "
@@ -817,21 +817,21 @@
     <text
        x="678.87"
        y="147.36"
-       style="font-size: 8.80px; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;font-family:'Nimbus Sans';fill:#1a1a1a"
        textLength="6.62px"
        lengthAdjust="spacingAndGlyphs"
        id="text95">H</text>
     <text
        x="678.87"
        y="164.64"
-       style="font-size:8.8px;font-family:'Nimbus Sans'"
+       style="font-size:8.8px;font-family:'Nimbus Sans';fill:#1a1a1a"
        textLength="25.33"
        lengthAdjust="spacingAndGlyphs"
        id="text96">T1D  </text>
     <text
        x="678.87"
        y="181.92"
-       style="font-size: 8.80px; font-family: &quot;Nimbus Sans&quot;;"
+       style="font-size:8.8px;font-family:'Nimbus Sans';fill:#1a1a1a"
        textLength="30.17px"
        lengthAdjust="spacingAndGlyphs"
        id="text97">T3cDM</text>
