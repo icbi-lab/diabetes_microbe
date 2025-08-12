@@ -282,8 +282,8 @@ sam_new$Pancreatectomy_cat <- recode(
 sam_new$bacteria_ab <- blautia_abund[rownames(sam_new)]
 
 pan <- ggplot(sam_new, aes(x = Pancreatectomy_cat, y = bacteria_ab)) +
-  geom_boxplot(outlier.shape = NA, fill = "lightgreen") +
-  geom_jitter(width = 0.2, color = "darkgreen", size = 1.5) +
+  geom_boxplot(outlier.shape = NA, fill = "#6ABC6A") +
+  geom_jitter(width = 0.2, color = "lightgreen", size = 1.5) +
   labs(
     title = "",
     x = "Pancreatectomy Category",
