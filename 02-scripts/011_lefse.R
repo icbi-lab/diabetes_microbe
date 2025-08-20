@@ -143,7 +143,7 @@ p_all <- ggplot(dat_all, aes(x = feature_id, y = signed_lda, fill = enrich_group
   coord_flip() +
   scale_y_continuous(name = "LDA SCORE (log10)                  p.adj < 0.05") +
   scale_fill_manual(values = c("DM" = "#E1812C", "PDM" = "#3A923A", "K" = "#3274A1")) +
-  scale_x_discrete(labels = dat_all$feature_mod) +   # 👈 custom axis labels
+  scale_x_discrete(labels = dat_all$feature_mod) +  
   facet_wrap(~ comparison, scales = "free_y", ncol = 1) +
   
   theme_minimal(base_size = 12) +
