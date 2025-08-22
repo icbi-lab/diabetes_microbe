@@ -163,5 +163,3 @@ p_all
 #ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_all_comparison.svg", height = 10, width = 10, dpi=300)
 #ggsave(plot=p_all,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/barplot_lefse_all_comparison.png", height = 10, width = 10, dpi=300)
 
-
-
