@@ -290,7 +290,7 @@ p <- ggplot(forest_df_sig, aes(x = estimate, y = reorder(variable, estimate), co
     axis.text.y = element_text(size = 12),  
     axis.text.x = element_text(size = 10), 
     legend.text = element_text(size = 11)  
-  )
+  ) 
 
 p <- p + theme(
   panel.background = element_rect(fill = "white", color = NA),
@@ -309,4 +309,127 @@ p
 #ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.svg", height = 5, width = 7)
 #ggsave(plot = p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/forest_plot_numerical_groups_padjsig.png", height = 5, width = 7)
 
-write.csv(forest_df_sig, file = "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/forest_df_sig_forest_plot_numerical_groups_padjsig.csv", row.names = FALSE)
+#write.csv(forest_df_sig, file = "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/forest_df_sig_forest_plot_numerical_groups_padjsig.csv", row.names = FALSE)
+
+# add once
+library(marginaleffects)
+library(emmeans)  # (optional, not used below but handy)
+
+run_models_by_group <- function(df_group, group_label, base_vars) {
+  results <- list()
+  
+  for (var in base_vars) {
+    if (!all(c(var, "time", "probennummer", "age", "sex") %in% colnames(df_group))) next
+    
+    df_sub <- df_group %>%
+      dplyr::select(probennummer, time, age, sex, !!sym(var)) %>%
+      dplyr::filter(!is.na(!!sym(var)), !is.na(age), !is.na(sex))
+    
+    if (nrow(df_sub) < 10) next
+    
+    is_binary <- all(df_sub[[var]] %in% c(0, 1), na.rm = TRUE)
+    model <- NULL
+    
+    if (is_binary) {
+      # logistic mixed model; treat time as factor for a clean 2 vs 1 contrast
+      df_sub <- df_sub %>% mutate(time = factor(time, levels = c(1, 2)))
+      model <- tryCatch(
+        glmer(as.formula(paste(var, "~ time + age + sex + (1 | probennummer)")),
+              data = df_sub, family = binomial,
+              control = glmerControl(optimizer = "bobyqa")),
+        error = function(e) NULL
+      )
+    } else if (is.numeric(df_sub[[var]])) {
+      # linear mixed model for continuous outcomes
+      model <- tryCatch(
+        lmer(as.formula(paste(var, "~ time + age + sex + (1 | probennummer)")), data = df_sub),
+        error = function(e) NULL
+      )
+    }
+    
+    if (!is.null(model)) {
+      if (is_binary) {
+        # Average marginal effect on probability scale (FU - BL), in [-1, 1]
+        est <- marginaleffects::avg_comparisons(
+          model,
+          variables = list(time = c("1", "2")),
+          type = "response"
+        ) %>%
+          dplyr::transmute(
+            variable = var,
+            estimate = estimate,      # ΔPr(FU − BL)
+            std.error = std.error,
+            conf.low = conf.low,
+            conf.high = conf.high,
+            p.value = p.value,
+            group = group_label,
+            scale = "prob"
+          )
+      } else {
+        # Mean difference (time treated numerically: FU=2 vs BL=1)
+        est <- broom.mixed::tidy(model, effects = "fixed", conf.int = TRUE) %>%
+          dplyr::filter(term == "time") %>%
+          dplyr::mutate(
+            variable = var,
+            group = group_label,
+            p.value = 2 * (1 - pnorm(abs(estimate / std.error))),
+            scale = "mean"
+          ) %>%
+          dplyr::select(variable, estimate, std.error, conf.low, conf.high, p.value, group, scale)
+      }
+      results[[var]] <- est
+    }
+  }
+  
+  bind_rows(results)
+}
+
+# --- re-run models
+df_pdm <- df_long %>% filter(Type == "PDM")
+df_dm  <- df_long %>% filter(Type == "DM")
+all_vars <- colnames(df_long)
+base_vars <- setdiff(all_vars, c("probennummer", "time", "Type", "sex", "age"))
+
+forest_pdm <- run_models_by_group(df_pdm, "PDM", base_vars)
+forest_dm  <- run_models_by_group(df_dm,  "DM",  base_vars)
+forest_df  <- bind_rows(forest_pdm, forest_dm)
+
+# add names, FDR per group
+forest_df <- forest_df %>%
+  mutate(variable = recode(variable, !!!name_map)) %>%
+  group_by(group, scale) %>%
+  mutate(p.adj = p.adjust(p.value, method = "fdr")) %>%
+  ungroup() %>%
+  mutate(sig = case_when(
+    p.adj < 0.001 ~ "***",
+    p.adj < 0.01  ~ "**",
+    p.adj < 0.05  ~ "*",
+    TRUE          ~ ""
+  ))
+
+# ---- plot ONLY the binary outcomes on prob. scale in [-1, 1]
+forest_bin_sig <- forest_df %>% filter(scale == "prob", p.adj < 0.05)
+
+p_bin <- ggplot(forest_bin_sig, aes(x = estimate, y = reorder(variable, estimate), color = group)) +
+  geom_point(position = position_dodge(width = 0.6)) +
+  geom_errorbarh(aes(xmin = conf.low, xmax = conf.high), height = 0.2,
+                 position = position_dodge(width = 0.6)) +
+  geom_text(aes(label = sig), hjust = -0.5, size = 4,
+            position = position_dodge(width = 0.6)) +
+  geom_vline(xintercept = 0, linetype = "dashed") +
+  scale_color_manual(values = c("DM" = "#E1812C", "PDM" = "#3A923A")) +
+  scale_x_continuous(limits = c(-1, 1),
+                     breaks = seq(-1, 1, by = 0.25),
+                     labels = scales::percent_format(accuracy = 1)) +
+  labs(
+    x = "Change in probability (FU − BL)",
+    y = "",
+    color = "",
+    title = ""
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(panel.background = element_rect(fill = "white", color = NA),
+        plot.background  = element_rect(fill = "white", color = NA))
+
+p_bin
+

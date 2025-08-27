@@ -134,7 +134,7 @@ legend_df <- data.frame(
   feature_id = NA,
   signed_lda = NA,
   enrich_group = NA,
-  padj_label = "p.adj < 0.05"
+  padj_label = "p.vlaue < 0.05"
 )
 
 # Plot

@@ -135,6 +135,10 @@ df_genus_clean <- df_genus_clean %>%
     )
   )
 
+
+df_genus_clean <- df_genus_clean %>%
+  mutate(logAbundance = log1p(Abundance))
+
 # Plot
 p <- ggplot(df_genus_clean, aes(x = Type, y = Abundance)) +
   geom_boxplot(outlier.shape = NA, alpha = 0.8) +
@@ -154,7 +158,7 @@ p <- ggplot(df_genus_clean, aes(x = Type, y = Abundance)) +
   theme_minimal() +
   labs(
     title = "",
-    y = "Relative Abundance",
+    y = "log(R.abundance+1)",
     x = NULL
   ) +
   theme(

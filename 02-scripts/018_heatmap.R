@@ -109,7 +109,7 @@ p <- ggplot(df, aes(x = Sample, y = Family, fill = logAbundance)) +
   scale_fill_gradient2(
     low = "#ffffbf", mid = "#ffffbf", high = "#fc8d59",
     midpoint = median(df$logAbundance, na.rm = TRUE),  # where white sits
-    name = "log(Abundance+1)"
+    name = "log(R.abundance+1)"
   ) +
   labs(x = NULL, y = NULL, title = "") +
   theme_minimal(base_size = 

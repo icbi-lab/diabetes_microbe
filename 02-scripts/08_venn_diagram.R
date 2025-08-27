@@ -33,5 +33,3 @@ grid.draw(venn.plot)
 #ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/venn_diagram.svg", height = 8, width = 15)
 #ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/venn_diagram.png", height = 8, width = 15)
 
-
-
