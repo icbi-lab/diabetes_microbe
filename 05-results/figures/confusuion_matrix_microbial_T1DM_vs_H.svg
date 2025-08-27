@@ -30,10 +30,10 @@
      inkscape:cy="144"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="7"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg21"
+     inkscape:current-layer="g21"
      inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs1">
@@ -190,7 +190,7 @@
        style="font-size:8.8px;font-family:'Nimbus Sans';fill:#e1812c;fill-opacity:1"
        textLength="25.33"
        lengthAdjust="spacingAndGlyphs"
-       id="text15">T1D </text>
+       id="text15">T1DM </text>
     <polyline
        points="46.05,140.39 48.79,140.39 "
        style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
@@ -214,7 +214,7 @@
        style="font-size:8.8px;font-family:'Nimbus Sans';fill:#e1812c;fill-opacity:1"
        textLength="25.33"
        lengthAdjust="spacingAndGlyphs"
-       id="text18">T1D </text>
+       id="text18">T1DM </text>
     <text
        x="166.41"
        y="195.64"

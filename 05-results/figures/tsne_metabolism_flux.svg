@@ -29,15 +29,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
-     inkscape:zoom="1.3307329"
-     inkscape:cx="474.92626"
-     inkscape:cy="185.98774"
+     inkscape:zoom="3.763881"
+     inkscape:cx="456.97512"
+     inkscape:cy="104.28066"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="7"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g193" />
+     inkscape:current-layer="g199" />
   <metadata
      id="metadata1">
     <rdf:RDF>
@@ -1514,6 +1514,11 @@
                xlink:href="#DejaVuSans-4d"
                transform="translate(256.68945)"
                id="use199" />
+            <use
+               xlink:href="#DejaVuSans-4d"
+               transform="translate(201.1037,147.50458)"
+               id="use199-6"
+               style="stroke-linecap:butt;stroke-linejoin:round" />
           </g>
         </g>
       </g>

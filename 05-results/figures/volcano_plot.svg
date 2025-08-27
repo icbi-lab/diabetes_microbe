@@ -27,14 +27,14 @@
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
      inkscape:zoom="1.4947917"
-     inkscape:cx="287.6655"
-     inkscape:cy="288.66898"
+     inkscape:cx="287.66551"
+     inkscape:cy="288"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="7"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g64" />
+     inkscape:current-layer="svg64" />
   <defs
      id="defs1">
     <style
@@ -345,8 +345,8 @@
        style="stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
        id="line47" />
     <text
-       x="190.88"
-       y="39.52"
+       x="179.10"
+       y="56.14"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="25.96px"
@@ -361,8 +361,8 @@
        lengthAdjust="spacingAndGlyphs"
        id="text48">Pyridoxine</text>
     <text
-       x="182.05"
-       y="262.41"
+       x="181.99"
+       y="262.47"
        text-anchor="middle"
        style="font-size: 9.96px; font-family: &quot;Nimbus Sans&quot;;"
        textLength="66.50px"
@@ -445,20 +445,19 @@
        lengthAdjust="spacingAndGlyphs"
        id="text58">Effect size</text>
     <text
-       transform="rotate(-90,113.505,97.545)"
+       transform="translate(15.96,211.05) rotate(-90)"
        text-anchor="middle"
-       style="font-size:13px;font-family:'Nimbus Sans'"
-       textLength="81"
+       style="font-size: 13.00px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="81.00px"
        lengthAdjust="spacingAndGlyphs"
-       id="text59">-log10(p.adj)</text>
+       id="text59">-log10(P.adj)</text>
     <text
-       x="319.95999"
+       x="319.96"
        y="186.63"
-       style="font-size:13px;font-family:'Nimbus Sans'"
-       textLength="99.089996"
+       style="font-size: 13.00px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="99.09px"
        lengthAdjust="spacingAndGlyphs"
-       id="text60"
-       transform="translate(-1.5805613,-17.670977)">Result strength</text>
+       id="text60">Result strength</text>
     <circle
        cx="328.60"
        cy="203.10"
@@ -472,10 +471,10 @@
        style="stroke-width: 0.71; stroke: #B3B3B3; stroke-opacity: 0.80; fill: #B3B3B3; fill-opacity: 0.80;"
        id="circle61" />
     <circle
-       cx="328.71295"
-       cy="186.22778"
-       r="3.5599999"
-       style="fill:#b2182b;fill-opacity:0.8;stroke:#b2182b;stroke-width:0.71;stroke-opacity:0.8"
+       cx="328.60"
+       cy="237.66"
+       r="3.56"
+       style="stroke-width: 0.71; stroke: #B2182B; stroke-opacity: 0.80; fill: #B2182B; fill-opacity: 0.80;"
        id="circle62" />
     <text
        x="343.72"
@@ -494,10 +493,9 @@
     <text
        x="343.72"
        y="241.45"
-       style="font-size:10.4px;font-family:'Nimbus Sans'"
-       textLength="33.07"
+       style="font-size: 10.40px; font-family: &quot;Nimbus Sans&quot;;"
+       textLength="33.07px"
        lengthAdjust="spacingAndGlyphs"
-       id="text64"
-       transform="translate(0.11294098,-51.432216)">strong</text>
+       id="text64">strong</text>
   </g>
 </svg>
