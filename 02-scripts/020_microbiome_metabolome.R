@@ -14,7 +14,7 @@ df <- df[, -1]
 
 
 df <- df %>%
-  filter(abundance >= 0.5 )
+  filter(abundance >= 0.01 )
 
 
 
