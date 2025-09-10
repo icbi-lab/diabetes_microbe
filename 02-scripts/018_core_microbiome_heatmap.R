@@ -65,12 +65,11 @@ stopifnot("Type" %in% colnames(sample_data(phy)))
 otu_mat <- as(otu_table(phy), "matrix")
 if (!taxa_are_rows(phy)) otu_mat <- t(otu_mat)
 
-prev <- rowMeans(otu_mat > 0)                 # proportion of samples with nonzero abundance
+prev <- rowMeans(otu_mat > 0)                 
 core_taxa <- names(prev[prev >= 0.5])
 
 phy_core <- prune_taxa(core_taxa, phy)
 
-# Change "Genus" to your desired rank (e.g., "Family", "Phylum")
 phy_core <- tax_glom(phy_core, taxrank = "Family", NArm = TRUE)
 
 phy_core_rel <- transform_sample_counts(phy_core, function(x) x / sum(x))
@@ -83,7 +82,6 @@ df <- psmelt(phy_core_rel) %>%
   )
 
 
-# Order taxa by decreasing overall prevalence (or mean abundance)
 taxa_order <- df %>%
   group_by(Taxon) %>%
   summarize(prev = mean(Abundance > 0), mean_abund = mean(Abundance)) %>%
@@ -92,7 +90,6 @@ taxa_order <- df %>%
 
 df$Taxon <- factor(df$Taxon, levels = taxa_order)
 
-# Order samples within each Type by their total abundance of core taxa (nice for readability)
 sample_order <- df %>%
   group_by(Sample, Type) %>%
   summarize(total = sum(Abundance), .groups = "drop") %>%
