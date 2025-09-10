@@ -9,14 +9,28 @@ library(ggplot2)
 library(ggpubr)
 library(dplyr)
 library(ggpubr)
+path <- "/data/scratch/kvalem/projects/2024/diabetes_microbe/02-scripts/materials/escherichia"
 
 
-data <- read_csv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/growth_rates.csv")
+files <- c("growth_rates_healthy.csv", 
+           "growth_rates_t1dm.csv", 
+           "growth_rates_t3cdm.csv")
+
+data <- files %>%
+  map_df(~ read_csv(file.path(path, .x)) %>%
+           mutate(group = case_when(
+             .x == "growth_rates_healthy.csv" ~ "H",
+             .x == "growth_rates_t1dm.csv"    ~ "T1DM",
+             .x == "growth_rates_t3cdm.csv"   ~ "T3cDM"
+           )))
+
+
+data <- data %>% 
+  rename(condition = group)
+
 exchanges <-  read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/growthresults_exchanges.tsv")
 exchanges <- exchanges[, -1]
 
-data <- data %>%
-  left_join(exchanges %>% select(sample_id, condition), by = "sample_id")
 
 filtered_data <- data %>%
   mutate(condition = recode(condition,
@@ -24,20 +38,17 @@ filtered_data <- data %>%
                             "Diabetes mellitus Typ1" = "T1DM",
                             "pankreopriver Diabetes" = "T3cDM"))
 
+taxa_keep <- c("Akkermansia",
+  "Blautia",
+  "Escherichia",
+"Streptococcus",
+"Faecalibacterium",
+"Subdoligranulum")  # Fusobacterium omitted
 
+filtered_data <- filtered_data %>%
+  filter(taxon %in% taxa_keep)
 
 my_palette <- c("T3cDM" = "#6ABC6A", "T1DM" = "#FFA555", "H" = "#619FCA")
-
-# Plotting all taxa 
-ggplot(filtered_data, aes(x = taxon, y = growth_rate, fill = condition)) +
-  geom_boxplot(position = position_dodge(width = 0.8), width = 0.6, outlier.shape = NA) +
-  scale_fill_manual(values = my_palette) +
-  scale_color_manual(values = my_palette) +
-  theme_minimal() +
-  labs(x = "Taxon", y = "Growth Rate", fill = "Condition", color = "Condition") +
-  theme(
-    axis.text.x = element_text(angle = 45, hjust = 1)
-  )
 
 
 taxa_with_all_conditions <- filtered_data %>%
@@ -95,12 +106,14 @@ final_results <- wilcox_results %>%
 
 
 taxa_large_effect <- final_results %>%
-  filter(magnitude %in% c("moderate", "large")) %>%
+  filter(
+    magnitude %in% c("moderate", "large"),
+    p.adj < 0.05
+  ) %>%
   pull(taxon) %>%
   unique()
 
-# Plotting only taxa with moderate and large effect size 
-q <- ggplot(clean_data %>% filter(taxon %in% taxa_large_effect), aes(x = taxon, y = growth_rate, fill = condition)) +
+q <- ggplot(filtered_data, aes(x = taxon, y = growth_rate, fill = condition)) +
   geom_boxplot(position = position_dodge(width = 0.8), width = 0.6, outlier.shape = NA) +
   scale_fill_manual(values = my_palette) +
   stat_compare_means(
@@ -109,15 +122,13 @@ q <- ggplot(clean_data %>% filter(taxon %in% taxa_large_effect), aes(x = taxon, 
     label = "p.signif",
     position = position_dodge(width = 0.8),
     label.y.npc = "top"
-  ) +
-  labs(x = "Effect size > 0.3 P.adj < 0.05", y = "Growth Rate [1/h]", fill = "Condition") +
+  ) +  scale_y_continuous(limits = c(0, 0.1)) +
+  labs(x = "* p.adj < 0.05", y = "Growth Rate [1/h]", fill = "Condition") +
   theme_minimal() +
   theme(
     axis.text.x = element_text(angle = 45, hjust = 1, size = 16),axis.text.y = element_text( size = 16),
     panel.grid.major.x = element_blank()
   )
-
-
 
 q
 
