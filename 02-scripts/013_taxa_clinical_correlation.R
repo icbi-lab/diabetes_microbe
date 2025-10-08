@@ -366,3 +366,161 @@ write_csv(cor_results, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-t
 #ggsave(plot=pp,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/correlation_micro_clinical_doctor.svg", height = 5, width = 9, dpi=300)
 #ggsave(plot=pp,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/correlation_micro_clinical_doctor.png", height = 5, width = 9, dpi=300)
 
+###############
+## CORRELATION differentiating BINARY & CONTINOUS VARIABLES
+#For continous variables I used pearson and for binary I used point biserial 
+
+
+desired_order <- c("Age","Smoking Status","HbA1c (DCCT/NGSP) (BS)",
+                  "Short-acting Insulin (BS)",
+                   "Mixed Insulin (BS)","Long-acting Insulin (BS)",
+                   "Pancreatectomy","MASLD (BS)")
+binary_vars <- c("Smoking Status","Pancreatectomy","Insulin Therapy (BS)","MASLD (BS)")
+cont_vars   <- setdiff(desired_order, binary_vars)
+
+
+stopifnot(!is.null(rownames(abund_sel)), !is.null(rownames(clinical_df)))
+
+
+abund_sel  <- abund_sel[!duplicated(rownames(abund_sel)), , drop = FALSE]
+clinical_df <- clinical_df[!duplicated(rownames(clinical_df)), , drop = FALSE]
+
+common_ids <- intersect(rownames(abund_sel), rownames(clinical_df))
+if (length(common_ids) < 3) message("Warning: very few overlapping samples: ", length(common_ids))
+
+
+common_ids <- sort(common_ids)  # stable order
+abund_a    <- as.data.frame(abund_sel[common_ids, , drop = FALSE])
+clinical_a <- as.data.frame(clinical_df[common_ids, , drop = FALSE])
+
+stopifnot(identical(rownames(abund_a), rownames(clinical_a)))
+
+
+clinical_cont <- clinical_a
+for (v in cont_vars) {
+  if (v %in% colnames(clinical_cont)) {
+    clinical_cont[[v]] <- suppressWarnings(as.numeric(clinical_cont[[v]]))
+  }
+}
+
+
+clinical_bin <- clinical_a
+for (v in binary_vars) {
+  if (v %in% colnames(clinical_bin)) {
+    x <- clinical_bin[[v]]
+    if (is.numeric(x)) {
+      clinical_bin[[v]] <- if (all(x %in% c(0,1,NA))) x else as.numeric(x != 0)
+    } else {
+      xf <- factor(x)
+      clinical_bin[[v]] <- as.numeric(xf) - 1  # first level -> 0
+    }
+  }
+}
+
+
+safe_cor <- function(x, y, label) {
+  x <- as.numeric(x)
+  y <- as.numeric(y)
+  
+
+  if (length(x) != length(y)) {
+    return(tibble(estimate = NA_real_, p.value = NA_real_, conf.low = NA_real_,
+                  conf.high = NA_real_, n = NA_integer_, method = paste0(label, "_length_mismatch")))
+  }
+
+  df <- data.frame(x = x, y = y)
+  df <- df[complete.cases(df), , drop = FALSE]
+  n  <- nrow(df)
+  
+  if (n < 3 || length(unique(df$x)) < 2 || length(unique(df$y)) < 2) {
+    return(tibble(estimate = NA_real_, p.value = NA_real_, conf.low = NA_real_,
+                  conf.high = NA_real_, n = n, method = label))
+  }
+  
+  ct <- suppressWarnings(cor.test(df$x, df$y, method = "pearson"))
+  tibble(
+    estimate  = unname(ct$estimate),
+    p.value   = ct$p.value,
+    conf.low  = if (!is.null(ct$conf.int)) ct$conf.int[1] else NA_real_,
+    conf.high = if (!is.null(ct$conf.int)) ct$conf.int[2] else NA_real_,
+    n         = n,
+    method    = label
+  )
+}
+
+microbes <- colnames(abund_a)
+
+
+res_cont <- expand.grid(microbe = microbes, clinical_var = cont_vars, stringsAsFactors = FALSE) %>%
+  as_tibble() %>%
+  mutate(
+    res = map2(microbe, clinical_var, \(m, v) {
+      if (!v %in% colnames(clinical_cont)) {
+        return(tibble(estimate=NA_real_, p.value=NA_real_, conf.low=NA_real_, conf.high=NA_real_, n=NA_integer_, method="pearson_missing"))
+      }
+      safe_cor(abund_a[[m]], clinical_cont[[v]], "pearson")
+    })
+  ) %>% unnest(res)
+
+
+res_bin <- expand.grid(microbe = microbes, clinical_var = binary_vars, stringsAsFactors = FALSE) %>%
+  as_tibble() %>%
+  mutate(
+    res = map2(microbe, clinical_var, \(m, v) {
+      if (!v %in% colnames(clinical_bin)) {
+        return(tibble(estimate=NA_real_, p.value=NA_real_, conf.low=NA_real_, conf.high=NA_real_, n=NA_integer_, method="point-biserial_missing"))
+      }
+      
+      yy <- as.numeric(clinical_bin[[v]])
+      kk <- complete.cases(yy, abund_a[[m]])
+      if (length(unique(yy[kk])) < 2) {
+        return(tibble(estimate=NA_real_, p.value=NA_real_, conf.low=NA_real_, conf.high=NA_real_,
+                      n = sum(kk), method="point-biserial_single_class"))
+      }
+      safe_cor(abund_a[[m]], yy, "point-biserial")
+    })
+  ) %>% unnest(res)
+
+
+cor_results <- bind_rows(res_cont, res_bin) %>%
+  mutate(
+    clinical_var = factor(clinical_var, levels = desired_order),
+   
+  ) %>%
+  arrange(clinical_var, microbe) %>%
+  rename(r = estimate, p = p.value, ci_low = conf.low, ci_high = conf.high, N = n)
+
+
+table(cor_results$method, useNA = "ifany")
+
+cor_results <- cor_results %>%
+  mutate(signif = case_when(
+    p < 0.001 ~ "***",
+    p < 0.01 ~ "**",
+    p < 0.05 ~ "*",
+    TRUE ~ ""
+  ))
+
+cor_results$clinical_var <- factor(cor_results$clinical_var, levels = desired_order)
+
+cor_results <- cor_results %>%
+  filter(!is.na(clinical_var))
+
+pp <- ggplot(cor_results, aes(x = clinical_var, y = microbe, fill = r)) +
+  geom_tile(color = "white") +
+  geom_text(aes(label = signif), size = 4, color = "black") +
+  scale_fill_gradient2(
+    low = "blue", mid = "white", high = "red", midpoint = 0,
+    name = "R"
+  ) +
+  labs(
+    x = "",
+    y = "",
+    title = ""
+  ) +
+  theme_minimal(base_size = 15) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid = element_blank()
+  )
+pp
