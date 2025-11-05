@@ -11,7 +11,7 @@ library(jsonlite)
 library(dplyr)
 library(purrr)
 
-data<- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/exchange_fluxes_escherichia.csv")
+data<- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/exchange_fluxes_escherichia.csv")
 
 data <- data %>%
   mutate(condition = case_when(
@@ -22,10 +22,10 @@ data <- data %>%
   ))
 
 data <- data[, -1]
-df <-  read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/growthresults_exchanges.tsv")
+df <-  read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/growthresults_exchanges.tsv")
 df <- df[, -1]
 
-ef <- read_csv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/exchange_fluxes.csv")
+ef <- read_csv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/exchange_fluxes.csv")
 
 
 df_unique <- df %>%

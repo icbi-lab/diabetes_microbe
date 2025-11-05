@@ -28,7 +28,7 @@ data <- files %>%
 data <- data %>% 
   rename(condition = group)
 
-exchanges <-  read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/growthresults_exchanges.tsv")
+exchanges <-  read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/growthresults_exchanges.tsv")
 exchanges <- exchanges[, -1]
 
 
@@ -133,7 +133,7 @@ q <- ggplot(filtered_data, aes(x = taxon, y = growth_rate, fill = condition)) +
 q
 
 
-#write_csv(wilcox_results, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/microbial_community/wilcox_results_growthrate_boxplot.csv")
+write_csv(wilcox_results, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_02/materials/wilcoxon/wilcox_results_growthrate_boxplot.csv")
 #write_csv(effect_sizes, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/microbial_community/effect_sizes_growthrate_boxplot.csv")
 
 #ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/growthrate_boxplot.svg", plot = q,

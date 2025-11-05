@@ -12,23 +12,23 @@ library(forcats)
 library(viridis)   
 
 
-df <- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/exchange_fluxes_all_taxa.csv")
+df <- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/exchange_fluxes_all_taxa.csv")
 #df <-  read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/growthresults_exchanges.tsv")
 df <- df[, -1]
 
-ef <- read_csv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/exchange_fluxes.csv")
+ef <- read_csv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/exchange_fluxes.csv")
 
-levels_keep <- c("Diabetes mellitus Typ1", "pankreopriver Diabetes")
+levels_keep <- c("T1DM", "T3cDM")
 dat <- df %>%
-  filter(condition %in% levels_keep) 
+  filter(type %in% levels_keep) 
 
 
 tvals <- dat %>%
   group_by(metabolite) %>%
-  filter(n_distinct(condition) == 2) %>%
+  filter(n_distinct(type) == 2) %>%
   group_split() %>%
   map_dfr(function(d) {
-    fit <- try(lm(abundance ~ condition, data = d), silent = TRUE)
+    fit <- try(lm(abundance ~ type, data = d), silent = TRUE)
     if (inherits(fit, "try-error")) return(tibble())       
     tidy(fit) %>%
       filter(term == "conditionpankreopriver Diabetes") %>%

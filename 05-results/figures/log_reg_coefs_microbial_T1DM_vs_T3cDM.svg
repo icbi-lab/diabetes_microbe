@@ -7,7 +7,7 @@
    version="1.1"
    id="svg42"
    sodipodi:docname="log_reg_coefs_microbial_T1DM_vs_T3cDM.svg"
-   inkscape:export-filename="log_reg_coefs_microbial_T1DM_vs_T3cDM.png"
+   inkscape:export-filename="../publication_figures/main/log_reg_coefs_microbial_T1DM_vs_T3cDM.jpg"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
@@ -27,12 +27,12 @@
      inkscape:document-units="pt"
      inkscape:export-bgcolor="#ffffffff"
      inkscape:zoom="1.1210938"
-     inkscape:cx="383.55401"
-     inkscape:cy="384"
+     inkscape:cx="383.55399"
+     inkscape:cy="383.99998"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="7"
      inkscape:window-maximized="1"
      inkscape:current-layer="g42" />
   <defs
@@ -239,13 +239,13 @@
      clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)"
      id="g42">
     <text
-       x="238.99"
+       x="238.99001"
        y="472.41"
        text-anchor="end"
-       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
-       textLength="203.32px"
+       style="font-size:20px;font-family:'Nimbus Sans';fill:#1a1a1a"
+       textLength="203.32001"
        lengthAdjust="spacingAndGlyphs"
-       id="text33">g__Faecalibacterium</text>
+       id="text33">     Faecalibacterium</text>
     <text
        x="238.99001"
        y="379.79001"
@@ -253,31 +253,31 @@
        style="font-size:20px;font-family:'Nimbus Sans';fill:#1a1a1a"
        textLength="120.87"
        lengthAdjust="spacingAndGlyphs"
-       id="text34">g__Clostridium</text>
+       id="text34">  Clostridium</text>
     <text
-       x="238.99"
-       y="287.17"
+       x="238.99001"
+       y="287.17001"
        text-anchor="end"
-       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
-       textLength="174.41px"
+       style="font-size:20px;font-family:'Nimbus Sans';fill:#1a1a1a"
+       textLength="174.41"
        lengthAdjust="spacingAndGlyphs"
-       id="text35">g__Streptococcus</text>
+       id="text35">    Streptococcus</text>
     <text
-       x="238.99"
+       x="238.99001"
        y="194.55"
        text-anchor="end"
-       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
-       textLength="233.51px"
+       style="font-size:20px;font-family:'Nimbus Sans';fill:#1a1a1a"
+       textLength="233.50999"
        lengthAdjust="spacingAndGlyphs"
-       id="text36">g__Escherichia-Shigella</text>
+       id="text36">    Escherichia-Shigella</text>
     <text
-       x="238.99"
+       x="238.99001"
        y="101.94"
        text-anchor="end"
-       style="font-size:20px;fill:#1a1a1a;font-family:'Nimbus Sans'"
-       textLength="102.56px"
+       style="font-size:20px;font-family:'Nimbus Sans';fill:#1a1a1a"
+       textLength="102.56"
        lengthAdjust="spacingAndGlyphs"
-       id="text37">g__Blautia</text>
+       id="text37">   Blautia</text>
     <text
        x="268.18"
        y="540.20"

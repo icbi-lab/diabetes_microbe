@@ -217,7 +217,7 @@ common_samples <- intersect(rownames(sam_new), names(blautia_abund))
 
 
 plot_df <- sam_new[common_samples, ]
-plot_df$Blautia <- blautia_abund[common_samples]
+plot_df$Escherichia <- blautia_abund[common_samples]
 
 
 
@@ -235,7 +235,7 @@ pdm_df$Type <- "T3cDM"
 
 
 
-p <- ggplot(pdm_df, aes(x = Blautia, y = `Pancreatectomy`, color = Type)) +
+p <- ggplot(pdm_df, aes(x = Escherichia, y = `Pancreatectomy`, color = Type)) +
   geom_point(size = 2) +
   geom_smooth(method = "lm", se = TRUE) +
   stat_poly_eq(
@@ -329,3 +329,136 @@ pan
 #ggsave(plot=pan,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.svg", height = 5, width = 3, dpi=300)
 #ggsave(plot=pan,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.png", height = 5, width = 3, dpi=300)
 
+########################## logistic regression 
+
+
+
+
+
+g <- ggplot(pdm_df, aes(x = factor(Pancreatectomy, 
+                              levels = c(0, 1),
+                              labels = c("No Pancreatectomy", "Pancreatectomy")),
+                   y = Escherichia,
+                   fill = factor(Pancreatectomy))) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8) +
+  geom_jitter(width = 0.15, alpha = 0.6, size = 2) +
+  stat_compare_means(method = "wilcox.test", label = "p.format") +
+  scale_fill_manual(values = c("0" = "#3A923A", "1" = "#3A923A")) +
+  labs(
+    x = "",
+    y = "Escherichia-Shigella",
+    title = ""
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    legend.position = "none",
+    axis.text.x = element_text(size = 12)
+  )
+g
+
+#ggsave(plot=g,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.svg", height = 3, width = 5, dpi=300)
+#ggsave(plot=g,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_Escherichia-Shigella_Pancreatectomy.png", height = 3, width = 5, dpi=300)
+
+library(ggbeeswarm)
+
+library(ggplot2)
+
+
+library(ggplot2)
+library(broom)
+
+# Fit logistic regression model
+fit <- glm(Pancreatectomy ~ Escherichia, data = pdm_df, family = binomial)
+summary(fit)
+
+# Extract p-value for Escherichia
+pval <- tidy(fit) |>
+  filter(term == "Escherichia") |>
+  pull(p.value)
+
+# Format p-value nicely
+p_label <- ifelse(pval < 0.001, "p < 0.001", paste0("p = ", signif(pval, 3)))
+
+# Plot with p-value annotation
+plog <- ggplot(pdm_df, aes(x = Escherichia, y = Pancreatectomy)) +
+  geom_jitter(height = 0.05, alpha = 0.7, color = "gray40") +
+  stat_smooth(method = "glm",
+              method.args = list(family = binomial),
+              se = TRUE,
+              color = "#E1812C") +
+  labs(
+    x = "Escherichia-Shigella (relative abundance)",
+    y = "Pancreatectomy",
+    title = "Logistic regression"
+  ) +
+  annotate("text", 
+           x = min(pdm_df$Escherichia, na.rm = TRUE), 
+           y = 0.95, 
+           label = p_label, 
+           hjust = 0, size = 4.2) +
+  theme_minimal(base_size = 13)
+
+#ggsave(plot=plog,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/logreg_Escherichia-Shigella_Pancreatectomy.svg", height = 3, width = 5, dpi=300)
+#ggsave(plot=plog,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/logreg_Escherichia-Shigella_Pancreatectomy.png", height = 3, width = 5, dpi=300)
+
+plog
+
+
+pancreatectomy_map <- c(
+  "PDM19" = "Teilresektion links",
+  "PDM12" = "Teilresektion rechts",
+  "PDM20" = "Teilresektion links",
+  "PDM5"  = "Teilresektion links",
+  "PDM16" = "Teilresektion links",
+  "PDM23" = "Teilresektion rechts",
+  "PDM6"  = "Resektion",
+  "PDM8"  = "Teilresektion rechts",
+  "PDM3"  = "Teilresektion links",
+  "PDM9"  = "Resektion",
+  "PDM18" = "Resektion",
+  "PDM4"  = "Teilresektion links"
+)
+
+# Create a new column by mapping from rownames (or another identifier column)
+pdm_df$Pancreatectomy_cat <- pancreatectomy_map[pdm_df$sample_information]
+
+
+
+
+
+# 1) X axis with two columns in fixed order
+pdm_df$Pancreatectomy_x <- factor(
+  ifelse(pdm_df$Pancreatectomy == 1, "Pancreatectomy", "No Pancreatectomy"),
+  levels = c("No Pancreatectomy","Pancreatectomy")
+)
+
+
+
+# 3) Plot
+p <- ggplot(pdm_df, aes(x = Pancreatectomy_x, y = Escherichia)) +
+  # boxplots filled by group (red/blue)
+  geom_boxplot(aes(fill = Pancreatectomy_x),
+               width = 0.35, alpha = 0.2, outlier.shape = NA, color = "black") +
+  # dots colored by Pancreatectomy_cat (include NA -> brown)
+  geom_quasirandom(aes(color = Pancreatectomy_cat),
+                   size = 2, alpha = 1, width = 0.15) +
+  scale_fill_manual(values = c("Pancreatectomy" = "#3A923A",
+                               "No Pancreatectomy" = "#3A923A")) +
+  scale_color_manual(values = c("Teilresektion links" = "#fc8d62",
+                                "Resektion"            = "#25db25",
+                                "Teilresektion rechts" = "#8da0cb"),
+                     na.value = "#636363",
+                     name = "") +
+  labs(x = "", y = "R.abundance Escherichia–Shigella") +
+  theme_minimal(base_size = 13) +
+  guides(fill = "none") +                        # hide box fill legend
+  theme(legend.position = "right")
+
+# Optional: add Wilcoxon p-value comparing the two x groups
+p + stat_compare_means(aes(group = Pancreatectomy_x),
+                       method = "wilcox.test", label = "p.format")
+
+
+
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/pboxplot_Escherichia-Shigella_Pancreatectomy.svg", height = 5, width = 6, dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/pboxplot_Escherichia-Shigella_Pancreatectomy.png", height = 5, width = 6, dpi=300)

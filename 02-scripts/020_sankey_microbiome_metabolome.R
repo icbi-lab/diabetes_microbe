@@ -8,7 +8,7 @@ library(dplyr)
 library(purrr)
 library(rstatix)
 
-df <- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/exchange_fluxes_all_taxa.csv")
+df <- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/exchange_fluxes_all_taxa.csv")
 df <- df[, -1]
 
 
@@ -51,7 +51,7 @@ anno <- map_dfr(ids, get_bigg_metabolite)
 data_keyed <- df %>%
   mutate(bigg_id = str_remove(metabolite, "\\[[^\\]]+\\]$"))
 
-df <- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/materials/exchange_fluxes_all_taxa.csv")
+df <- read_tsv("/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_01/materials/exchange_fluxes_all_taxa.csv")
 df <- df[, -1]
 
 
@@ -110,9 +110,12 @@ g <- ggplot(edges,
 
 g
 
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/sankey_microbiome_metaoblite.svg", plot = g,
-       width = 10, height = 10, units = "in", dpi = 300)
+# Example: Save df as CSV in a specific directory
+#write.csv(edges, file = "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_02/materials/sankey_micrbiome_metabolome_edges.csv", row.names = FALSE)
+
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/sankey_microbiome_metaoblite.svg", plot = g,
+#       width = 10, height = 10, units = "in", dpi = 300)
 
 
-ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/sankey_microbiome_metaoblite.png", plot = g,
-       width =10, height = 10, units = "in", dpi = 300)
+#ggsave("/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/sankey_microbiome_metaoblite.png", plot = g,
+#       width =10, height = 10, units = "in", dpi = 300)

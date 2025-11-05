@@ -181,7 +181,7 @@ c <- conf_mat(results_plot, truth = Type, estimate = .pred_class) %>%
   labs(title = "")
 c
 
-#write_csv(results,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/results_confusuion_matrix_microbial_T1DM_vs_T3cDM.csv")
+write_csv(results_plot,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_02/results_confusuion_matrix_microbial_T1DM_vs_T3cDM.csv")
 
 # figures without suffix _T1DM_vs_T3cDM refer to this comparison
 #ggsave(plot=c,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/confusuion_matrix_microbial_T1DM_vs_T3cDM.svg", height = 3, width = 3, dpi=300)
@@ -261,7 +261,7 @@ p <- ggplot(roc_combined, aes(x = 1 - specificity, y = sensitivity, color = Set)
 
 p
 
-#write_csv(roc_combined,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/roc_curve_train_test_microbial_T1DM_vs_T3cDM.csv")
+write_csv(roc_combined,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_02/roc_curve_train_test_microbial_T1DM_vs_T3cDM.csv")
 
 #ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/roc_curve_train_test_microbial_T1DM_vs_T3cDM.svg", height = 3, width = 3.5, dpi=300)
 #ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/roc_curve_train_test_microbial_T1DM_vs_T3cDM.png", height = 3, width = 3.5, dpi=300)
@@ -334,7 +334,7 @@ lg <- ggplot(plot_df, aes(x = estimate, y = reorder(term_label, estimate))) +
 
 lg
 
-#write_csv(coef_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/supplementary_tables/log_reg/coef_df_log_reg_coefs_microbial_T1DM_vs_T3cDM.csv")
+write_csv(coef_df,"/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_02/coef_df_log_reg_coefs_microbial_T1DM_vs_T3cDM.csv")
 
 #ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.svg", height = 8, width = 8,dpi=300)
 #ggsave(plot=lg,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/log_reg_coefs_microbial_T1DM_vs_T3cDM.png", height = 8, width = 8,dpi=300)

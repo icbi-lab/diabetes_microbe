@@ -7,7 +7,7 @@
    version="1.1"
    id="svg67"
    sodipodi:docname="barplot_lefse_sex_comparison.svg"
-   inkscape:export-filename="barplot_lefse_sex_comparison.png"
+   inkscape:export-filename="../publication_figures/suppl/barplot_lefse_sex_comparison.jpg"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
@@ -28,13 +28,13 @@
      inkscape:export-bgcolor="#ffffffff"
      inkscape:zoom="0.896875"
      inkscape:cx="479.44251"
-     inkscape:cy="337.28223"
+     inkscape:cy="695.19164"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
      inkscape:window-y="7"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g48" />
+     inkscape:current-layer="g67" />
   <defs
      id="defs1">
     <style
@@ -576,7 +576,7 @@
        textLength="388.04001"
        lengthAdjust="spacingAndGlyphs"
        id="text65"
-       transform="translate(73.930613,6.2216048)">LDA SCORE (log10)                                         </text>
+       transform="translate(71.434152,5.3185057)">LDA score (log10)                                       </text>
     <text
        x="429.17999"
        y="707.28998"
@@ -585,7 +585,7 @@
        textLength="388.04001"
        lengthAdjust="spacingAndGlyphs"
        id="text65-6"
-       transform="translate(80.677061,-631.45832)">                                                       p.value &lt; 0.05</text>
+       transform="translate(80.677061,-631.45832)">                                                       p.adj &lt; 0.05</text>
     <rect
        x="650.76495"
        y="11.630582"

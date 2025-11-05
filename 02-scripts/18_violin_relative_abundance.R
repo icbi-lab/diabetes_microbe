@@ -176,3 +176,135 @@ p
 #ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_core_families.png", height = 8, width = 18,dpi=300)
 
 #############################
+
+library(ggplot2)
+library(dplyr)
+library(ggpubr)
+
+target_genera <- c("Enterobacteriaceae","Bacteroidaceae", "Ruminococcaceae", "Streptococcaceae","Rikenellaceae","Lachnospiraceae","Bifidobacteriaceae","Akkermansiaceae")
+
+
+# 1. Filter for the family of interest
+df_bact <- df_genus_clean %>%
+  filter(Family == "Rikenellaceae")
+
+
+# 1) Collapse OTU-level rows to per-sample abundance for Bacteroidaceae
+df_bact_sample <- df_bact %>%
+  group_by(sample_information, Type) %>%
+  summarise(Abundance = sum(Abundance, na.rm = TRUE), .groups = "drop")
+
+# (optional) sanity check
+length(unique(df_bact_sample$sample_information))  # should be ~48
+
+# 2) Boxplot by Type + points per sample + Wilcoxon/Mann–Whitney
+# If you have 3 groups, define pairwise comparisons:
+comps <- list(c("T1DM","T3cDM"), c("T1DM","H"), c("T3cDM","H"))
+
+ggplot(df_bact_sample, aes(x = Type, y = Abundance, fill = Type)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.8) +
+  geom_jitter(aes(color = Type), width = 0.15, size = 1.8, alpha = 0.6, show.legend = FALSE) +
+  stat_compare_means(method = "wilcox.test", label = "p.format", comparisons = comps) +
+  labs(x = "", y = "Bacteroidaceae (relative abundance)") +
+  scale_fill_manual(values = c("T1DM" = "#E1812C", "T3cDM" = "#3A923A", "H" = "blue")) +
+  scale_color_manual(values = c("T1DM" = "#E1812C", "T3cDM" = "#3A923A", "H" = "blue")) +
+  theme_minimal(base_size = 13) +
+  theme(legend.position = "none")
+
+
+##################
+
+library(dplyr)
+library(ggplot2)
+library(ggpubr)
+
+# Target families
+library(dplyr)
+library(ggplot2)
+library(ggpubr)
+
+# Desired plotting order
+target_families <- c(
+  "Akkermansiaceae",
+  "Bacteroidaceae",
+  "Bifidobacteriaceae",
+  "Enterobacteriaceae",
+  "Lachnospiraceae",
+  "Rikenellaceae",
+  "Ruminococcaceae",
+  "Streptococcaceae"
+)
+
+
+df_targets <- df_genus_clean %>%
+  filter(Family %in% target_families) %>%
+  group_by(Family, sample_information, Type) %>%
+  summarise(Abundance = sum(Abundance, na.rm = TRUE), .groups = "drop") %>%
+  mutate(
+    Family = factor(Family, levels = target_families),
+    Type   = factor(Type, levels = c("H","T1DM", "T3cDM" ))
+  )
+
+comps <- list(c("T1DM","T3cDM"), c("T1DM","H"), c("T3cDM","H"))
+
+
+
+p <- ggplot(df_targets, aes(x = Type, y = Abundance, fill = Type)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.85, color = "black") +   # <- black border
+  geom_jitter(
+    shape = 21,                   # circle with border
+    color = "black",              # border color
+    width = 0.15,
+    size = 2,
+    stroke = 0.3,                 # border thickness
+    alpha = 0.8,
+    show.legend = FALSE
+  ) +
+  stat_compare_means(
+    method = "wilcox.test",
+    label = "p.adj.signif",          # show adjusted significance (*, **, ***)
+    comparisons = comps,
+    p.adjust.method = "fdr"          # FDR adjustment per facet
+  ) +
+  facet_wrap(~ Family, ncol = 4, scales = "free_y") +
+  labs(
+    x = "",
+    y = "Relative abundance"
+  ) +
+  scale_fill_manual(values = c(
+    "T1DM" = "#E1812C",
+    "T3cDM" = "#3A923A",
+    "H" = "#3274A1"
+  )) +
+  scale_color_manual(values = c(
+    "T1DM" = "#E1812C",
+    "T3cDM" = "#3A923A",
+    "H" = "#3274A1"
+  )) +
+  theme_minimal(base_size = 13) +
+  theme(
+    legend.position = "none",
+
+  ) +   theme(
+    legend.position = "none",
+    strip.text = element_text(size = 20),
+    axis.text = element_text(size = 12),
+    axis.title = element_text(size = 14),
+    plot.title = element_text(size = 20, face = "bold")
+  )
+
+p
+
+wilcox_results <- df_targets %>%
+  group_by(Family) %>%
+  pairwise_wilcox_test(
+    Abundance ~ Type,
+    p.adjust.method = "fdr"   # Adjusted p-values per family
+  )
+
+
+
+write.csv(wilcox_results, "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_02/wilcoxon_family_comparisons_fdr.csv", row.names = FALSE)
+
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_core_families.svg", height = 8, width = 18,dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/boxplot_core_families.png", height = 8, width = 18,dpi=300)

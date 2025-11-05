@@ -122,6 +122,9 @@ p <- ggplot(df, aes(x = Sample, y = Family, fill = logAbundance)) +
 
 p
 
-ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/heatmap_core_micrbiome.svg", height = 5, width = 18,dpi=300)
-ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/heatmap_core_micriobiome.png", height =5, width = 18,dpi=300)
+# Example: Save df as CSV in a specific directory
+write.csv(df, file = "/data/scratch/kvalem/projects/2024/diabetes_microbe/01-tables/tables_02/core_microbiome.csv", row.names = FALSE)
+
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/heatmap_core_micrbiome.svg", height = 5, width = 18,dpi=300)
+#ggsave(plot=p,"/data/scratch/kvalem/projects/2024/diabetes_microbe/05-results/figures/heatmap_core_micriobiome.png", height =5, width = 18,dpi=300)
 
