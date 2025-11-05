@@ -1,0 +1,61 @@
+"taxon","description","value"
+"Akkermansia","H2O H2O",0.446791156680918
+"Akkermansia","N-Acetylneuraminate",0.446791156680918
+"Akkermansia","D-Galactose",0.400641073178294
+"Akkermansia","Sodium",0.400641073178294
+"Akkermansia","Acetaldehyde",0.375539271419578
+"Akkermansia","D-Glucosamine",0.371437467361981
+"Akkermansia","Ethanol",0.331124545881945
+"Akkermansia",NA,0.316492363498883
+"Akkermansia","Ammonium",0.312198798820481
+"Akkermansia","2-Oxobutanoate",0.311412482783982
+"Blautia","D-Glucosamine",0.355745912540092
+"Blautia","D-Mannose",0.355745912540092
+"Blautia","Acetaldehyde",0.279331807160685
+"Blautia","H+",0.279331807160685
+"Blautia","Cellobiose",0.269254029062858
+"Blautia","D-Fructose",0.269254029062858
+"Blautia","N-Acetyl-D-glucosamine",0.269254029062858
+"Blautia","Trehalose",0.269254029062858
+"Blautia","Glycerol 3-phosphate",0.247141919968998
+"Blautia","Maltose C12H22O11",0.247141919968998
+"Escherichia","Choline C5H14NO",0.754801324503311
+"Escherichia","D-Glucose 6-phosphate",0.754801324503311
+"Escherichia","Glycine betaine",0.754801324503311
+"Escherichia","Trehalose",0.754801324503311
+"Escherichia","Acetaldehyde",0.582333233121048
+"Escherichia","Glycolaldehyde",0.582333233121048
+"Escherichia","Formate",0.494452685373043
+"Escherichia","H+",0.494452685373043
+"Escherichia","(S)-3-Methyl-2-oxopentanoate",0.466256837494957
+"Escherichia","2-Oxoglutarate",0.466256837494957
+"Faecalibacterium","Reduced glutathione",0.221229891859902
+"Faecalibacterium","Acetaldehyde",0.203945853701445
+"Faecalibacterium","Glycerol 3-phosphate",0.191491801398922
+"Faecalibacterium","CO2 CO2",0.188380013524254
+"Faecalibacterium","Ethanol",0.176310433551095
+"Faecalibacterium","Cys Gly C5H10N2O3S",0.173773412235786
+"Faecalibacterium","D-Glucosamine",0.171955074356431
+"Faecalibacterium","Fumarate",0.171955074356431
+"Faecalibacterium","Putrescine",0.171955074356431
+"Faecalibacterium",NA,0.164228810400582
+"Streptococcus","(S)-3-Methyl-2-oxopentanoate",0.175892554600622
+"Streptococcus","2-Oxobutanoate",0.175892554600622
+"Streptococcus","Calcium",0.175892554600622
+"Streptococcus","Chloride",0.175892554600622
+"Streptococcus","Co2+",0.175892554600622
+"Streptococcus","Copper",0.175892554600622
+"Streptococcus","Cys Gly C5H10N2O3S",0.175892554600622
+"Streptococcus","Cytidine",0.175892554600622
+"Streptococcus","Deoxycytidine",0.175892554600622
+"Streptococcus","Deoxyguanosine",0.175892554600622
+"Subdoligranulum","Acetate",0.151461816759558
+"Subdoligranulum","Ammonium",0.151461816759558
+"Subdoligranulum","Butyrate (n-C4:0)",0.151461816759558
+"Subdoligranulum","CO2 CO2",0.151461816759558
+"Subdoligranulum","Calcium",0.151461816759558
+"Subdoligranulum","Chloride",0.151461816759558
+"Subdoligranulum","Co2+",0.151461816759558
+"Subdoligranulum","Copper",0.151461816759558
+"Subdoligranulum","Ethanol",0.151461816759558
+"Subdoligranulum","Fe2+ mitochondria",0.151461816759558
