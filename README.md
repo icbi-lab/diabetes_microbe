@@ -4,9 +4,7 @@
 
 ## The  gut microbiota in diabetes mellitus (T3cDM vs T1DM)
 
-Metagenomic study of the  gut microbiota between patients with pancreoprive diabetes (T3cDM) and type 1 diabetes (T1DM)
-
-This study consists of 48 patients ... 
+We compared the gut microbiota of outpatients with T3cDM, type 1 diabetes (T1DM), and healthy controls using 16S rRNA sequencing and community metabolic modelling. 
 
 ## Repository structure
 
