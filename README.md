@@ -10,13 +10,13 @@ This study consists of 48 patients ...
 
 ## Repository structure
 
-01-tables: Contains initial metadata about samples and data files that are used for downstream analysis. This includes locations of comparative data.
+01-tables: Contains initial input files for preprocessing, main downstream analysis and also supplementary analysis. Contains also statistical results.
 
-02-scripts: Contains all scripts and code notebooks used in the day-to-day analysis during the project. Can optionally include sub-directories for each language (e.g., R, python).
+02-scripts: Contains all the scripts for downstream analysis and producing the figures. 
 
-05-results: Contains figures and final figures
+05-results: Contains final figures
 
-Raw data is uploaded to zenodo here. 
+Raw data is uploaded to zenodo here. https://doi.org/10.5281/zenodo.16794434
 
 ## Dependencies
 
@@ -46,60 +46,73 @@ sbatch 02-scripts/nf-core_ampliseq/run_nf_core_ampliseq.slurm
 
 ## Data anaylsis
 
-- Compositional analysis
-
-```
-02-scripts/01_compositional.R
-```
-
-```
-05-results/figures/compositional_plots_familiy.png
-```
+Figure 1
 
 - Alpha diversity
 
 ```
-02-scripts/04_alpha diversity.R
+02-scripts/Figure1a_alpha_diversity.ipynb
+02-scripts/Figure1a_simpson.R
 ```
 - Beta diversity
 
 ```
-02-scripts/05_beta_diversity.ipynb
+02-scripts/Figure1b_beta_diversity.ipynb
+```
+- Upset plot 
+```
+02-scripts/Figure1c_upsetplot.ipynb
+```
+- PCA
+```
+02-scripts/Figure1d_pca.ipynb
+``` 
+
+Figure 2
+
+- Compositional analysis
+
+```
+02-scripts/Figure2a_compositional.R
+```
+- Core microbiome
+
+```
+02-scripts/Figure2b_core_microbiome_heatmap.R
+02-scripts/Figure2c_violin_relative_abundance.R
 ```
 
+Figure 3
+
 - Microbial logistic regression model 
+
 ```
-02-scripts/06_logistic_regression_H_T1DM.R
-02-scripts/06_logistic_regression_H_T3cDM.R
-02-scripts/06_logistic_regression_T1DM_T3cDM.R
+02-scripts/Figure3abc_logistic_regression_T1DM_T3cDM_CV.R
 ```
+
+- Venn diagram 
+
+```
+02-scripts/Figure3d_venn_diagram.R
+```
+
+- Genera of interest 
+
+```
+02-scripts/Figure3e_violin_relative_abundance_genus.R
+```
+
+
+Figure 4
 
 - Microbial community metabolic modeling
 ```
-02-scripts/materials/08_micom.ipynb
-```
-- Correlation Analyses
-```
-02-scripts/012_zscore_heatmap.R
-02-scripts/013_taxa_clinical_correlation.R
+02-scripts/materials/micom.ipynb
+02-scripts/materials/Figure4a_growthrate_boxplot.R
+02-scripts/materials/Figure4b_metabolome_barplot_all_taxa.R
+02-scripts/materials/Figure4c_metabolome_barplot_eshigella.R
 ```
 
-- Linear discriminant analysis for microbiome data using LEfSe
-
-```
-02-scripts/011_lefse.R
-02-scripts/016_lefse_sex.R
-```
-
-- Linear Regression
-
-```
-02-scripts/014_linear_regression.R
-```
-
-- Longitudinal linear mixed models (LMM)
-```
-02-scripts/015_metadata_analysis.R
 ```
 
 ## Authors
