@@ -1,0 +1,50 @@
+id	KHK1	KHK2	CA1	CA2	Pankreatektomie	HbA1C_diff	Glukose_diff	BMI_diff	KHK_diff	CA_diff	shannon_entropy
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	numeric
+s20011_0048	ja	nein	ja	ja	Teilresektion rechts	increase	increase	increase	resolved	persistent	7.57977458353132
+s20011_0023	ja	ja	ja	ja	nein	decrease	decrease	decrease	persistent	persistent	5.76206650928764
+s20011_0019	nein	nein	nein	nein	nein	decrease	decrease	increase	absent	absent	5.90108494358752
+s20011_0002	ja	ja	nein	nein	nein	increase	decrease	increase	persistent	absent	5.92288227633451
+s20011_0007	ja	ja	nein	nein	nein	decrease	increase	decrease	persistent	absent	6.16695450601612
+s20011_0008	ja	ja	nein	nein	nein	decrease	increase	decrease	persistent	absent	6.18923418451396
+s20011_0003	nein	ja	nein	nein	nein	increase	increase	increase	onset	absent	7.17848672629369
+s20011_0033	ja	ja	nein	nein	nein	decrease	increase	decrease	persistent	absent	6.51349718096946
+s20011_0022	ja	ja	ja	ja	Teilresektion links	decrease	decrease	increase	persistent	persistent	6.32552772185556
+s20011_0018	ja	ja	ja	ja	Teilresektion links	decrease	increase	increase	persistent	persistent	6.19999915100724
+s20011_0014	ja	ja	nein	nein	nein	increase	increase	increase	persistent	absent	7.66523625455024
+s20011_0013	nein	nein	nein	nein	nein	increase	increase	decrease	absent	absent	7.31938511813572
+s20011_0044	nein	nein	nein	ja	nein	increase	decrease	decrease	absent	onset	5.74434840044745
+s20011_0037	nein	nein	nein	nein	nein	increase	decrease	increase	absent	absent	6.43087828465944
+s20011_0041	nein	nein	nein	nein	nein	increase	increase	decrease	absent	absent	6.34206307798664
+s20011_0004	ja	nein	nein	nein	nein	decrease	increase	increase	resolved	absent	6.84933490830883
+s20011_0029	nein	nein	nein	nein	nein	increase	decrease	increase	absent	absent	6.48585845807047
+s20011_0027	ja	ja	nein	nein	Resektion	increase	decrease	increase	persistent	absent	5.62459061280889
+s20011_0010	ja	ja	nein	nein	nein	decrease	decrease	increase	persistent	absent	6.66642971714092
+s20011_0042	nein	nein	nein	nein	nein	decrease	increase	decrease	absent	absent	5.1252255744279
+s20011_0036	nein	ja	nein	nein	Teilresektion rechts	increase	decrease	increase	onset	absent	3.2761802781998
+s20011_0005	nein	nein	nein	nein	nein	decrease	decrease	increase	absent	absent	6.84658167201646
+s20011_0032	nein	nein	nein	nein	nein	increase	increase	decrease	absent	absent	5.77505992359315
+s20011_0046	nein	nein	nein	nein	nein	decrease	decrease	increase	absent	absent	8.47493244813806
+s20011_0015	nein	nein	nein	nein	nein	increase	decrease	increase	absent	absent	7.00738576674332
+s20011_0030	nein	nein	nein	nein	nein	decrease	decrease	increase	absent	absent	6.56730098491347
+s20011_0009	nein	nein	nein	nein	nein	decrease	increase	increase	absent	absent	7.8671933190341
+s20011_0020	ja	ja	nein	nein	nein	increase	increase	decrease	persistent	absent	5.7852177451205
+s20011_0047	nein	nein	nein	nein	nein	increase	increase	increase	absent	absent	7.45528835322448
+s20011_0025	nein	nein	nein	nein	nein	increase	decrease	decrease	absent	absent	6.72591508393488
+s20011_0024	nein	nein	nein	nein	nein	increase	increase	decrease	absent	absent	8.01989204832562
+s20011_0049	nein	nein	nein	nein	nein	increase	decrease	increase	absent	absent	7.39192367794635
+s20011_0040	nein	nein	nein	nein	Resektion	increase	increase	increase	absent	absent	4.59593102537107
+s20011_0028	nein	nein	nein	nein	Resektion	increase	decrease	decrease	absent	absent	5.47653725795745
+s20011_0034	nein	nein	nein	nein	nein	increase	decrease	increase	absent	absent	7.19718747944413
+s20011_0038	nein	nein	nein	nein	nein	increase	increase	increase	absent	absent	5.45124365856737
+s20011_0045	nein	nein	nein	nein	nein	increase	increase	increase	absent	absent	6.99117320647289
+s20011_0017	ja	ja	ja	ja	Teilresektion links	increase	increase	decrease	persistent	persistent	6.72141222397895
+s20011_0001	nein	nein	nein	nein	nein	increase	decrease	increase	absent	absent	5.9936288113868
+s20011_0006	nein	nein	nein	nein	nein	decrease	increase	increase	absent	absent	7.46049468400189
+s20011_0011	nein	nein	nein	nein	nein	increase	increase	decrease	absent	absent	6.50029849056529
+s20011_0016	nein	nein	nein	nein	nein	increase	increase	decrease	absent	absent	6.60138925676123
+s20011_0021	nein	nein	nein	nein	nein	decrease	increase	increase	absent	absent	7.25727702571626
+s20011_0026	nein	nein	nein	nein	nein	increase	increase	decrease	absent	absent	6.74416228865501
+s20011_0031	nein	nein	nein	nein	nein	increase	decrease	increase	absent	absent	5.25763972639461
+s20011_0035	nein	nein	nein	nein	nein	decrease	decrease	increase	absent	absent	8.01135607621721
+s20011_0039	nein	nein	nein	nein	nein	decrease	increase	increase	absent	absent	6.9544833001528
+s20011_0043	nein	nein	nein	nein	nein	decrease	increase	decrease	absent	absent	7.20412078417128

@@ -1,0 +1,49 @@
+sample_id,sample_information,age,KHK1,KHK2,CA1,CA2,HbA1C (DCCT/NGSP)1,HbA1C (DCCT/NGSP)2,Glukose1,Glukose2,BMI1,BMI2,Pankreatektomie,HbA1C_diff,Glukose_diff,BMI_diff,KHK_diff,CA_diff,file,found_taxa,total_taxa,found_fraction,found_abundance_fraction
+s20011_0001,K1,56,nein,nein,nein,nein,5.1,5.2,99,89.0,23.9,24.1,nein,increase,decrease,increase,absent,absent,s20011_0001.pickle,27.0,76.0,0.35526315789473684,0.7859230319623466
+s20011_0002,PDM1,71,ja,ja,nein,nein,6.7,8.2,128,5.3,18.5,18.8,nein,increase,decrease,increase,persistent,absent,s20011_0002.pickle,30.0,59.0,0.5084745762711864,0.784466315709163
+s20011_0003,PDM13,68,nein,ja,nein,nein,7.7,8.7,84,192.0,34.4,36.5,nein,increase,increase,increase,onset,absent,s20011_0003.pickle,34.0,94.0,0.3617021276595745,0.8858191236779625
+s20011_0004,DM1,50,ja,nein,nein,nein,7.4,6.8,111,131.0,28.2,31.9,nein,decrease,increase,increase,resolved,absent,s20011_0004.pickle,27.0,76.0,0.35526315789473684,0.8130914826498422
+s20011_0005,DM13,19,nein,nein,nein,nein,7.5,6.3,106,88.0,18.7,21.2,nein,decrease,decrease,increase,absent,absent,s20011_0005.pickle,34.0,82.0,0.4146341463414634,0.49287422285987564
+s20011_0006,K2,58,nein,nein,nein,nein,4.8,4.8,77,81.0,22.9,23.1,nein,decrease,increase,increase,absent,absent,s20011_0006.pickle,34.0,88.0,0.38636363636363635,0.6940305471739199
+s20011_0007,PDM2,69,ja,ja,nein,nein,7.4,7.2,139,263.0,28.6,26.9,nein,decrease,increase,decrease,persistent,absent,s20011_0007.pickle,27.0,71.0,0.38028169014084506,0.7551300046788316
+s20011_0008,PDM14,69,ja,ja,nein,nein,8.5,8.3,154,275.0,32.1,32.1,nein,decrease,increase,decrease,persistent,absent,s20011_0008.pickle,26.0,55.0,0.4727272727272727,0.866848665911198
+s20011_0009,DM2,51,nein,nein,nein,nein,7.3,7.0,153,180.0,24.4,24.7,nein,decrease,increase,increase,absent,absent,s20011_0009.pickle,39.0,94.0,0.4148936170212766,0.8136079638874771
+s20011_0010,DM14,51,ja,ja,nein,nein,7.3,7.0,153,148.0,19.1,22.9,nein,decrease,decrease,increase,persistent,absent,s20011_0010.pickle,29.0,74.0,0.3918918918918919,0.7900395521140886
+s20011_0011,K3,60,nein,nein,nein,nein,4.7,5.5,59,88.0,24.8,24.6,nein,increase,increase,decrease,absent,absent,s20011_0011.pickle,30.0,69.0,0.43478260869565216,0.8227767622983391
+s20011_0013,PDM15,62,nein,nein,nein,nein,7.6,8.0,152,179.0,21.8,20.1,nein,increase,increase,decrease,absent,absent,s20011_0013.pickle,39.0,102.0,0.38235294117647056,0.7585151055639797
+s20011_0014,DM3,54,ja,ja,nein,nein,7.8,8.4,108,165.0,23.1,23.5,nein,increase,increase,increase,persistent,absent,s20011_0014.pickle,34.0,93.0,0.3655913978494624,0.7626456672911439
+s20011_0015,DM15,31,nein,nein,nein,nein,7.3,8.2,161,145.0,23.7,25.2,nein,increase,decrease,increase,absent,absent,s20011_0015.pickle,35.0,97.0,0.36082474226804123,0.7117807736364435
+s20011_0016,K4,77,nein,nein,nein,nein,5.2,5.4,91,92.0,25.9,24.8,nein,increase,increase,decrease,absent,absent,s20011_0016.pickle,33.0,77.0,0.42857142857142855,0.75
+s20011_0017,PDM4,60,ja,ja,ja,ja,6.3,8.5,106,112.0,26.2,24.5,Teilresektion links,increase,increase,decrease,persistent,persistent,s20011_0017.pickle,36.0,79.0,0.45569620253164556,0.8969661803713528
+s20011_0018,PDM16,66,ja,ja,ja,ja,14.2,10.7,110,120.0,28.2,28.8,Teilresektion links,decrease,increase,increase,persistent,persistent,s20011_0018.pickle,40.0,86.0,0.46511627906976744,0.8930519495986471
+s20011_0019,DM4,39,nein,nein,nein,nein,8.1,7.6,309,92.0,21.6,22.8,nein,decrease,decrease,increase,absent,absent,s20011_0019.pickle,30.0,71.0,0.4225352112676056,0.9255084538103409
+s20011_0020,DM16,61,ja,ja,nein,nein,6.4,7.0,197,257.0,21.1,20.9,nein,increase,increase,decrease,persistent,absent,s20011_0020.pickle,29.0,56.0,0.5178571428571429,0.8993617337093661
+s20011_0021,K5,59,nein,nein,nein,nein,4.9,4.9,87,94.0,21.2,24.5,nein,decrease,increase,increase,absent,absent,s20011_0021.pickle,32.0,89.0,0.3595505617977528,0.7400352043809897
+s20011_0022,PDM5,65,ja,ja,ja,ja,13.2,10.5,598,118.0,26.2,28.2,Teilresektion links,decrease,decrease,increase,persistent,persistent,s20011_0022.pickle,31.0,56.0,0.5535714285714286,0.8327843441193566
+s20011_0023,PDM17,71,ja,ja,ja,ja,8.7,7.7,160,70.0,20.3,20.3,nein,decrease,decrease,decrease,persistent,persistent,s20011_0023.pickle,30.0,78.0,0.38461538461538464,0.816589178626777
+s20011_0024,DM5,43,nein,nein,nein,nein,8.1,8.9,85,88.0,26.1,26.1,nein,increase,increase,decrease,absent,absent,s20011_0024.pickle,43.0,102.0,0.4215686274509804,0.6527021807072374
+s20011_0025,DM17,29,nein,nein,nein,nein,5.9,6.1,100,99.0,22.5,22.1,nein,increase,decrease,decrease,absent,absent,s20011_0025.pickle,33.0,75.0,0.44,0.7573816155988858
+s20011_0026,K6,60,nein,nein,nein,nein,4.0,4.2,94,97.0,23.2,23.2,nein,increase,increase,decrease,absent,absent,s20011_0026.pickle,31.0,80.0,0.3875,0.28621942265332156
+s20011_0027,PDM6,74,ja,ja,nein,nein,8.5,8.6,126,85.0,21.5,22.3,Resektion,increase,decrease,increase,persistent,absent,s20011_0027.pickle,28.0,60.0,0.4666666666666667,0.9011110496932175
+s20011_0028,PDM18,56,nein,nein,nein,nein,6.1,8.1,167,143.0,24.2,22.6,Resektion,increase,decrease,decrease,absent,absent,s20011_0028.pickle,35.0,77.0,0.45454545454545453,0.6980832973050872
+s20011_0029,DM6,52,nein,nein,nein,nein,7.2,7.3,251,193.0,22.8,23.1,nein,increase,decrease,increase,absent,absent,s20011_0029.pickle,24.0,63.0,0.38095238095238093,0.8148911798396334
+s20011_0030,DM18,26,nein,nein,nein,nein,9.6,5.1,322,172.0,20.5,23.9,nein,decrease,decrease,increase,absent,absent,s20011_0030.pickle,29.0,58.0,0.5,0.8971677254062401
+s20011_0031,K7,18,nein,nein,nein,nein,3.9,4.1,95,81.0,22.6,22.8,nein,increase,decrease,increase,absent,absent,s20011_0031.pickle,17.0,38.0,0.4473684210526316,0.8479601518026565
+s20011_0032,PDM7,48,nein,nein,nein,nein,5.7,6.1,91,144.0,21.6,18.2,nein,increase,increase,decrease,absent,absent,s20011_0032.pickle,25.0,76.0,0.32894736842105265,0.7648839849777286
+s20011_0033,DM7,66,ja,ja,nein,nein,6.9,6.7,100,192.0,34.7,34.7,nein,decrease,increase,decrease,persistent,absent,s20011_0033.pickle,28.0,78.0,0.358974358974359,0.3210162213740458
+s20011_0034,DM19,32,nein,nein,nein,nein,6.3,8.0,127,61.0,22.8,23.4,nein,increase,decrease,increase,absent,absent,s20011_0034.pickle,32.0,95.0,0.3368421052631579,0.7436195739111467
+s20011_0035,K8,62,nein,nein,nein,nein,4.1,3.9,88,86.0,24.8,25.1,nein,decrease,decrease,increase,absent,absent,s20011_0035.pickle,36.0,100.0,0.36,0.7373985523141042
+s20011_0036,PDM8,49,nein,ja,nein,nein,8.1,8.9,135,131.0,23.0,24.1,Teilresektion rechts,increase,decrease,increase,onset,absent,s20011_0036.pickle,23.0,45.0,0.5111111111111111,0.9632389761112257
+s20011_0037,DM8,61,nein,nein,nein,nein,7.4,7.9,368,246.0,23.1,23.4,nein,increase,decrease,increase,absent,absent,s20011_0037.pickle,40.0,97.0,0.41237113402061853,0.2529629530987829
+s20011_0038,DM20,50,nein,nein,nein,nein,6.2,6.5,77,115.0,25.8,29.3,nein,increase,increase,increase,absent,absent,s20011_0038.pickle,26.0,57.0,0.45614035087719296,0.8992553505406953
+s20011_0039,K9,67,nein,nein,nein,nein,4.3,4.2,86,87.0,25.1,25.3,nein,decrease,increase,increase,absent,absent,s20011_0039.pickle,33.0,80.0,0.4125,0.7907958687727825
+s20011_0040,PDM9,56,nein,nein,nein,nein,5.7,6.1,120,121.0,18.8,20.5,Resektion,increase,increase,increase,absent,absent,s20011_0040.pickle,29.0,57.0,0.5087719298245614,0.670304263386664
+s20011_0041,DM9,55,nein,nein,nein,nein,6.4,7.0,197,257.0,26.1,25.8,nein,increase,increase,decrease,absent,absent,s20011_0041.pickle,32.0,79.0,0.4050632911392405,0.20314465408805032
+s20011_0042,DM21,53,nein,nein,nein,nein,8.0,7.8,169,199.0,24.4,22.8,nein,decrease,increase,decrease,absent,absent,s20011_0042.pickle,33.0,84.0,0.39285714285714285,0.8721945137157108
+s20011_0043,K10,45,nein,nein,nein,nein,4.4,4.1,79,92.0,24.9,24.1,nein,decrease,increase,decrease,absent,absent,s20011_0043.pickle,36.0,88.0,0.4090909090909091,0.7203006540201088
+s20011_0044,PDM10,62,nein,nein,nein,ja,7.9,8.0,306,183.0,28.7,24.1,nein,increase,decrease,decrease,absent,onset,s20011_0044.pickle,37.0,75.0,0.49333333333333335,0.8158198614318708
+s20011_0045,DM10,30,nein,nein,nein,nein,6.3,8.5,106,112.0,20.8,23.0,nein,increase,increase,increase,absent,absent,s20011_0045.pickle,34.0,88.0,0.38636363636363635,0.72625768410488
+s20011_0046,PDM11,44,nein,nein,nein,nein,10.8,7.6,246,179.0,18.4,18.8,nein,decrease,decrease,increase,absent,absent,s20011_0046.pickle,40.0,111.0,0.36036036036036034,0.45705308875849004
+s20011_0047,DM11,28,nein,nein,nein,nein,7.3,8.1,239,267.0,23.1,25.1,nein,increase,increase,increase,absent,absent,s20011_0047.pickle,38.0,89.0,0.42696629213483145,0.8054630510624801
+s20011_0048,PDM12,75,ja,nein,ja,ja,7.4,8.6,92,303.0,22.6,24.9,Teilresektion rechts,increase,increase,increase,resolved,persistent,s20011_0048.pickle,34.0,79.0,0.43037974683544306,0.7354331675569473
+s20011_0049,DM12,40,nein,nein,nein,nein,7.0,7.5,102,101.0,24.8,25.2,nein,increase,decrease,increase,absent,absent,s20011_0049.pickle,34.0,100.0,0.34,0.7562126265813275
