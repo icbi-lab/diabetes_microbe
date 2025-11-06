@@ -2,7 +2,7 @@
 
 ![Version Badge](https://img.shields.io/badge/Version-1.0.2-brightgreen?style=for-the-badge)
 
-## The  gut microbiota in diabetes mellitus (T3cDM vs T1DM)
+## Escherichia-Shigella Expansion and metabolite dysregulation in type 3c diabetes: linking microbiome alterations to exocrine pancreatic insufficiency
 
 We compared the gut microbiota of outpatients with T3cDM, type 1 diabetes (T1DM), and healthy controls using 16S rRNA sequencing and community metabolic modelling. 
 
