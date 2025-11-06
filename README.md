@@ -14,7 +14,7 @@ We compared the gut microbiota of outpatients with T3cDM, type 1 diabetes (T1DM)
 
 05-results: Contains final figures
 
-Raw data is uploaded to zenodo here. https://doi.org/10.5281/zenodo.16794434
+The data is available here. https://doi.org/10.5281/zenodo.16794434
 
 ## Dependencies
 
